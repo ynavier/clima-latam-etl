@@ -1,0 +1,36 @@
+# Reglas de validación de calidad de datos
+# Se aplican en src/pipeline/validate/rules.py
+
+temperature:
+  min: -80.0   # Mínimo histórico mundial: -89.2°C (Antártida)
+  max: 60.0    # Máximo histórico mundial: 56.7°C (Death Valley)
+
+precipitation:
+  min: 0.0
+  max: 500.0   # mm por día — récord mundial ~1870mm
+
+wind_speed:
+  min: 0.0
+  max: 408.0   # km/h — máximo registrado
+
+humidity:
+  min: 0.0
+  max: 100.0
+
+uv_index:
+  min: 0.0
+  max: 20.0
+
+required_fields:
+  - date
+  - city_name
+  - country_code
+  - latitude
+  - longitude
+  - temperature_max
+  - temperature_min
+  - precipitation_sum
+
+thresholds:
+  max_null_percentage: 10.0    # % máximo de nulos permitido por columna
+  max_duplicate_percentage: 1.0  # % máximo de duplicados permitido

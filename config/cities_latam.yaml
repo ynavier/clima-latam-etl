@@ -1,0 +1,644 @@
+# 100 ciudades de América Latina
+# Fuente de coordenadas: base oficial Open-Meteo
+cities:
+  # México y Centroamérica
+  - name: Ciudad de México
+    country: México
+    country_code: MX
+    region: Norte
+    latitude: 19.4326
+    longitude: -99.1332
+    timezone: America/Mexico_City
+  - name: Guadalajara
+    country: México
+    country_code: MX
+    region: Norte
+    latitude: 20.6597
+    longitude: -103.3496
+    timezone: America/Mexico_City
+  - name: Monterrey
+    country: México
+    country_code: MX
+    region: Norte
+    latitude: 25.6866
+    longitude: -100.3161
+    timezone: America/Mexico_City
+  - name: Cancún
+    country: México
+    country_code: MX
+    region: Norte
+    latitude: 21.1619
+    longitude: -86.8515
+    timezone: America/Mexico_City
+  - name: Ciudad de Guatemala
+    country: Guatemala
+    country_code: GT
+    region: Centroamérica
+    latitude: 14.6349
+    longitude: -90.5069
+    timezone: America/Guatemala
+  - name: San Salvador
+    country: El Salvador
+    country_code: SV
+    region: Centroamérica
+    latitude: 13.6929
+    longitude: -89.2182
+    timezone: America/El_Salvador
+  - name: Tegucigalpa
+    country: Honduras
+    country_code: HN
+    region: Centroamérica
+    latitude: 14.0818
+    longitude: -87.2068
+    timezone: America/Tegucigalpa
+  - name: Managua
+    country: Nicaragua
+    country_code: NI
+    region: Centroamérica
+    latitude: 12.1364
+    longitude: -86.2514
+    timezone: America/Managua
+  - name: San José
+    country: Costa Rica
+    country_code: CR
+    region: Centroamérica
+    latitude: 9.9281
+    longitude: -84.0907
+    timezone: America/Costa_Rica
+  - name: Ciudad de Panamá
+    country: Panamá
+    country_code: PA
+    region: Centroamérica
+    latitude: 8.9943
+    longitude: -79.5188
+    timezone: America/Panama
+
+  # Colombia
+  - name: Bogotá
+    country: Colombia
+    country_code: CO
+    region: Andina
+    latitude: 4.7110
+    longitude: -74.0721
+    timezone: America/Bogota
+  - name: Medellín
+    country: Colombia
+    country_code: CO
+    region: Andina
+    latitude: 6.2518
+    longitude: -75.5636
+    timezone: America/Bogota
+  - name: Cali
+    country: Colombia
+    country_code: CO
+    region: Andina
+    latitude: 3.4516
+    longitude: -76.5320
+    timezone: America/Bogota
+  - name: Barranquilla
+    country: Colombia
+    country_code: CO
+    region: Caribe
+    latitude: 10.9685
+    longitude: -74.7813
+    timezone: America/Bogota
+  - name: Cartagena
+    country: Colombia
+    country_code: CO
+    region: Caribe
+    latitude: 10.3910
+    longitude: -75.4794
+    timezone: America/Bogota
+
+  # Venezuela
+  - name: Caracas
+    country: Venezuela
+    country_code: VE
+    region: Caribe
+    latitude: 10.4806
+    longitude: -66.9036
+    timezone: America/Caracas
+  - name: Maracaibo
+    country: Venezuela
+    country_code: VE
+    region: Caribe
+    latitude: 10.6544
+    longitude: -71.6375
+    timezone: America/Caracas
+  - name: Valencia
+    country: Venezuela
+    country_code: VE
+    region: Caribe
+    latitude: 10.1620
+    longitude: -67.9940
+    timezone: America/Caracas
+
+  # Ecuador
+  - name: Quito
+    country: Ecuador
+    country_code: EC
+    region: Andina
+    latitude: -0.1807
+    longitude: -78.4678
+    timezone: America/Guayaquil
+  - name: Guayaquil
+    country: Ecuador
+    country_code: EC
+    region: Costa
+    latitude: -2.1962
+    longitude: -79.8862
+    timezone: America/Guayaquil
+  - name: Cuenca
+    country: Ecuador
+    country_code: EC
+    region: Andina
+    latitude: -2.9001
+    longitude: -79.0059
+    timezone: America/Guayaquil
+
+  # Perú
+  - name: Lima
+    country: Perú
+    country_code: PE
+    region: Costa
+    latitude: -12.0464
+    longitude: -77.0428
+    timezone: America/Lima
+  - name: Arequipa
+    country: Perú
+    country_code: PE
+    region: Andina
+    latitude: -16.4090
+    longitude: -71.5375
+    timezone: America/Lima
+  - name: Trujillo
+    country: Perú
+    country_code: PE
+    region: Costa
+    latitude: -8.1120
+    longitude: -79.0288
+    timezone: America/Lima
+  - name: Cusco
+    country: Perú
+    country_code: PE
+    region: Andina
+    latitude: -13.5319
+    longitude: -71.9675
+    timezone: America/Lima
+  - name: Iquitos
+    country: Perú
+    country_code: PE
+    region: Amazonía
+    latitude: -3.7491
+    longitude: -73.2538
+    timezone: America/Lima
+
+  # Bolivia
+  - name: La Paz
+    country: Bolivia
+    country_code: BO
+    region: Andina
+    latitude: -16.5000
+    longitude: -68.1500
+    timezone: America/La_Paz
+  - name: Santa Cruz
+    country: Bolivia
+    country_code: BO
+    region: Llanos
+    latitude: -17.7833
+    longitude: -63.1833
+    timezone: America/La_Paz
+  - name: Cochabamba
+    country: Bolivia
+    country_code: BO
+    region: Andina
+    latitude: -17.3895
+    longitude: -66.1568
+    timezone: America/La_Paz
+
+  # Chile
+  - name: Santiago
+    country: Chile
+    country_code: CL
+    region: Centro
+    latitude: -33.4569
+    longitude: -70.6483
+    timezone: America/Santiago
+  - name: Valparaíso
+    country: Chile
+    country_code: CL
+    region: Centro
+    latitude: -33.0472
+    longitude: -71.6127
+    timezone: America/Santiago
+  - name: Concepción
+    country: Chile
+    country_code: CL
+    region: Sur
+    latitude: -36.8270
+    longitude: -73.0503
+    timezone: America/Santiago
+  - name: Antofagasta
+    country: Chile
+    country_code: CL
+    region: Norte
+    latitude: -23.6509
+    longitude: -70.3954
+    timezone: America/Santiago
+  - name: Temuco
+    country: Chile
+    country_code: CL
+    region: Sur
+    latitude: -38.7359
+    longitude: -72.5904
+    timezone: America/Santiago
+  - name: Iquique
+    country: Chile
+    country_code: CL
+    region: Norte
+    latitude: -20.2141
+    longitude: -70.1522
+    timezone: America/Santiago
+
+  # Argentina
+  - name: Buenos Aires
+    country: Argentina
+    country_code: AR
+    region: Pampeana
+    latitude: -34.6037
+    longitude: -58.3816
+    timezone: America/Argentina/Buenos_Aires
+  - name: Córdoba
+    country: Argentina
+    country_code: AR
+    region: Centro
+    latitude: -31.4201
+    longitude: -64.1888
+    timezone: America/Argentina/Cordoba
+  - name: Rosario
+    country: Argentina
+    country_code: AR
+    region: Pampeana
+    latitude: -32.9442
+    longitude: -60.6505
+    timezone: America/Argentina/Buenos_Aires
+  - name: Mendoza
+    country: Argentina
+    country_code: AR
+    region: Cuyo
+    latitude: -32.8908
+    longitude: -68.8272
+    timezone: America/Argentina/Mendoza
+  - name: Tucumán
+    country: Argentina
+    country_code: AR
+    region: NOA
+    latitude: -26.8241
+    longitude: -65.2226
+    timezone: America/Argentina/Tucuman
+  - name: Mar del Plata
+    country: Argentina
+    country_code: AR
+    region: Pampeana
+    latitude: -38.0023
+    longitude: -57.5575
+    timezone: America/Argentina/Buenos_Aires
+  - name: Salta
+    country: Argentina
+    country_code: AR
+    region: NOA
+    latitude: -24.7821
+    longitude: -65.4232
+    timezone: America/Argentina/Salta
+  - name: Bariloche
+    country: Argentina
+    country_code: AR
+    region: Patagonia
+    latitude: -41.1335
+    longitude: -71.3103
+    timezone: America/Argentina/Buenos_Aires
+
+  # Paraguay
+  - name: Asunción
+    country: Paraguay
+    country_code: PY
+    region: Sur
+    latitude: -25.2867
+    longitude: -57.6470
+    timezone: America/Asuncion
+  - name: Ciudad del Este
+    country: Paraguay
+    country_code: PY
+    region: Este
+    latitude: -25.5097
+    longitude: -54.6106
+    timezone: America/Asuncion
+
+  # Uruguay
+  - name: Montevideo
+    country: Uruguay
+    country_code: UY
+    region: Sur
+    latitude: -34.9011
+    longitude: -56.1645
+    timezone: America/Montevideo
+  - name: Punta del Este
+    country: Uruguay
+    country_code: UY
+    region: Sur
+    latitude: -34.9721
+    longitude: -54.9377
+    timezone: America/Montevideo
+
+  # Brasil
+  - name: São Paulo
+    country: Brasil
+    country_code: BR
+    region: Sudeste
+    latitude: -23.5505
+    longitude: -46.6333
+    timezone: America/Sao_Paulo
+  - name: Río de Janeiro
+    country: Brasil
+    country_code: BR
+    region: Sudeste
+    latitude: -22.9068
+    longitude: -43.1729
+    timezone: America/Sao_Paulo
+  - name: Brasília
+    country: Brasil
+    country_code: BR
+    region: Centro-Oeste
+    latitude: -15.7801
+    longitude: -47.9292
+    timezone: America/Sao_Paulo
+  - name: Salvador
+    country: Brasil
+    country_code: BR
+    region: Nordeste
+    latitude: -12.9714
+    longitude: -38.5014
+    timezone: America/Bahia
+  - name: Fortaleza
+    country: Brasil
+    country_code: BR
+    region: Nordeste
+    latitude: -3.7172
+    longitude: -38.5433
+    timezone: America/Fortaleza
+  - name: Belo Horizonte
+    country: Brasil
+    country_code: BR
+    region: Sudeste
+    latitude: -19.9167
+    longitude: -43.9345
+    timezone: America/Sao_Paulo
+  - name: Manaus
+    country: Brasil
+    country_code: BR
+    region: Norte
+    latitude: -3.1190
+    longitude: -60.0217
+    timezone: America/Manaus
+  - name: Curitiba
+    country: Brasil
+    country_code: BR
+    region: Sul
+    latitude: -25.4297
+    longitude: -49.2711
+    timezone: America/Sao_Paulo
+  - name: Recife
+    country: Brasil
+    country_code: BR
+    region: Nordeste
+    latitude: -8.0539
+    longitude: -34.8811
+    timezone: America/Recife
+  - name: Porto Alegre
+    country: Brasil
+    country_code: BR
+    region: Sul
+    latitude: -30.0346
+    longitude: -51.2177
+    timezone: America/Sao_Paulo
+  - name: Belém
+    country: Brasil
+    country_code: BR
+    region: Norte
+    latitude: -1.4558
+    longitude: -48.5044
+    timezone: America/Belem
+  - name: Florianópolis
+    country: Brasil
+    country_code: BR
+    region: Sul
+    latitude: -27.5954
+    longitude: -48.5480
+    timezone: America/Sao_Paulo
+
+  # Caribe
+  - name: La Habana
+    country: Cuba
+    country_code: CU
+    region: Caribe
+    latitude: 23.1136
+    longitude: -82.3666
+    timezone: America/Havana
+  - name: Santo Domingo
+    country: Rep. Dominicana
+    country_code: DO
+    region: Caribe
+    latitude: 18.4861
+    longitude: -69.9312
+    timezone: America/Santo_Domingo
+  - name: San Juan
+    country: Puerto Rico
+    country_code: PR
+    region: Caribe
+    latitude: 18.4655
+    longitude: -66.1057
+    timezone: America/Puerto_Rico
+  - name: Puerto Príncipe
+    country: Haití
+    country_code: HT
+    region: Caribe
+    latitude: 18.5425
+    longitude: -72.3386
+    timezone: America/Port-au-Prince
+  - name: Kingston
+    country: Jamaica
+    country_code: JM
+    region: Caribe
+    latitude: 17.9714
+    longitude: -76.7930
+    timezone: America/Jamaica
+
+  # Más ciudades importantes
+  - name: Puebla
+    country: México
+    country_code: MX
+    region: Norte
+    latitude: 19.0414
+    longitude: -98.2063
+    timezone: America/Mexico_City
+  - name: Tijuana
+    country: México
+    country_code: MX
+    region: Norte
+    latitude: 32.5027
+    longitude: -117.0037
+    timezone: America/Tijuana
+  - name: León
+    country: México
+    country_code: MX
+    region: Norte
+    latitude: 21.1221
+    longitude: -101.6823
+    timezone: America/Mexico_City
+  - name: Mérida
+    country: México
+    country_code: MX
+    region: Norte
+    latitude: 20.9674
+    longitude: -89.5926
+    timezone: America/Mexico_City
+  - name: Maracay
+    country: Venezuela
+    country_code: VE
+    region: Caribe
+    latitude: 10.2469
+    longitude: -67.5958
+    timezone: America/Caracas
+  - name: Barquisimeto
+    country: Venezuela
+    country_code: VE
+    region: Caribe
+    latitude: 10.0647
+    longitude: -69.3474
+    timezone: America/Caracas
+  - name: Pereira
+    country: Colombia
+    country_code: CO
+    region: Andina
+    latitude: 4.8133
+    longitude: -75.6961
+    timezone: America/Bogota
+  - name: Bucaramanga
+    country: Colombia
+    country_code: CO
+    region: Andina
+    latitude: 7.1193
+    longitude: -73.1227
+    timezone: America/Bogota
+  - name: Piura
+    country: Perú
+    country_code: PE
+    region: Costa
+    latitude: -5.1945
+    longitude: -80.6328
+    timezone: America/Lima
+  - name: Chiclayo
+    country: Perú
+    country_code: PE
+    region: Costa
+    latitude: -6.7714
+    longitude: -79.8409
+    timezone: America/Lima
+  - name: Arica
+    country: Chile
+    country_code: CL
+    region: Norte
+    latitude: -18.4783
+    longitude: -70.3126
+    timezone: America/Santiago
+  - name: La Serena
+    country: Chile
+    country_code: CL
+    region: Norte
+    latitude: -29.9027
+    longitude: -71.2519
+    timezone: America/Santiago
+  - name: Posadas
+    country: Argentina
+    country_code: AR
+    region: NEA
+    latitude: -27.3671
+    longitude: -55.8960
+    timezone: America/Argentina/Buenos_Aires
+  - name: Resistencia
+    country: Argentina
+    country_code: AR
+    region: NEA
+    latitude: -27.4510
+    longitude: -58.9860
+    timezone: America/Argentina/Buenos_Aires
+  - name: Goiânia
+    country: Brasil
+    country_code: BR
+    region: Centro-Oeste
+    latitude: -16.6869
+    longitude: -49.2648
+    timezone: America/Sao_Paulo
+  - name: Campo Grande
+    country: Brasil
+    country_code: BR
+    region: Centro-Oeste
+    latitude: -20.4697
+    longitude: -54.6201
+    timezone: America/Campo_Grande
+  - name: Natal
+    country: Brasil
+    country_code: BR
+    region: Nordeste
+    latitude: -5.7945
+    longitude: -35.2110
+    timezone: America/Fortaleza
+  - name: Maceió
+    country: Brasil
+    country_code: BR
+    region: Nordeste
+    latitude: -9.6658
+    longitude: -35.7350
+    timezone: America/Maceio
+  - name: Teresina
+    country: Brasil
+    country_code: BR
+    region: Nordeste
+    latitude: -5.0892
+    longitude: -42.8019
+    timezone: America/Fortaleza
+  - name: São Luís
+    country: Brasil
+    country_code: BR
+    region: Nordeste
+    latitude: -2.5364
+    longitude: -44.3068
+    timezone: America/Fortaleza
+  - name: Porto Velho
+    country: Brasil
+    country_code: BR
+    region: Norte
+    latitude: -8.7612
+    longitude: -63.9004
+    timezone: America/Porto_Velho
+  - name: Macapá
+    country: Brasil
+    country_code: BR
+    region: Norte
+    latitude: 0.0349
+    longitude: -51.0694
+    timezone: America/Belem
+  - name: Boa Vista
+    country: Brasil
+    country_code: BR
+    region: Norte
+    latitude: 2.8235
+    longitude: -60.6758
+    timezone: America/Boa_Vista
+  - name: Vitória
+    country: Brasil
+    country_code: BR
+    region: Sudeste
+    latitude: -20.3155
+    longitude: -40.3128
+    timezone: America/Sao_Paulo

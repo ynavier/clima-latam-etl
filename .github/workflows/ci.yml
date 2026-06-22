@@ -1,0 +1,46 @@
+name: CI Pipeline
+
+on:
+  push:
+    branches: [main, develop]
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    name: Lint + Tests
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout código
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Lint con ruff
+        run: ruff check src/ tests/
+
+      - name: Verificar formato
+        run: ruff format --check src/ tests/
+
+      - name: Type checking con mypy
+        run: mypy src/ --ignore-missing-imports
+
+      - name: Ejecutar tests unitarios
+        env:
+          GCP_PROJECT_ID: "test-project"
+          ENVIRONMENT: "local"
+        run: pytest tests/unit/ -v --cov=src --cov-report=xml
+
+      - name: Subir reporte de cobertura
+        uses: codecov/codecov-action@v4
+        with:
+          file: ./coverage.xml
+          fail_ci_if_error: false

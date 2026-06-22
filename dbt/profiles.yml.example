@@ -1,0 +1,14 @@
+# Copia este archivo como ~/.dbt/profiles.yml y completa tu project_id
+# NO guardes profiles.yml en el repo — contiene credenciales
+
+clima_latam:
+  target: dev
+  outputs:
+    dev:
+      type: bigquery
+      method: oauth                  # Usa: gcloud auth application-default login
+      project: TU_PROJECT_ID         # Reemplaza con tu GCP Project ID
+      dataset: weather_mart
+      location: US
+      threads: 4
+      timeout_seconds: 300

@@ -1,0 +1,22 @@
+version: 2
+
+sources:
+  - name: weather_clean
+    database: "{{ env_var('GCP_PROJECT_ID') }}"
+    schema: weather_clean
+    tables:
+      - name: fact_weather
+        description: "Datos climáticos limpios cargados por el pipeline ETL"
+        columns:
+          - name: date
+            description: "Fecha del dato climático"
+            tests:
+              - not_null
+          - name: city_name
+            description: "Nombre de la ciudad"
+            tests:
+              - not_null
+          - name: country_code
+            description: "Código ISO del país (2 letras)"
+            tests:
+              - not_null

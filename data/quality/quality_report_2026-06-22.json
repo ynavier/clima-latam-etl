@@ -1,0 +1,53 @@
+{
+  "extraction_date": "2026-06-22",
+  "total_rows": 680,
+  "valid_rows": 680,
+  "invalid_rows": 0,
+  "null_percentage": 0.0,
+  "duplicate_count": 0,
+  "overall_passed": true,
+  "checks": [
+    {
+      "name": "required_fields",
+      "passed": true,
+      "detail": "Todos los campos requeridos presentes",
+      "affected_rows": 0
+    },
+    {
+      "name": "temperature_range",
+      "passed": true,
+      "detail": "Temperaturas en rango válido",
+      "affected_rows": 0
+    },
+    {
+      "name": "precipitation_range",
+      "passed": true,
+      "detail": "Precipitación en rango válido",
+      "affected_rows": 0
+    },
+    {
+      "name": "no_future_dates",
+      "passed": true,
+      "detail": "Sin fechas futuras",
+      "affected_rows": 0
+    },
+    {
+      "name": "no_duplicates",
+      "passed": true,
+      "detail": "Sin duplicados",
+      "affected_rows": 0
+    },
+    {
+      "name": "null_percentage",
+      "passed": true,
+      "detail": "Nulos: 0.0% (máximo permitido: 10.0%)",
+      "affected_rows": 0
+    },
+    {
+      "name": "temperature_consistency",
+      "passed": true,
+      "detail": "Temperaturas consistentes (min <= max)",
+      "affected_rows": 0
+    }
+  ]
+}

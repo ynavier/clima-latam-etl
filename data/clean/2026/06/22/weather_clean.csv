@@ -1,0 +1,681 @@
+date,city_name,country,country_code,region,latitude,longitude,timezone,temperature_max,temperature_min,temperature_mean,precipitation_sum,precipitation_hours,wind_speed_max,wind_direction,humidity_max,humidity_min,uv_index_max,weather_code,sunrise,sunset,weather_description,temperature_range,humidity_mean,precipitation_category,temperature_category
+2026-06-15,Ciudad de México,México,MX,Norte,19.4326,-99.1332,America/Mexico_City,24.4,13.8,18.8,2.5,7.0,7.7,102,97,39,9.2,55,2026-06-15T05:58,2026-06-15T19:15,Llovizna intensa,10.6,68.0,Leve,Templado
+2026-06-16,Ciudad de México,México,MX,Norte,19.4326,-99.1332,America/Mexico_City,24.7,14.5,18.3,7.2,9.0,11.8,129,95,34,9.2,81,2026-06-16T05:58,2026-06-16T19:16,Chubascos moderados,10.2,64.5,Moderada,Templado
+2026-06-17,Ciudad de México,México,MX,Norte,19.4326,-99.1332,America/Mexico_City,23.5,14.4,17.7,9.0,11.0,10.1,135,94,38,8.7,95,2026-06-17T05:58,2026-06-17T19:16,Tormenta eléctrica,9.1,66.0,Moderada,Templado
+2026-06-18,Ciudad de México,México,MX,Norte,19.4326,-99.1332,America/Mexico_City,25.1,13.2,18.4,9.0,11.0,13.6,120,97,36,9.7,95,2026-06-18T05:58,2026-06-18T19:16,Tormenta eléctrica,11.9,66.5,Moderada,Templado
+2026-06-19,Ciudad de México,México,MX,Norte,19.4326,-99.1332,America/Mexico_City,24.6,14.6,18.2,10.2,11.0,11.9,120,98,45,9.5,95,2026-06-19T05:58,2026-06-19T19:16,Tormenta eléctrica,10.0,71.5,Moderada,Templado
+2026-06-20,Ciudad de México,México,MX,Norte,19.4326,-99.1332,America/Mexico_City,24.1,14.3,18.4,4.1,8.0,12.3,143,93,36,8.0,80,2026-06-20T05:58,2026-06-20T19:17,Chubascos leves,9.8,64.5,Leve,Templado
+2026-06-21,Ciudad de México,México,MX,Norte,19.4326,-99.1332,America/Mexico_City,24.0,13.7,18.7,0.2,2.0,11.0,116,91,33,8.9,51,2026-06-21T05:59,2026-06-21T19:17,Llovizna leve,10.3,62.0,Leve,Templado
+2026-06-22,Ciudad de México,México,MX,Norte,19.4326,-99.1332,America/Mexico_City,25.9,13.3,19.1,3.4,13.0,10.7,276,94,32,9.2,53,2026-06-22T05:59,2026-06-22T19:17,Llovizna moderada,12.6,63.0,Leve,Templado
+2026-06-15,Guadalajara,México,MX,Norte,20.6597,-103.3496,America/Mexico_City,27.0,17.7,21.9,0.5,5.0,11.5,252,96,43,9.4,51,2026-06-15T06:12,2026-06-15T19:35,Llovizna leve,9.3,69.5,Leve,Cálido
+2026-06-16,Guadalajara,México,MX,Norte,20.6597,-103.3496,America/Mexico_City,26.9,17.9,22.2,3.0,8.0,15.4,250,94,44,9.5,95,2026-06-16T06:12,2026-06-16T19:35,Tormenta eléctrica,9.0,69.0,Leve,Cálido
+2026-06-17,Guadalajara,México,MX,Norte,20.6597,-103.3496,America/Mexico_City,26.2,18.5,22.0,2.0,6.0,10.4,260,89,41,9.5,53,2026-06-17T06:12,2026-06-17T19:35,Llovizna moderada,7.7,65.0,Leve,Cálido
+2026-06-18,Guadalajara,México,MX,Norte,20.6597,-103.3496,America/Mexico_City,27.6,18.5,22.3,3.8,7.0,11.4,260,90,45,9.4,80,2026-06-18T06:13,2026-06-18T19:36,Chubascos leves,9.1,67.5,Leve,Cálido
+2026-06-19,Guadalajara,México,MX,Norte,20.6597,-103.3496,America/Mexico_City,27.5,18.0,21.0,16.3,14.0,13.6,224,97,43,9.4,96,2026-06-19T06:13,2026-06-19T19:36,Tormenta con granizo leve,9.5,70.0,Moderada,Cálido
+2026-06-20,Guadalajara,México,MX,Norte,20.6597,-103.3496,America/Mexico_City,22.1,17.4,19.5,22.9,23.0,7.5,156,99,74,8.4,96,2026-06-20T06:13,2026-06-20T19:36,Tormenta con granizo leve,4.7,86.5,Fuerte,Templado
+2026-06-21,Guadalajara,México,MX,Norte,20.6597,-103.3496,America/Mexico_City,24.8,17.4,20.1,7.9,11.0,9.9,130,98,57,6.6,96,2026-06-21T06:13,2026-06-21T19:36,Tormenta con granizo leve,7.4,77.5,Moderada,Cálido
+2026-06-22,Guadalajara,México,MX,Norte,20.6597,-103.3496,America/Mexico_City,26.3,17.3,21.0,1.7,10.0,9.4,121,95,45,9.4,51,2026-06-22T06:14,2026-06-22T19:36,Llovizna leve,9.0,70.0,Leve,Cálido
+2026-06-15,Monterrey,México,MX,Norte,25.6866,-100.3161,America/Mexico_City,29.2,23.4,25.2,72.0,4.0,16.9,43,95,69,7.2,95,2026-06-15T05:49,2026-06-15T19:33,Tormenta eléctrica,5.8,82.0,Muy fuerte,Cálido
+2026-06-16,Monterrey,México,MX,Norte,25.6866,-100.3161,America/Mexico_City,33.1,21.8,27.2,0.4,1.0,16.9,80,95,44,8.8,95,2026-06-16T05:49,2026-06-16T19:34,Tormenta eléctrica,11.3,69.5,Leve,Cálido
+2026-06-17,Monterrey,México,MX,Norte,25.6866,-100.3161,America/Mexico_City,37.5,23.3,30.3,0.0,0.0,14.1,106,92,39,8.8,95,2026-06-17T05:50,2026-06-17T19:34,Tormenta eléctrica,14.2,65.5,Sin lluvia,Muy cálido
+2026-06-18,Monterrey,México,MX,Norte,25.6866,-100.3161,America/Mexico_City,44.7,26.2,35.2,0.0,0.0,26.9,47,71,15,8.8,95,2026-06-18T05:50,2026-06-18T19:34,Tormenta eléctrica,18.5,43.0,Sin lluvia,Muy cálido
+2026-06-19,Monterrey,México,MX,Norte,25.6866,-100.3161,America/Mexico_City,37.2,21.1,28.2,41.5,4.0,44.1,38,100,48,7.8,95,2026-06-19T05:50,2026-06-19T19:34,Tormenta eléctrica,16.1,74.0,Fuerte,Cálido
+2026-06-20,Monterrey,México,MX,Norte,25.6866,-100.3161,America/Mexico_City,29.3,21.5,24.9,0.0,0.0,13.7,94,96,67,8.8,95,2026-06-20T05:50,2026-06-20T19:35,Tormenta eléctrica,7.8,81.5,Sin lluvia,Cálido
+2026-06-21,Monterrey,México,MX,Norte,25.6866,-100.3161,America/Mexico_City,33.7,22.6,27.8,0.0,0.0,18.8,98,97,54,8.6,95,2026-06-21T05:50,2026-06-21T19:35,Tormenta eléctrica,11.1,75.5,Sin lluvia,Cálido
+2026-06-22,Monterrey,México,MX,Norte,25.6866,-100.3161,America/Mexico_City,35.8,24.6,29.2,0.0,0.0,25.0,102,96,40,8.8,95,2026-06-22T05:51,2026-06-22T19:35,Tormenta eléctrica,11.2,68.0,Sin lluvia,Cálido
+2026-06-15,Ciudad de Guatemala,Guatemala,GT,Centroamérica,14.6349,-90.5069,America/Guatemala,27.4,16.4,20.4,3.1,6.0,10.4,42,100,43,9.3,55,2026-06-15T05:32,2026-06-15T18:32,Llovizna intensa,11.0,71.5,Leve,Cálido
+2026-06-16,Ciudad de Guatemala,Guatemala,GT,Centroamérica,14.6349,-90.5069,America/Guatemala,26.4,16.4,20.1,0.2,1.0,19.0,187,100,46,9.2,51,2026-06-16T05:33,2026-06-16T18:32,Llovizna leve,10.0,73.0,Leve,Cálido
+2026-06-17,Ciudad de Guatemala,Guatemala,GT,Centroamérica,14.6349,-90.5069,America/Guatemala,25.9,17.3,20.6,1.5,6.0,17.1,180,100,47,8.7,51,2026-06-17T05:33,2026-06-17T18:32,Llovizna leve,8.6,73.5,Leve,Cálido
+2026-06-18,Ciudad de Guatemala,Guatemala,GT,Centroamérica,14.6349,-90.5069,America/Guatemala,26.0,16.9,20.5,1.2,6.0,19.8,185,91,45,9.2,53,2026-06-18T05:33,2026-06-18T18:32,Llovizna moderada,9.1,68.0,Leve,Cálido
+2026-06-19,Ciudad de Guatemala,Guatemala,GT,Centroamérica,14.6349,-90.5069,America/Guatemala,26.4,14.4,20.3,2.9,8.0,17.1,182,98,43,8.9,53,2026-06-19T05:33,2026-06-19T18:33,Llovizna moderada,12.0,70.5,Leve,Cálido
+2026-06-20,Ciudad de Guatemala,Guatemala,GT,Centroamérica,14.6349,-90.5069,America/Guatemala,26.4,14.8,20.5,3.1,4.0,14.4,61,99,39,9.2,80,2026-06-20T05:33,2026-06-20T18:33,Chubascos leves,11.6,69.0,Leve,Cálido
+2026-06-21,Ciudad de Guatemala,Guatemala,GT,Centroamérica,14.6349,-90.5069,America/Guatemala,25.7,16.0,19.7,3.4,6.0,12.7,38,97,43,9.0,80,2026-06-21T05:34,2026-06-21T18:33,Chubascos leves,9.7,70.0,Leve,Templado
+2026-06-22,Ciudad de Guatemala,Guatemala,GT,Centroamérica,14.6349,-90.5069,America/Guatemala,24.2,16.4,18.7,30.6,14.0,10.1,7,100,58,8.8,96,2026-06-22T05:34,2026-06-22T18:33,Tormenta con granizo leve,7.8,79.0,Fuerte,Templado
+2026-06-15,San Salvador,El Salvador,SV,Centroamérica,13.6929,-89.2182,America/El_Salvador,30.7,21.0,24.0,5.8,14.0,10.7,347,100,48,7.7,95,2026-06-15T05:29,2026-06-15T18:25,Tormenta eléctrica,9.7,74.0,Moderada,Cálido
+2026-06-16,San Salvador,El Salvador,SV,Centroamérica,13.6929,-89.2182,America/El_Salvador,28.8,20.9,23.5,7.3,15.0,10.3,179,99,57,8.4,95,2026-06-16T05:29,2026-06-16T18:25,Tormenta eléctrica,7.9,78.0,Moderada,Cálido
+2026-06-17,San Salvador,El Salvador,SV,Centroamérica,13.6929,-89.2182,America/El_Salvador,28.3,20.9,24.0,1.6,3.0,10.1,188,98,57,8.2,55,2026-06-17T05:29,2026-06-17T18:25,Llovizna intensa,7.4,77.5,Leve,Cálido
+2026-06-18,San Salvador,El Salvador,SV,Centroamérica,13.6929,-89.2182,America/El_Salvador,27.7,21.1,23.7,1.4,8.0,10.4,179,98,59,7.4,51,2026-06-18T05:29,2026-06-18T18:25,Llovizna leve,6.6,78.5,Leve,Cálido
+2026-06-19,San Salvador,El Salvador,SV,Centroamérica,13.6929,-89.2182,America/El_Salvador,28.0,21.3,24.1,2.0,7.0,12.0,152,93,60,7.4,53,2026-06-19T05:30,2026-06-19T18:26,Llovizna moderada,6.7,76.5,Leve,Cálido
+2026-06-20,San Salvador,El Salvador,SV,Centroamérica,13.6929,-89.2182,America/El_Salvador,29.5,20.8,24.2,11.9,4.0,9.0,66,99,52,8.7,96,2026-06-20T05:30,2026-06-20T18:26,Tormenta con granizo leve,8.7,75.5,Moderada,Cálido
+2026-06-21,San Salvador,El Salvador,SV,Centroamérica,13.6929,-89.2182,America/El_Salvador,29.3,20.8,24.1,5.7,13.0,10.1,15,98,53,8.8,95,2026-06-21T05:30,2026-06-21T18:26,Tormenta eléctrica,8.5,75.5,Moderada,Cálido
+2026-06-22,San Salvador,El Salvador,SV,Centroamérica,13.6929,-89.2182,America/El_Salvador,25.7,21.2,23.2,12.0,8.0,10.4,7,98,73,8.8,96,2026-06-22T05:30,2026-06-22T18:26,Tormenta con granizo leve,4.5,85.5,Moderada,Cálido
+2026-06-15,Tegucigalpa,Honduras,HN,Centroamérica,14.0818,-87.2068,America/Tegucigalpa,28.0,19.6,23.8,2.1,13.0,10.4,4,100,66,9.2,95,2026-06-15T05:20,2026-06-15T18:18,Tormenta eléctrica,8.4,83.0,Leve,Cálido
+2026-06-16,Tegucigalpa,Honduras,HN,Centroamérica,14.0818,-87.2068,America/Tegucigalpa,29.5,20.2,23.4,2.8,11.0,9.1,109,100,55,8.6,53,2026-06-16T05:21,2026-06-16T18:18,Llovizna moderada,9.3,77.5,Leve,Cálido
+2026-06-17,Tegucigalpa,Honduras,HN,Centroamérica,14.0818,-87.2068,America/Tegucigalpa,29.2,20.2,23.8,1.7,7.0,12.7,162,100,53,8.4,53,2026-06-17T05:21,2026-06-17T18:18,Llovizna moderada,9.0,76.5,Leve,Cálido
+2026-06-18,Tegucigalpa,Honduras,HN,Centroamérica,14.0818,-87.2068,America/Tegucigalpa,30.3,17.5,23.0,1.6,3.0,11.3,155,100,47,9.1,53,2026-06-18T05:21,2026-06-18T18:18,Llovizna moderada,12.8,73.5,Leve,Cálido
+2026-06-19,Tegucigalpa,Honduras,HN,Centroamérica,14.0818,-87.2068,America/Tegucigalpa,30.1,17.1,22.9,2.6,5.0,10.5,121,100,51,8.4,55,2026-06-19T05:21,2026-06-19T18:19,Llovizna intensa,13.0,75.5,Leve,Cálido
+2026-06-20,Tegucigalpa,Honduras,HN,Centroamérica,14.0818,-87.2068,America/Tegucigalpa,29.4,17.5,21.8,6.0,11.0,18.0,9,100,50,9.2,80,2026-06-20T05:21,2026-06-20T18:19,Chubascos leves,11.9,75.0,Moderada,Cálido
+2026-06-21,Tegucigalpa,Honduras,HN,Centroamérica,14.0818,-87.2068,America/Tegucigalpa,27.6,18.1,22.1,6.0,9.0,11.8,15,100,61,9.0,95,2026-06-21T05:22,2026-06-21T18:19,Tormenta eléctrica,9.5,80.5,Moderada,Cálido
+2026-06-22,Tegucigalpa,Honduras,HN,Centroamérica,14.0818,-87.2068,America/Tegucigalpa,28.2,19.2,22.1,3.4,12.0,9.8,10,100,57,8.1,53,2026-06-22T05:22,2026-06-22T18:19,Llovizna moderada,9.0,78.5,Leve,Cálido
+2026-06-15,Managua,Nicaragua,NI,Centroamérica,12.1364,-86.2514,America/Managua,31.1,23.9,28.0,7.1,12.0,21.1,105,96,65,7.1,95,2026-06-15T05:20,2026-06-15T18:10,Tormenta eléctrica,7.2,80.5,Moderada,Cálido
+2026-06-16,Managua,Nicaragua,NI,Centroamérica,12.1364,-86.2514,America/Managua,31.4,25.8,28.4,0.8,5.0,15.1,108,90,60,7.2,51,2026-06-16T05:20,2026-06-16T18:10,Llovizna leve,5.6,75.0,Leve,Cálido
+2026-06-17,Managua,Nicaragua,NI,Centroamérica,12.1364,-86.2514,America/Managua,32.5,25.4,28.1,3.1,6.0,20.8,103,96,57,7.8,95,2026-06-17T05:20,2026-06-17T18:11,Tormenta eléctrica,7.1,76.5,Leve,Cálido
+2026-06-18,Managua,Nicaragua,NI,Centroamérica,12.1364,-86.2514,America/Managua,32.2,24.8,28.3,0.0,0.0,20.7,108,88,54,8.4,3,2026-06-18T05:21,2026-06-18T18:11,Nublado,7.4,71.0,Sin lluvia,Cálido
+2026-06-19,Managua,Nicaragua,NI,Centroamérica,12.1364,-86.2514,America/Managua,33.3,25.6,28.0,7.5,11.0,21.5,108,90,52,7.2,95,2026-06-19T05:21,2026-06-19T18:11,Tormenta eléctrica,7.7,71.0,Moderada,Cálido
+2026-06-20,Managua,Nicaragua,NI,Centroamérica,12.1364,-86.2514,America/Managua,32.7,24.7,27.9,1.4,6.0,21.3,95,91,52,7.9,53,2026-06-20T05:21,2026-06-20T18:11,Llovizna moderada,8.0,71.5,Leve,Cálido
+2026-06-21,Managua,Nicaragua,NI,Centroamérica,12.1364,-86.2514,America/Managua,32.9,24.3,27.2,16.8,15.0,20.4,93,97,53,7.2,96,2026-06-21T05:21,2026-06-21T18:12,Tormenta con granizo leve,8.6,75.0,Moderada,Cálido
+2026-06-22,Managua,Nicaragua,NI,Centroamérica,12.1364,-86.2514,America/Managua,31.7,24.3,27.5,4.1,17.0,21.6,102,94,57,8.0,53,2026-06-22T05:22,2026-06-22T18:12,Llovizna moderada,7.4,75.5,Leve,Cálido
+2026-06-15,San José,Costa Rica,CR,Centroamérica,9.9281,-84.0907,America/Costa_Rica,28.0,18.1,21.9,3.5,9.0,9.7,73,95,49,7.3,95,2026-06-15T05:15,2026-06-15T17:57,Tormenta eléctrica,9.9,72.0,Leve,Cálido
+2026-06-16,San José,Costa Rica,CR,Centroamérica,9.9281,-84.0907,America/Costa_Rica,26.0,19.1,21.0,12.9,11.0,9.2,60,97,62,7.6,96,2026-06-16T05:16,2026-06-16T17:58,Tormenta con granizo leve,6.9,79.5,Moderada,Cálido
+2026-06-17,San José,Costa Rica,CR,Centroamérica,9.9281,-84.0907,America/Costa_Rica,25.3,18.3,21.1,2.9,9.0,11.5,71,98,59,9.0,53,2026-06-17T05:16,2026-06-17T17:58,Llovizna moderada,7.0,78.5,Leve,Cálido
+2026-06-18,San José,Costa Rica,CR,Centroamérica,9.9281,-84.0907,America/Costa_Rica,25.6,18.6,21.0,2.8,8.0,11.4,94,95,59,8.5,53,2026-06-18T05:16,2026-06-18T17:58,Llovizna moderada,7.0,77.0,Leve,Cálido
+2026-06-19,San José,Costa Rica,CR,Centroamérica,9.9281,-84.0907,America/Costa_Rica,26.4,17.2,21.2,1.0,5.0,9.9,76,95,52,8.0,51,2026-06-19T05:16,2026-06-19T17:58,Llovizna leve,9.2,73.5,Leve,Cálido
+2026-06-20,San José,Costa Rica,CR,Centroamérica,9.9281,-84.0907,America/Costa_Rica,26.8,17.5,21.1,8.2,11.0,11.4,65,96,50,8.6,95,2026-06-20T05:16,2026-06-20T17:59,Tormenta eléctrica,9.3,73.0,Moderada,Cálido
+2026-06-21,San José,Costa Rica,CR,Centroamérica,9.9281,-84.0907,America/Costa_Rica,25.8,18.3,21.0,17.9,12.0,10.5,65,96,61,7.7,96,2026-06-21T05:17,2026-06-21T17:59,Tormenta con granizo leve,7.5,78.5,Moderada,Cálido
+2026-06-22,San José,Costa Rica,CR,Centroamérica,9.9281,-84.0907,America/Costa_Rica,25.0,18.8,20.7,11.5,11.0,11.6,85,95,66,7.0,95,2026-06-22T05:17,2026-06-22T17:59,Tormenta eléctrica,6.2,80.5,Moderada,Cálido
+2026-06-15,Ciudad de Panamá,Panamá,PA,Centroamérica,8.9943,-79.5188,America/Panama,29.4,23.0,26.4,12.7,17.0,15.3,307,99,78,5.6,96,2026-06-15T05:59,2026-06-15T18:37,Tormenta con granizo leve,6.4,88.5,Moderada,Cálido
+2026-06-16,Ciudad de Panamá,Panamá,PA,Centroamérica,8.9943,-79.5188,America/Panama,30.4,23.7,26.4,10.4,13.0,13.0,320,99,74,6.4,96,2026-06-16T05:59,2026-06-16T18:38,Tormenta con granizo leve,6.7,86.5,Moderada,Cálido
+2026-06-17,Ciudad de Panamá,Panamá,PA,Centroamérica,8.9943,-79.5188,America/Panama,27.4,24.4,25.6,14.2,17.0,12.3,314,98,80,2.4,95,2026-06-17T05:59,2026-06-17T18:38,Tormenta eléctrica,3.0,89.0,Moderada,Cálido
+2026-06-18,Ciudad de Panamá,Panamá,PA,Centroamérica,8.9943,-79.5188,America/Panama,30.5,23.3,26.5,5.8,8.0,12.7,336,97,64,8.5,96,2026-06-18T05:59,2026-06-18T18:38,Tormenta con granizo leve,7.2,80.5,Moderada,Cálido
+2026-06-19,Ciudad de Panamá,Panamá,PA,Centroamérica,8.9943,-79.5188,America/Panama,32.1,24.2,27.6,4.7,7.0,13.8,324,95,62,8.0,96,2026-06-19T05:59,2026-06-19T18:38,Tormenta con granizo leve,7.9,78.5,Leve,Cálido
+2026-06-20,Ciudad de Panamá,Panamá,PA,Centroamérica,8.9943,-79.5188,America/Panama,30.5,24.9,26.6,22.4,12.0,15.9,317,95,70,8.4,96,2026-06-20T06:00,2026-06-20T18:39,Tormenta con granizo leve,5.6,82.5,Fuerte,Cálido
+2026-06-21,Ciudad de Panamá,Panamá,PA,Centroamérica,8.9943,-79.5188,America/Panama,31.3,24.9,27.1,4.6,10.0,12.7,324,95,68,7.6,95,2026-06-21T06:00,2026-06-21T18:39,Tormenta eléctrica,6.4,81.5,Leve,Cálido
+2026-06-22,Ciudad de Panamá,Panamá,PA,Centroamérica,8.9943,-79.5188,America/Panama,30.0,24.2,26.5,7.5,10.0,12.9,322,96,72,7.8,96,2026-06-22T06:00,2026-06-22T18:39,Tormenta con granizo leve,5.8,84.0,Moderada,Cálido
+2026-06-15,Bogotá,Colombia,CO,Andina,4.711,-74.0721,America/Bogota,18.7,10.9,14.3,3.8,13.0,12.0,117,94,54,7.3,53,2026-06-15T05:45,2026-06-15T18:08,Llovizna moderada,7.8,74.0,Leve,Templado
+2026-06-16,Bogotá,Colombia,CO,Andina,4.711,-74.0721,America/Bogota,17.8,10.2,13.6,2.5,9.0,11.3,119,95,58,5.6,53,2026-06-16T05:45,2026-06-16T18:08,Llovizna moderada,7.6,76.5,Leve,Templado
+2026-06-17,Bogotá,Colombia,CO,Andina,4.711,-74.0721,America/Bogota,19.0,11.0,14.6,4.9,14.0,15.4,126,98,55,8.2,53,2026-06-17T05:45,2026-06-17T18:09,Llovizna moderada,8.0,76.5,Leve,Templado
+2026-06-18,Bogotá,Colombia,CO,Andina,4.711,-74.0721,America/Bogota,19.8,10.9,15.0,2.7,14.0,11.5,127,100,48,9.0,51,2026-06-18T05:45,2026-06-18T18:09,Llovizna leve,8.9,74.0,Leve,Templado
+2026-06-19,Bogotá,Colombia,CO,Andina,4.711,-74.0721,America/Bogota,20.2,11.3,14.7,3.0,12.0,10.3,99,98,54,8.9,55,2026-06-19T05:45,2026-06-19T18:09,Llovizna intensa,8.9,76.0,Leve,Templado
+2026-06-20,Bogotá,Colombia,CO,Andina,4.711,-74.0721,America/Bogota,20.0,10.8,15.2,1.6,7.0,12.6,116,97,53,7.6,53,2026-06-20T05:46,2026-06-20T18:09,Llovizna moderada,9.2,75.0,Leve,Templado
+2026-06-21,Bogotá,Colombia,CO,Andina,4.711,-74.0721,America/Bogota,19.5,10.6,14.9,0.9,8.0,13.8,117,96,55,8.4,51,2026-06-21T05:46,2026-06-21T18:10,Llovizna leve,8.9,75.5,Leve,Templado
+2026-06-22,Bogotá,Colombia,CO,Andina,4.711,-74.0721,America/Bogota,20.6,9.8,15.1,2.1,9.0,13.3,112,99,47,7.6,53,2026-06-22T05:46,2026-06-22T18:10,Llovizna moderada,10.8,73.0,Leve,Templado
+2026-06-15,Medellín,Colombia,CO,Andina,6.2518,-75.5636,America/Bogota,27.6,17.2,21.4,2.4,8.0,10.7,81,100,41,9.0,53,2026-06-15T05:48,2026-06-15T18:17,Llovizna moderada,10.4,70.5,Leve,Cálido
+2026-06-16,Medellín,Colombia,CO,Andina,6.2518,-75.5636,America/Bogota,27.2,17.2,21.5,3.5,12.0,12.4,80,100,46,8.8,55,2026-06-16T05:48,2026-06-16T18:17,Llovizna intensa,10.0,73.0,Leve,Cálido
+2026-06-17,Medellín,Colombia,CO,Andina,6.2518,-75.5636,America/Bogota,27.0,17.3,21.1,4.7,15.0,6.4,72,100,50,8.8,53,2026-06-17T05:48,2026-06-17T18:17,Llovizna moderada,9.7,75.0,Leve,Cálido
+2026-06-18,Medellín,Colombia,CO,Andina,6.2518,-75.5636,America/Bogota,27.1,17.3,21.3,5.0,19.0,8.8,72,100,46,8.3,53,2026-06-18T05:48,2026-06-18T18:17,Llovizna moderada,9.8,73.0,Leve,Cálido
+2026-06-19,Medellín,Colombia,CO,Andina,6.2518,-75.5636,America/Bogota,28.7,18.0,21.2,5.9,13.0,7.6,68,100,41,8.8,80,2026-06-19T05:49,2026-06-19T18:18,Chubascos leves,10.7,70.5,Moderada,Cálido
+2026-06-20,Medellín,Colombia,CO,Andina,6.2518,-75.5636,America/Bogota,28.1,17.9,22.2,4.4,13.0,6.8,74,100,41,8.0,55,2026-06-20T05:49,2026-06-20T18:18,Llovizna intensa,10.2,70.5,Leve,Cálido
+2026-06-21,Medellín,Colombia,CO,Andina,6.2518,-75.5636,America/Bogota,28.8,18.1,22.3,4.9,12.0,11.7,78,100,38,8.1,55,2026-06-21T05:49,2026-06-21T18:18,Llovizna intensa,10.7,69.0,Leve,Cálido
+2026-06-22,Medellín,Colombia,CO,Andina,6.2518,-75.5636,America/Bogota,28.6,18.1,21.8,3.5,12.0,10.5,69,100,42,8.8,53,2026-06-22T05:49,2026-06-22T18:18,Llovizna moderada,10.5,71.0,Leve,Cálido
+2026-06-15,Cali,Colombia,CO,Andina,3.4516,-76.532,America/Bogota,26.6,19.8,22.8,0.1,1.0,4.2,220,97,55,8.0,51,2026-06-15T05:56,2026-06-15T18:16,Llovizna leve,6.8,76.0,Leve,Cálido
+2026-06-16,Cali,Colombia,CO,Andina,3.4516,-76.532,America/Bogota,27.1,19.0,22.4,13.2,19.0,4.7,209,98,55,7.6,80,2026-06-16T05:57,2026-06-16T18:16,Chubascos leves,8.1,76.5,Moderada,Cálido
+2026-06-17,Cali,Colombia,CO,Andina,3.4516,-76.532,America/Bogota,27.1,19.6,22.8,3.2,12.0,6.6,274,96,55,8.6,53,2026-06-17T05:57,2026-06-17T18:16,Llovizna moderada,7.5,75.5,Leve,Cálido
+2026-06-18,Cali,Colombia,CO,Andina,3.4516,-76.532,America/Bogota,26.6,19.1,22.4,6.3,18.0,5.7,235,98,59,8.6,53,2026-06-18T05:57,2026-06-18T18:16,Llovizna moderada,7.5,78.5,Moderada,Cálido
+2026-06-19,Cali,Colombia,CO,Andina,3.4516,-76.532,America/Bogota,27.1,19.6,22.8,4.6,16.0,5.8,177,98,61,8.6,53,2026-06-19T05:57,2026-06-19T18:17,Llovizna moderada,7.5,79.5,Leve,Cálido
+2026-06-20,Cali,Colombia,CO,Andina,3.4516,-76.532,America/Bogota,27.2,19.2,23.1,8.3,12.0,5.4,249,98,57,8.6,95,2026-06-20T05:58,2026-06-20T18:17,Tormenta eléctrica,8.0,77.5,Moderada,Cálido
+2026-06-21,Cali,Colombia,CO,Andina,3.4516,-76.532,America/Bogota,27.9,20.1,22.8,7.5,18.0,4.7,200,98,56,8.6,80,2026-06-21T05:58,2026-06-21T18:17,Chubascos leves,7.8,77.0,Moderada,Cálido
+2026-06-22,Cali,Colombia,CO,Andina,3.4516,-76.532,America/Bogota,26.5,19.7,22.2,7.7,15.0,5.5,180,100,63,6.0,55,2026-06-22T05:58,2026-06-22T18:17,Llovizna intensa,6.8,81.5,Moderada,Cálido
+2026-06-15,Barranquilla,Colombia,CO,Caribe,10.9685,-74.7813,America/Bogota,36.8,27.2,30.1,1.7,6.0,16.0,34,90,37,7.3,95,2026-06-15T05:36,2026-06-15T18:22,Tormenta eléctrica,9.6,63.5,Leve,Muy cálido
+2026-06-16,Barranquilla,Colombia,CO,Caribe,10.9685,-74.7813,America/Bogota,34.8,25.8,29.1,2.8,5.0,14.0,16,95,49,7.4,95,2026-06-16T05:36,2026-06-16T18:22,Tormenta eléctrica,9.0,72.0,Leve,Cálido
+2026-06-17,Barranquilla,Colombia,CO,Caribe,10.9685,-74.7813,America/Bogota,34.6,26.7,29.4,1.9,6.0,12.1,52,93,49,7.2,95,2026-06-17T05:37,2026-06-17T18:22,Tormenta eléctrica,7.9,71.0,Leve,Cálido
+2026-06-18,Barranquilla,Colombia,CO,Caribe,10.9685,-74.7813,America/Bogota,31.3,26.5,27.7,5.3,11.0,10.1,48,92,59,8.0,95,2026-06-18T05:37,2026-06-18T18:23,Tormenta eléctrica,4.8,75.5,Moderada,Cálido
+2026-06-19,Barranquilla,Colombia,CO,Caribe,10.9685,-74.7813,America/Bogota,31.0,25.6,27.7,10.8,8.0,14.0,47,95,65,7.6,95,2026-06-19T05:37,2026-06-19T18:23,Tormenta eléctrica,5.4,80.0,Moderada,Cálido
+2026-06-20,Barranquilla,Colombia,CO,Caribe,10.9685,-74.7813,America/Bogota,34.0,26.0,29.3,3.1,9.0,15.0,34,98,50,8.4,96,2026-06-20T05:37,2026-06-20T18:23,Tormenta con granizo leve,8.0,74.0,Leve,Cálido
+2026-06-21,Barranquilla,Colombia,CO,Caribe,10.9685,-74.7813,America/Bogota,32.9,26.6,29.0,1.9,4.0,13.1,14,90,57,8.0,95,2026-06-21T05:38,2026-06-21T18:23,Tormenta eléctrica,6.3,73.5,Leve,Cálido
+2026-06-22,Barranquilla,Colombia,CO,Caribe,10.9685,-74.7813,America/Bogota,34.5,27.1,29.5,6.0,8.0,14.1,28,90,49,8.4,96,2026-06-22T05:38,2026-06-22T18:24,Tormenta con granizo leve,7.4,69.5,Moderada,Cálido
+2026-06-15,Cartagena,Colombia,CO,Caribe,10.391,-75.4794,America/Bogota,32.9,26.7,28.9,2.3,2.0,17.9,158,95,64,7.1,95,2026-06-15T05:40,2026-06-15T18:24,Tormenta eléctrica,6.2,79.5,Leve,Cálido
+2026-06-16,Cartagena,Colombia,CO,Caribe,10.391,-75.4794,America/Bogota,33.4,25.7,29.1,0.9,5.0,15.1,358,95,53,8.2,95,2026-06-16T05:40,2026-06-16T18:24,Tormenta eléctrica,7.7,74.0,Leve,Cálido
+2026-06-17,Cartagena,Colombia,CO,Caribe,10.391,-75.4794,America/Bogota,31.6,26.7,28.7,0.4,4.0,15.3,217,90,66,7.4,95,2026-06-17T05:40,2026-06-17T18:24,Tormenta eléctrica,4.9,78.0,Leve,Cálido
+2026-06-18,Cartagena,Colombia,CO,Caribe,10.391,-75.4794,America/Bogota,29.4,26.5,27.8,0.5,3.0,16.0,225,91,74,7.6,95,2026-06-18T05:41,2026-06-18T18:25,Tormenta eléctrica,2.9,82.5,Leve,Cálido
+2026-06-19,Cartagena,Colombia,CO,Caribe,10.391,-75.4794,America/Bogota,29.7,25.1,27.0,7.6,7.0,15.7,101,93,73,8.1,95,2026-06-19T05:41,2026-06-19T18:25,Tormenta eléctrica,4.6,83.0,Moderada,Cálido
+2026-06-20,Cartagena,Colombia,CO,Caribe,10.391,-75.4794,America/Bogota,34.9,26.4,29.5,8.7,7.0,12.9,13,89,47,8.2,96,2026-06-20T05:41,2026-06-20T18:25,Tormenta con granizo leve,8.5,68.0,Moderada,Cálido
+2026-06-21,Cartagena,Colombia,CO,Caribe,10.391,-75.4794,America/Bogota,32.8,27.0,28.8,1.8,6.0,19.6,21,88,58,7.6,95,2026-06-21T05:41,2026-06-21T18:25,Tormenta eléctrica,5.8,73.0,Leve,Cálido
+2026-06-22,Cartagena,Colombia,CO,Caribe,10.391,-75.4794,America/Bogota,33.1,26.4,29.5,2.1,9.0,16.1,352,90,59,8.1,53,2026-06-22T05:42,2026-06-22T18:26,Llovizna moderada,6.7,74.5,Leve,Cálido
+2026-06-15,Caracas,Venezuela,VE,Caribe,10.4806,-66.9036,America/Caracas,29.1,20.7,23.8,1.6,6.0,11.7,181,97,44,7.8,53,2026-06-15T06:06,2026-06-15T18:50,Llovizna moderada,8.4,70.5,Leve,Cálido
+2026-06-16,Caracas,Venezuela,VE,Caribe,10.4806,-66.9036,America/Caracas,27.9,19.2,23.0,4.3,11.0,9.0,182,95,53,8.2,55,2026-06-16T06:06,2026-06-16T18:50,Llovizna intensa,8.7,74.0,Leve,Cálido
+2026-06-17,Caracas,Venezuela,VE,Caribe,10.4806,-66.9036,America/Caracas,27.3,19.7,22.9,3.0,10.0,9.4,189,95,59,8.9,53,2026-06-17T06:06,2026-06-17T18:50,Llovizna moderada,7.6,77.0,Leve,Cálido
+2026-06-18,Caracas,Venezuela,VE,Caribe,10.4806,-66.9036,America/Caracas,27.1,19.5,22.7,3.0,12.0,8.2,198,99,59,8.6,53,2026-06-18T06:06,2026-06-18T18:50,Llovizna moderada,7.6,79.0,Leve,Cálido
+2026-06-19,Caracas,Venezuela,VE,Caribe,10.4806,-66.9036,America/Caracas,27.6,19.3,22.6,1.9,5.0,10.0,182,97,61,7.4,53,2026-06-19T06:06,2026-06-19T18:51,Llovizna moderada,8.3,79.0,Leve,Cálido
+2026-06-20,Caracas,Venezuela,VE,Caribe,10.4806,-66.9036,America/Caracas,27.1,18.9,22.4,1.7,10.0,8.6,198,100,60,9.0,51,2026-06-20T06:07,2026-06-20T18:51,Llovizna leve,8.2,80.0,Leve,Cálido
+2026-06-21,Caracas,Venezuela,VE,Caribe,10.4806,-66.9036,America/Caracas,28.4,18.7,22.8,3.7,8.0,9.5,186,100,55,7.6,53,2026-06-21T06:07,2026-06-21T18:51,Llovizna moderada,9.7,77.5,Leve,Cálido
+2026-06-22,Caracas,Venezuela,VE,Caribe,10.4806,-66.9036,America/Caracas,28.5,20.0,23.5,0.3,3.0,9.6,200,96,53,9.0,51,2026-06-22T06:07,2026-06-22T18:51,Llovizna leve,8.5,74.5,Leve,Cálido
+2026-06-15,Valencia,Venezuela,VE,Caribe,10.162,-67.994,America/Caracas,30.4,23.0,26.5,8.3,10.0,8.5,64,94,48,7.0,95,2026-06-15T06:10,2026-06-15T18:53,Tormenta eléctrica,7.4,71.0,Moderada,Cálido
+2026-06-16,Valencia,Venezuela,VE,Caribe,10.162,-67.994,America/Caracas,28.7,22.4,25.3,4.0,11.0,7.5,255,90,62,8.2,53,2026-06-16T06:11,2026-06-16T18:54,Llovizna moderada,6.3,76.0,Leve,Cálido
+2026-06-17,Valencia,Venezuela,VE,Caribe,10.162,-67.994,America/Caracas,28.1,23.1,25.0,11.2,15.0,8.2,333,90,62,8.4,95,2026-06-17T06:11,2026-06-17T18:54,Tormenta eléctrica,5.0,76.0,Moderada,Cálido
+2026-06-18,Valencia,Venezuela,VE,Caribe,10.162,-67.994,America/Caracas,30.3,22.1,25.0,9.8,11.0,8.9,28,93,46,8.5,81,2026-06-18T06:11,2026-06-18T18:54,Chubascos moderados,8.2,69.5,Moderada,Cálido
+2026-06-19,Valencia,Venezuela,VE,Caribe,10.162,-67.994,America/Caracas,27.6,21.7,24.6,4.5,13.0,6.9,292,98,64,8.2,55,2026-06-19T06:11,2026-06-19T18:54,Llovizna intensa,5.9,81.0,Leve,Cálido
+2026-06-20,Valencia,Venezuela,VE,Caribe,10.162,-67.994,America/Caracas,30.3,21.6,25.7,2.0,10.0,8.5,295,100,53,8.7,53,2026-06-20T06:11,2026-06-20T18:55,Llovizna moderada,8.7,76.5,Leve,Cálido
+2026-06-21,Valencia,Venezuela,VE,Caribe,10.162,-67.994,America/Caracas,31.4,22.2,26.5,1.9,11.0,10.9,37,88,47,7.7,51,2026-06-21T06:12,2026-06-21T18:55,Llovizna leve,9.2,67.5,Leve,Cálido
+2026-06-22,Valencia,Venezuela,VE,Caribe,10.162,-67.994,America/Caracas,31.7,24.1,27.1,0.1,1.0,12.8,34,81,48,8.7,51,2026-06-22T06:12,2026-06-22T18:55,Llovizna leve,7.6,64.5,Leve,Cálido
+2026-06-15,Guayaquil,Ecuador,EC,Costa,-2.1962,-79.8862,America/Guayaquil,31.4,23.9,27.0,1.5,8.0,8.4,245,92,51,7.8,51,2026-06-15T06:20,2026-06-15T18:19,Llovizna leve,7.5,71.5,Leve,Cálido
+2026-06-16,Guayaquil,Ecuador,EC,Costa,-2.1962,-79.8862,America/Guayaquil,30.5,24.2,26.6,0.9,5.0,7.6,215,92,61,7.8,51,2026-06-16T06:20,2026-06-16T18:20,Llovizna leve,6.3,76.5,Leve,Cálido
+2026-06-17,Guayaquil,Ecuador,EC,Costa,-2.1962,-79.8862,America/Guayaquil,28.5,23.8,25.7,1.5,8.0,11.2,229,94,68,5.5,51,2026-06-17T06:20,2026-06-17T18:20,Llovizna leve,4.7,81.0,Leve,Cálido
+2026-06-18,Guayaquil,Ecuador,EC,Costa,-2.1962,-79.8862,America/Guayaquil,30.6,24.2,26.5,0.0,0.0,10.0,214,91,56,6.6,3,2026-06-18T06:20,2026-06-18T18:20,Nublado,6.4,73.5,Sin lluvia,Cálido
+2026-06-19,Guayaquil,Ecuador,EC,Costa,-2.1962,-79.8862,America/Guayaquil,31.9,24.1,27.3,0.0,0.0,9.1,232,92,49,7.8,1,2026-06-19T06:21,2026-06-19T18:20,Mayormente despejado,7.8,70.5,Sin lluvia,Cálido
+2026-06-20,Guayaquil,Ecuador,EC,Costa,-2.1962,-79.8862,America/Guayaquil,31.0,24.2,27.1,0.4,3.0,10.7,238,91,53,7.8,51,2026-06-20T06:21,2026-06-20T18:20,Llovizna leve,6.8,72.0,Leve,Cálido
+2026-06-21,Guayaquil,Ecuador,EC,Costa,-2.1962,-79.8862,America/Guayaquil,32.3,24.4,27.4,0.3,3.0,9.8,238,87,50,7.8,51,2026-06-21T06:21,2026-06-21T18:21,Llovizna leve,7.9,68.5,Leve,Cálido
+2026-06-22,Guayaquil,Ecuador,EC,Costa,-2.1962,-79.8862,America/Guayaquil,31.3,24.3,27.0,1.8,4.0,9.8,242,92,53,5.4,53,2026-06-22T06:21,2026-06-22T18:21,Llovizna moderada,7.0,72.5,Leve,Cálido
+2026-06-15,Cuenca,Ecuador,EC,Andina,-2.9001,-79.0059,America/Guayaquil,18.9,8.8,13.4,1.5,7.0,14.2,36,90,45,8.6,51,2026-06-15T06:17,2026-06-15T18:15,Llovizna leve,10.1,67.5,Leve,Templado
+2026-06-16,Cuenca,Ecuador,EC,Andina,-2.9001,-79.0059,America/Guayaquil,19.0,8.4,13.0,0.1,1.0,14.1,30,93,47,8.3,51,2026-06-16T06:18,2026-06-16T18:15,Llovizna leve,10.6,70.0,Leve,Templado
+2026-06-17,Cuenca,Ecuador,EC,Andina,-2.9001,-79.0059,America/Guayaquil,17.9,7.8,12.8,2.7,7.0,14.7,15,99,58,5.8,53,2026-06-17T06:18,2026-06-17T18:15,Llovizna moderada,10.1,78.5,Leve,Templado
+2026-06-18,Cuenca,Ecuador,EC,Andina,-2.9001,-79.0059,America/Guayaquil,18.6,7.8,13.0,2.0,9.0,8.5,329,94,55,7.9,53,2026-06-18T06:18,2026-06-18T18:15,Llovizna moderada,10.8,74.5,Leve,Templado
+2026-06-19,Cuenca,Ecuador,EC,Andina,-2.9001,-79.0059,America/Guayaquil,20.0,8.4,13.4,1.7,7.0,9.1,7,94,49,8.2,51,2026-06-19T06:18,2026-06-19T18:15,Llovizna leve,11.6,71.5,Leve,Templado
+2026-06-20,Cuenca,Ecuador,EC,Andina,-2.9001,-79.0059,America/Guayaquil,18.7,10.1,13.4,4.3,12.0,10.5,30,97,62,8.4,53,2026-06-20T06:19,2026-06-20T18:16,Llovizna moderada,8.6,79.5,Leve,Templado
+2026-06-21,Cuenca,Ecuador,EC,Andina,-2.9001,-79.0059,America/Guayaquil,18.7,11.0,14.1,5.3,19.0,13.1,21,98,59,7.0,80,2026-06-21T06:19,2026-06-21T18:16,Chubascos leves,7.7,78.5,Moderada,Templado
+2026-06-22,Cuenca,Ecuador,EC,Andina,-2.9001,-79.0059,America/Guayaquil,20.7,8.5,13.9,0.9,4.0,10.5,49,100,39,7.6,51,2026-06-22T06:19,2026-06-22T18:16,Llovizna leve,12.2,69.5,Leve,Templado
+2026-06-15,Lima,Perú,PE,Costa,-12.0464,-77.0428,America/Lima,23.8,19.5,21.4,0.0,0.0,15.9,160,92,69,7.1,3,2026-06-15T06:26,2026-06-15T17:51,Nublado,4.3,80.5,Sin lluvia,Cálido
+2026-06-16,Lima,Perú,PE,Costa,-12.0464,-77.0428,America/Lima,23.9,19.1,21.2,0.0,0.0,14.8,167,92,68,7.2,3,2026-06-16T06:26,2026-06-16T17:51,Nublado,4.8,80.0,Sin lluvia,Cálido
+2026-06-17,Lima,Perú,PE,Costa,-12.0464,-77.0428,America/Lima,23.9,19.7,21.4,0.0,0.0,16.0,149,85,66,3.2,3,2026-06-17T06:26,2026-06-17T17:51,Nublado,4.2,75.5,Sin lluvia,Cálido
+2026-06-18,Lima,Perú,PE,Costa,-12.0464,-77.0428,America/Lima,23.3,20.0,21.4,0.1,1.0,15.5,149,84,66,6.4,51,2026-06-18T06:26,2026-06-18T17:51,Llovizna leve,3.3,75.0,Leve,Cálido
+2026-06-19,Lima,Perú,PE,Costa,-12.0464,-77.0428,America/Lima,22.2,19.4,20.6,2.3,12.0,17.8,159,88,74,5.6,51,2026-06-19T06:27,2026-06-19T17:52,Llovizna leve,2.8,81.0,Leve,Cálido
+2026-06-20,Lima,Perú,PE,Costa,-12.0464,-77.0428,America/Lima,23.0,18.9,20.5,0.0,0.0,15.5,148,83,66,7.2,3,2026-06-20T06:27,2026-06-20T17:52,Nublado,4.1,74.5,Sin lluvia,Cálido
+2026-06-21,Lima,Perú,PE,Costa,-12.0464,-77.0428,America/Lima,22.7,19.1,20.5,0.4,3.0,18.1,155,83,69,7.2,51,2026-06-21T06:27,2026-06-21T17:52,Llovizna leve,3.6,76.0,Leve,Cálido
+2026-06-22,Lima,Perú,PE,Costa,-12.0464,-77.0428,America/Lima,22.5,18.9,20.3,0.3,3.0,18.8,154,84,67,6.0,51,2026-06-22T06:27,2026-06-22T17:52,Llovizna leve,3.6,75.5,Leve,Cálido
+2026-06-15,Arequipa,Perú,PE,Andina,-16.409,-71.5375,America/Lima,23.0,8.3,15.5,0.0,0.0,14.7,321,32,13,7.0,3,2026-06-15T06:12,2026-06-15T17:21,Nublado,14.7,22.5,Sin lluvia,Templado
+2026-06-16,Arequipa,Perú,PE,Andina,-16.409,-71.5375,America/Lima,22.2,9.2,15.7,0.0,0.0,11.7,313,39,19,7.0,3,2026-06-16T06:12,2026-06-16T17:21,Nublado,13.0,29.0,Sin lluvia,Templado
+2026-06-17,Arequipa,Perú,PE,Andina,-16.409,-71.5375,America/Lima,22.8,10.2,15.1,0.0,0.0,13.4,250,58,16,6.6,3,2026-06-17T06:12,2026-06-17T17:21,Nublado,12.6,37.0,Sin lluvia,Templado
+2026-06-18,Arequipa,Perú,PE,Andina,-16.409,-71.5375,America/Lima,21.5,9.7,14.3,0.0,0.0,14.7,222,63,20,7.0,3,2026-06-18T06:13,2026-06-18T17:22,Nublado,11.8,41.5,Sin lluvia,Templado
+2026-06-19,Arequipa,Perú,PE,Andina,-16.409,-71.5375,America/Lima,22.3,6.5,14.2,0.0,0.0,14.3,317,57,10,7.0,0,2026-06-19T06:13,2026-06-19T17:22,Despejado,15.8,33.5,Sin lluvia,Templado
+2026-06-20,Arequipa,Perú,PE,Andina,-16.409,-71.5375,America/Lima,22.7,7.4,14.4,0.0,0.0,13.4,12,43,9,7.0,0,2026-06-20T06:13,2026-06-20T17:22,Despejado,15.3,26.0,Sin lluvia,Templado
+2026-06-21,Arequipa,Perú,PE,Andina,-16.409,-71.5375,America/Lima,22.1,7.4,14.3,0.0,0.0,12.3,355,46,8,7.0,0,2026-06-21T06:13,2026-06-21T17:22,Despejado,14.7,27.0,Sin lluvia,Templado
+2026-06-22,Arequipa,Perú,PE,Andina,-16.409,-71.5375,America/Lima,24.5,8.3,15.4,0.0,0.0,12.7,36,29,5,7.0,0,2026-06-22T06:13,2026-06-22T17:22,Despejado,16.2,17.0,Sin lluvia,Templado
+2026-06-15,Trujillo,Perú,PE,Costa,-8.112,-79.0288,America/Lima,25.4,21.8,23.2,0.0,0.0,15.7,148,83,68,7.2,3,2026-06-15T06:27,2026-06-15T18:06,Nublado,3.6,75.5,Sin lluvia,Cálido
+2026-06-16,Trujillo,Perú,PE,Costa,-8.112,-79.0288,America/Lima,25.4,20.4,22.7,0.0,0.0,9.4,132,91,66,7.4,3,2026-06-16T06:27,2026-06-16T18:06,Nublado,5.0,78.5,Sin lluvia,Cálido
+2026-06-17,Trujillo,Perú,PE,Costa,-8.112,-79.0288,America/Lima,25.6,20.7,23.4,0.0,0.0,13.3,160,83,63,7.4,3,2026-06-17T06:27,2026-06-17T18:06,Nublado,4.9,73.0,Sin lluvia,Cálido
+2026-06-18,Trujillo,Perú,PE,Costa,-8.112,-79.0288,America/Lima,24.9,21.6,23.2,0.0,0.0,18.6,163,84,70,7.4,3,2026-06-18T06:27,2026-06-18T18:06,Nublado,3.3,77.0,Sin lluvia,Cálido
+2026-06-19,Trujillo,Perú,PE,Costa,-8.112,-79.0288,America/Lima,25.2,21.8,23.1,0.0,0.0,19.8,153,82,64,7.4,3,2026-06-19T06:28,2026-06-19T18:07,Nublado,3.4,73.0,Sin lluvia,Cálido
+2026-06-20,Trujillo,Perú,PE,Costa,-8.112,-79.0288,America/Lima,24.8,21.1,22.6,0.0,0.0,17.8,150,83,66,7.4,2,2026-06-20T06:28,2026-06-20T18:07,Parcialmente nublado,3.7,74.5,Sin lluvia,Cálido
+2026-06-21,Trujillo,Perú,PE,Costa,-8.112,-79.0288,America/Lima,24.9,19.4,22.0,0.0,0.0,18.8,142,86,63,7.2,1,2026-06-21T06:28,2026-06-21T18:07,Mayormente despejado,5.5,74.5,Sin lluvia,Cálido
+2026-06-22,Trujillo,Perú,PE,Costa,-8.112,-79.0288,America/Lima,24.9,20.4,22.4,0.0,0.0,19.1,143,80,58,7.4,2,2026-06-22T06:28,2026-06-22T18:07,Parcialmente nublado,4.5,69.0,Sin lluvia,Cálido
+2026-06-15,Cusco,Perú,PE,Andina,-13.5319,-71.9675,America/Lima,18.5,5.1,11.1,0.0,0.0,6.6,319,97,23,7.6,3,2026-06-15T06:08,2026-06-15T17:28,Nublado,13.4,60.0,Sin lluvia,Templado
+2026-06-16,Cusco,Perú,PE,Andina,-13.5319,-71.9675,America/Lima,16.4,4.3,10.3,0.2,2.0,4.2,64,99,39,4.2,51,2026-06-16T06:08,2026-06-16T17:28,Llovizna leve,12.1,69.0,Leve,Templado
+2026-06-17,Cusco,Perú,PE,Andina,-13.5319,-71.9675,America/Lima,17.8,5.7,11.1,0.0,0.0,15.1,328,99,34,7.2,3,2026-06-17T06:08,2026-06-17T17:28,Nublado,12.1,66.5,Sin lluvia,Templado
+2026-06-18,Cusco,Perú,PE,Andina,-13.5319,-71.9675,America/Lima,18.4,3.9,11.0,0.2,2.0,10.5,291,97,22,7.6,51,2026-06-18T06:09,2026-06-18T17:28,Llovizna leve,14.5,59.5,Leve,Templado
+2026-06-19,Cusco,Perú,PE,Andina,-13.5319,-71.9675,America/Lima,18.6,1.8,10.1,0.0,0.0,5.1,120,90,16,7.6,3,2026-06-19T06:09,2026-06-19T17:29,Nublado,16.8,53.0,Sin lluvia,Templado
+2026-06-20,Cusco,Perú,PE,Andina,-13.5319,-71.9675,America/Lima,17.4,6.4,11.0,0.0,0.0,3.7,118,89,24,7.6,3,2026-06-20T06:09,2026-06-20T17:29,Nublado,11.0,56.5,Sin lluvia,Templado
+2026-06-21,Cusco,Perú,PE,Andina,-13.5319,-71.9675,America/Lima,19.1,3.3,11.1,0.0,0.0,6.9,185,51,10,7.6,0,2026-06-21T06:09,2026-06-21T17:29,Despejado,15.8,30.5,Sin lluvia,Templado
+2026-06-22,Cusco,Perú,PE,Andina,-13.5319,-71.9675,America/Lima,19.8,3.0,11.6,0.0,0.0,7.8,300,69,13,7.6,0,2026-06-22T06:10,2026-06-22T17:29,Despejado,16.8,41.0,Sin lluvia,Templado
+2026-06-15,Iquitos,Perú,PE,Amazonía,-3.7491,-73.2538,America/Lima,30.8,23.4,26.2,2.9,9.0,7.9,19,99,62,7.6,95,2026-06-15T05:56,2026-06-15T17:50,Tormenta eléctrica,7.4,80.5,Leve,Cálido
+2026-06-16,Iquitos,Perú,PE,Amazonía,-3.7491,-73.2538,America/Lima,29.4,23.6,25.7,6.0,8.0,9.2,4,97,67,7.5,95,2026-06-16T05:56,2026-06-16T17:50,Tormenta eléctrica,5.8,82.0,Moderada,Cálido
+2026-06-17,Iquitos,Perú,PE,Amazonía,-3.7491,-73.2538,America/Lima,27.1,22.5,24.4,14.5,14.0,12.0,44,98,75,7.4,81,2026-06-17T05:56,2026-06-17T17:51,Chubascos moderados,4.6,86.5,Moderada,Cálido
+2026-06-18,Iquitos,Perú,PE,Amazonía,-3.7491,-73.2538,America/Lima,28.2,23.0,25.0,9.1,10.0,7.6,67,100,71,7.5,80,2026-06-18T05:57,2026-06-18T17:51,Chubascos leves,5.2,85.5,Moderada,Cálido
+2026-06-19,Iquitos,Perú,PE,Amazonía,-3.7491,-73.2538,America/Lima,31.2,23.3,26.9,0.5,4.0,5.4,46,99,61,7.6,51,2026-06-19T05:57,2026-06-19T17:51,Llovizna leve,7.9,80.0,Leve,Cálido
+2026-06-20,Iquitos,Perú,PE,Amazonía,-3.7491,-73.2538,America/Lima,30.3,24.1,26.1,3.1,11.0,10.4,138,96,63,7.6,53,2026-06-20T05:57,2026-06-20T17:51,Llovizna moderada,6.2,79.5,Leve,Cálido
+2026-06-21,Iquitos,Perú,PE,Amazonía,-3.7491,-73.2538,America/Lima,30.9,23.1,26.0,2.4,7.0,4.8,320,100,60,7.6,95,2026-06-21T05:57,2026-06-21T17:51,Tormenta eléctrica,7.8,80.0,Leve,Cálido
+2026-06-22,Iquitos,Perú,PE,Amazonía,-3.7491,-73.2538,America/Lima,30.9,22.8,26.2,0.9,5.0,7.9,9,99,62,7.5,51,2026-06-22T05:57,2026-06-22T17:52,Llovizna leve,8.1,80.5,Leve,Cálido
+2026-06-15,La Paz,Bolivia,BO,Andina,-16.5,-68.15,America/La_Paz,15.2,0.1,7.6,0.0,0.0,7.8,36,64,19,7.3,1,2026-06-15T06:58,2026-06-15T18:07,Mayormente despejado,15.1,41.5,Sin lluvia,Frío
+2026-06-16,La Paz,Bolivia,BO,Andina,-16.5,-68.15,America/La_Paz,16.7,1.3,8.9,0.0,0.0,13.2,139,51,16,7.4,1,2026-06-16T06:58,2026-06-16T18:07,Mayormente despejado,15.4,33.5,Sin lluvia,Frío
+2026-06-17,La Paz,Bolivia,BO,Andina,-16.5,-68.15,America/La_Paz,16.2,0.7,7.7,0.0,0.0,12.1,136,72,23,6.6,3,2026-06-17T06:59,2026-06-17T18:07,Nublado,15.5,47.5,Sin lluvia,Frío
+2026-06-18,La Paz,Bolivia,BO,Andina,-16.5,-68.15,America/La_Paz,15.4,2.6,7.8,0.1,1.0,16.6,312,79,17,7.3,51,2026-06-18T06:59,2026-06-18T18:07,Llovizna leve,12.8,48.0,Leve,Frío
+2026-06-19,La Paz,Bolivia,BO,Andina,-16.5,-68.15,America/La_Paz,13.4,-2.6,5.4,0.0,0.0,7.9,333,54,7,7.3,0,2026-06-19T06:59,2026-06-19T18:08,Despejado,16.0,30.5,Sin lluvia,Frío
+2026-06-20,La Paz,Bolivia,BO,Andina,-16.5,-68.15,America/La_Paz,14.4,-1.8,5.9,0.0,0.0,6.0,2,41,8,7.3,0,2026-06-20T06:59,2026-06-20T18:08,Despejado,16.2,24.5,Sin lluvia,Frío
+2026-06-21,La Paz,Bolivia,BO,Andina,-16.5,-68.15,America/La_Paz,16.2,-0.9,7.1,0.0,0.0,7.4,309,50,8,7.4,0,2026-06-21T07:00,2026-06-21T18:08,Despejado,17.1,29.0,Sin lluvia,Frío
+2026-06-22,La Paz,Bolivia,BO,Andina,-16.5,-68.15,America/La_Paz,16.0,-0.0,7.3,0.0,0.0,14.3,311,41,4,7.3,0,2026-06-22T07:00,2026-06-22T18:08,Despejado,16.0,22.5,Sin lluvia,Frío
+2026-06-15,Santa Cruz,Bolivia,BO,Llanos,-17.7833,-63.1833,America/La_Paz,17.5,15.0,15.9,0.5,5.0,16.7,152,88,72,2.5,51,2026-06-15T06:41,2026-06-15T17:45,Llovizna leve,2.5,80.0,Leve,Templado
+2026-06-16,Santa Cruz,Bolivia,BO,Llanos,-17.7833,-63.1833,America/La_Paz,17.5,14.0,15.7,0.4,4.0,14.5,148,89,73,3.0,51,2026-06-16T06:41,2026-06-16T17:45,Llovizna leve,3.5,81.0,Leve,Templado
+2026-06-17,Santa Cruz,Bolivia,BO,Llanos,-17.7833,-63.1833,America/La_Paz,17.3,14.8,15.8,2.3,15.0,12.2,157,95,80,2.6,51,2026-06-17T06:41,2026-06-17T17:45,Llovizna leve,2.5,87.5,Leve,Templado
+2026-06-18,Santa Cruz,Bolivia,BO,Llanos,-17.7833,-63.1833,America/La_Paz,23.5,15.7,19.6,0.1,1.0,32.2,330,95,73,5.2,51,2026-06-18T06:42,2026-06-18T17:45,Llovizna leve,7.8,84.0,Leve,Templado
+2026-06-19,Santa Cruz,Bolivia,BO,Llanos,-17.7833,-63.1833,America/La_Paz,20.5,16.7,18.6,0.6,3.0,30.4,155,90,57,0.8,51,2026-06-19T06:42,2026-06-19T17:46,Llovizna leve,3.8,73.5,Leve,Templado
+2026-06-20,Santa Cruz,Bolivia,BO,Llanos,-17.7833,-63.1833,America/La_Paz,20.9,11.2,16.3,0.0,0.0,19.2,19,87,53,5.8,3,2026-06-20T06:42,2026-06-20T17:46,Nublado,9.7,70.0,Sin lluvia,Templado
+2026-06-21,Santa Cruz,Bolivia,BO,Llanos,-17.7833,-63.1833,America/La_Paz,24.2,15.8,19.7,0.0,0.0,36.8,325,86,59,5.9,0,2026-06-21T06:42,2026-06-21T17:46,Despejado,8.4,72.5,Sin lluvia,Templado
+2026-06-22,Santa Cruz,Bolivia,BO,Llanos,-17.7833,-63.1833,America/La_Paz,20.6,15.1,17.5,2.0,14.0,33.3,167,90,73,0.8,51,2026-06-22T06:43,2026-06-22T17:46,Llovizna leve,5.5,81.5,Leve,Templado
+2026-06-15,Cochabamba,Bolivia,BO,Andina,-17.3895,-66.1568,America/La_Paz,24.8,9.1,16.0,0.0,0.0,6.3,25,33,7,6.8,1,2026-06-15T06:52,2026-06-15T17:58,Mayormente despejado,15.7,20.0,Sin lluvia,Templado
+2026-06-16,Cochabamba,Bolivia,BO,Andina,-17.3895,-66.1568,America/La_Paz,25.0,10.3,16.7,0.0,0.0,6.5,348,37,5,6.8,0,2026-06-16T06:52,2026-06-16T17:58,Despejado,14.7,21.0,Sin lluvia,Templado
+2026-06-17,Cochabamba,Bolivia,BO,Andina,-17.3895,-66.1568,America/La_Paz,24.9,10.6,16.8,0.0,0.0,10.5,186,61,12,6.7,2,2026-06-17T06:53,2026-06-17T17:58,Parcialmente nublado,14.3,36.5,Sin lluvia,Templado
+2026-06-18,Cochabamba,Bolivia,BO,Andina,-17.3895,-66.1568,America/La_Paz,24.9,8.4,14.8,0.0,0.0,9.4,79,72,14,6.7,3,2026-06-18T06:53,2026-06-18T17:58,Nublado,16.5,43.0,Sin lluvia,Templado
+2026-06-19,Cochabamba,Bolivia,BO,Andina,-17.3895,-66.1568,America/La_Paz,22.7,7.2,13.7,0.0,0.0,8.1,65,60,8,6.8,1,2026-06-19T06:53,2026-06-19T17:58,Mayormente despejado,15.5,34.0,Sin lluvia,Templado
+2026-06-20,Cochabamba,Bolivia,BO,Andina,-17.3895,-66.1568,America/La_Paz,23.4,6.1,13.7,0.0,0.0,6.9,53,58,2,6.8,0,2026-06-20T06:53,2026-06-20T17:59,Despejado,17.3,30.0,Sin lluvia,Templado
+2026-06-21,Cochabamba,Bolivia,BO,Andina,-17.3895,-66.1568,America/La_Paz,25.8,8.4,15.4,0.0,0.0,6.2,38,25,4,6.8,0,2026-06-21T06:54,2026-06-21T17:59,Despejado,17.4,14.5,Sin lluvia,Templado
+2026-06-22,Cochabamba,Bolivia,BO,Andina,-17.3895,-66.1568,America/La_Paz,26.0,7.9,15.4,0.0,0.0,12.3,2,60,4,6.8,2,2026-06-22T06:54,2026-06-22T17:59,Parcialmente nublado,18.1,32.0,Sin lluvia,Templado
+2026-06-15,Santiago,Chile,CL,Centro,-33.4569,-70.6483,America/Santiago,20.3,7.6,12.9,0.0,0.0,4.2,126,88,22,2.8,3,2026-06-15T07:44,2026-06-15T17:41,Nublado,12.7,55.0,Sin lluvia,Templado
+2026-06-16,Santiago,Chile,CL,Centro,-33.4569,-70.6483,America/Santiago,19.4,10.0,13.5,0.0,0.0,3.8,141,75,21,2.2,3,2026-06-16T07:44,2026-06-16T17:41,Nublado,9.4,48.0,Sin lluvia,Templado
+2026-06-17,Santiago,Chile,CL,Centro,-33.4569,-70.6483,America/Santiago,13.0,8.5,10.6,0.4,3.0,10.2,198,89,32,2.8,51,2026-06-17T07:45,2026-06-17T17:41,Llovizna leve,4.5,60.5,Leve,Templado
+2026-06-18,Santiago,Chile,CL,Centro,-33.4569,-70.6483,America/Santiago,16.5,7.8,11.3,0.1,1.0,8.9,38,90,43,3.0,51,2026-06-18T07:45,2026-06-18T17:41,Llovizna leve,8.7,66.5,Leve,Templado
+2026-06-19,Santiago,Chile,CL,Centro,-33.4569,-70.6483,America/Santiago,17.3,5.9,11.1,0.0,0.0,6.1,114,75,22,3.0,3,2026-06-19T07:45,2026-06-19T17:42,Nublado,11.4,48.5,Sin lluvia,Templado
+2026-06-20,Santiago,Chile,CL,Centro,-33.4569,-70.6483,America/Santiago,14.4,7.1,9.9,0.0,0.0,6.2,214,91,43,3.2,3,2026-06-20T07:46,2026-06-20T17:42,Nublado,7.3,67.0,Sin lluvia,Frío
+2026-06-21,Santiago,Chile,CL,Centro,-33.4569,-70.6483,America/Santiago,11.3,5.0,8.2,2.0,5.0,7.4,163,99,53,3.0,53,2026-06-21T07:46,2026-06-21T17:42,Llovizna moderada,6.3,76.0,Leve,Frío
+2026-06-22,Santiago,Chile,CL,Centro,-33.4569,-70.6483,America/Santiago,12.4,1.7,6.5,0.0,0.0,4.9,178,69,30,3.6,0,2026-06-22T07:46,2026-06-22T17:42,Despejado,10.7,49.5,Sin lluvia,Frío
+2026-06-15,Valparaíso,Chile,CL,Centro,-33.0472,-71.6127,America/Santiago,14.5,9.1,11.2,0.0,0.0,7.4,247,98,85,2.7,3,2026-06-15T07:47,2026-06-15T17:46,Nublado,5.4,91.5,Sin lluvia,Templado
+2026-06-16,Valparaíso,Chile,CL,Centro,-33.0472,-71.6127,America/Santiago,13.8,9.6,11.1,0.0,0.0,6.3,284,100,83,2.6,3,2026-06-16T07:48,2026-06-16T17:46,Nublado,4.2,91.5,Sin lluvia,Templado
+2026-06-17,Valparaíso,Chile,CL,Centro,-33.0472,-71.6127,America/Santiago,14.7,10.2,12.1,0.1,1.0,18.4,45,96,71,3.0,51,2026-06-17T07:48,2026-06-17T17:46,Llovizna leve,4.5,83.5,Leve,Templado
+2026-06-18,Valparaíso,Chile,CL,Centro,-33.0472,-71.6127,America/Santiago,16.3,11.5,13.5,3.4,7.0,14.4,68,95,76,2.8,55,2026-06-18T07:48,2026-06-18T17:46,Llovizna intensa,4.8,85.5,Leve,Templado
+2026-06-19,Valparaíso,Chile,CL,Centro,-33.0472,-71.6127,America/Santiago,17.6,10.6,13.4,0.0,0.0,16.6,189,96,67,3.3,3,2026-06-19T07:49,2026-06-19T17:46,Nublado,7.0,81.5,Sin lluvia,Templado
+2026-06-20,Valparaíso,Chile,CL,Centro,-33.0472,-71.6127,America/Santiago,15.9,9.9,12.4,0.0,0.0,22.5,181,94,63,3.6,3,2026-06-20T07:49,2026-06-20T17:47,Nublado,6.0,78.5,Sin lluvia,Templado
+2026-06-21,Valparaíso,Chile,CL,Centro,-33.0472,-71.6127,America/Santiago,14.7,8.5,11.2,0.0,0.0,19.3,182,87,55,3.4,0,2026-06-21T07:49,2026-06-21T17:47,Despejado,6.2,71.0,Sin lluvia,Templado
+2026-06-22,Valparaíso,Chile,CL,Centro,-33.0472,-71.6127,America/Santiago,14.7,8.8,11.2,0.0,0.0,26.7,184,86,49,3.5,0,2026-06-22T07:49,2026-06-22T17:47,Despejado,5.9,67.5,Sin lluvia,Templado
+2026-06-15,Concepción,Chile,CL,Sur,-36.827,-73.0503,America/Santiago,15.1,5.2,9.4,0.0,0.0,16.9,129,82,59,3.0,3,2026-06-15T08:03,2026-06-15T17:42,Nublado,9.9,70.5,Sin lluvia,Frío
+2026-06-16,Concepción,Chile,CL,Sur,-36.827,-73.0503,America/Santiago,17.1,5.9,10.2,0.0,0.0,14.5,135,95,46,2.8,3,2026-06-16T08:03,2026-06-16T17:42,Nublado,11.2,70.5,Sin lluvia,Templado
+2026-06-17,Concepción,Chile,CL,Sur,-36.827,-73.0503,America/Santiago,13.6,6.9,10.8,0.3,3.0,18.4,40,97,55,2.8,51,2026-06-17T08:04,2026-06-17T17:42,Llovizna leve,6.7,76.0,Leve,Templado
+2026-06-18,Concepción,Chile,CL,Sur,-36.827,-73.0503,America/Santiago,15.0,8.3,11.5,2.0,6.0,15.5,90,98,76,1.8,53,2026-06-18T08:04,2026-06-18T17:42,Llovizna moderada,6.7,87.0,Leve,Templado
+2026-06-19,Concepción,Chile,CL,Sur,-36.827,-73.0503,America/Santiago,13.6,6.2,10.0,4.2,6.0,16.4,37,99,82,2.2,80,2026-06-19T08:04,2026-06-19T17:42,Chubascos leves,7.4,90.5,Leve,Frío
+2026-06-20,Concepción,Chile,CL,Sur,-36.827,-73.0503,America/Santiago,12.4,7.3,10.1,2.8,12.0,15.1,231,96,72,2.8,80,2026-06-20T08:04,2026-06-20T17:43,Chubascos leves,5.1,84.0,Leve,Templado
+2026-06-21,Concepción,Chile,CL,Sur,-36.827,-73.0503,America/Santiago,11.6,7.4,9.2,2.3,9.0,13.5,221,93,71,2.8,53,2026-06-21T08:05,2026-06-21T17:43,Llovizna moderada,4.2,82.0,Leve,Frío
+2026-06-22,Concepción,Chile,CL,Sur,-36.827,-73.0503,America/Santiago,10.9,3.5,7.4,0.0,0.0,10.7,170,98,76,2.8,3,2026-06-22T08:05,2026-06-22T17:43,Nublado,7.4,87.0,Sin lluvia,Frío
+2026-06-15,Antofagasta,Chile,CL,Norte,-23.6509,-70.3954,America/Santiago,18.3,13.6,15.7,0.0,0.0,10.5,241,99,72,5.3,3,2026-06-15T07:21,2026-06-15T18:02,Nublado,4.7,85.5,Sin lluvia,Templado
+2026-06-16,Antofagasta,Chile,CL,Norte,-23.6509,-70.3954,America/Santiago,17.8,13.3,15.3,0.0,0.0,9.2,258,99,77,5.3,3,2026-06-16T07:22,2026-06-16T18:02,Nublado,4.5,88.0,Sin lluvia,Templado
+2026-06-17,Antofagasta,Chile,CL,Norte,-23.6509,-70.3954,America/Santiago,17.7,14.1,15.8,0.9,8.0,8.8,281,99,76,4.1,51,2026-06-17T07:22,2026-06-17T18:02,Llovizna leve,3.6,87.5,Leve,Templado
+2026-06-18,Antofagasta,Chile,CL,Norte,-23.6509,-70.3954,America/Santiago,20.0,15.2,17.3,0.7,4.0,15.2,228,89,61,5.0,51,2026-06-18T07:22,2026-06-18T18:03,Llovizna leve,4.8,75.0,Leve,Templado
+2026-06-19,Antofagasta,Chile,CL,Norte,-23.6509,-70.3954,America/Santiago,21.6,13.3,16.9,0.0,0.0,12.1,221,97,42,5.2,2,2026-06-19T07:22,2026-06-19T18:03,Parcialmente nublado,8.3,69.5,Sin lluvia,Templado
+2026-06-20,Antofagasta,Chile,CL,Norte,-23.6509,-70.3954,America/Santiago,17.1,14.4,16.0,0.9,8.0,8.5,322,97,74,5.2,51,2026-06-20T07:23,2026-06-20T18:03,Llovizna leve,2.7,85.5,Leve,Templado
+2026-06-21,Antofagasta,Chile,CL,Norte,-23.6509,-70.3954,America/Santiago,17.2,12.9,15.5,0.0,0.0,11.8,230,89,64,4.6,3,2026-06-21T07:23,2026-06-21T18:03,Nublado,4.3,76.5,Sin lluvia,Templado
+2026-06-22,Antofagasta,Chile,CL,Norte,-23.6509,-70.3954,America/Santiago,18.4,13.0,15.5,0.0,0.0,11.3,270,91,50,4.7,3,2026-06-22T07:23,2026-06-22T18:03,Nublado,5.4,70.5,Sin lluvia,Templado
+2026-06-15,Temuco,Chile,CL,Sur,-38.7359,-72.5904,America/Santiago,9.9,0.7,4.1,0.0,0.0,9.4,205,100,69,2.8,3,2026-06-15T08:06,2026-06-15T17:34,Nublado,9.2,84.5,Sin lluvia,Frío
+2026-06-16,Temuco,Chile,CL,Sur,-38.7359,-72.5904,America/Santiago,10.1,1.1,4.1,0.0,0.0,5.6,190,100,65,2.8,3,2026-06-16T08:07,2026-06-16T17:35,Nublado,9.0,82.5,Sin lluvia,Frío
+2026-06-17,Temuco,Chile,CL,Sur,-38.7359,-72.5904,America/Santiago,13.2,0.3,6.2,0.0,0.0,12.7,3,100,61,2.4,3,2026-06-17T08:07,2026-06-17T17:35,Nublado,12.9,80.5,Sin lluvia,Frío
+2026-06-18,Temuco,Chile,CL,Sur,-38.7359,-72.5904,America/Santiago,12.5,5.5,8.4,0.1,1.0,10.3,334,98,71,2.6,51,2026-06-18T08:07,2026-06-18T17:35,Llovizna leve,7.0,84.5,Leve,Frío
+2026-06-19,Temuco,Chile,CL,Sur,-38.7359,-72.5904,America/Santiago,10.9,6.3,8.7,5.8,7.0,24.5,356,99,81,1.6,80,2026-06-19T08:08,2026-06-19T17:35,Chubascos leves,4.6,90.0,Moderada,Frío
+2026-06-20,Temuco,Chile,CL,Sur,-38.7359,-72.5904,America/Santiago,9.0,5.8,6.9,17.6,19.0,18.8,305,98,88,2.5,95,2026-06-20T08:08,2026-06-20T17:35,Tormenta eléctrica,3.2,93.0,Moderada,Frío
+2026-06-21,Temuco,Chile,CL,Sur,-38.7359,-72.5904,America/Santiago,9.6,4.5,6.6,10.2,16.0,13.1,282,99,77,2.5,80,2026-06-21T08:08,2026-06-21T17:35,Chubascos leves,5.1,88.0,Moderada,Frío
+2026-06-22,Temuco,Chile,CL,Sur,-38.7359,-72.5904,America/Santiago,9.6,4.7,6.5,1.6,12.0,10.7,283,100,71,2.0,51,2026-06-22T08:08,2026-06-22T17:36,Llovizna leve,4.9,85.5,Leve,Frío
+2026-06-15,Iquique,Chile,CL,Norte,-20.2141,-70.1522,America/Santiago,19.7,14.6,17.1,0.0,0.0,9.6,226,100,77,6.0,3,2026-06-15T07:13,2026-06-15T18:08,Nublado,5.1,88.5,Sin lluvia,Templado
+2026-06-16,Iquique,Chile,CL,Norte,-20.2141,-70.1522,America/Santiago,18.9,15.2,16.8,0.0,0.0,8.4,219,100,81,5.9,3,2026-06-16T07:13,2026-06-16T18:08,Nublado,3.7,90.5,Sin lluvia,Templado
+2026-06-17,Iquique,Chile,CL,Norte,-20.2141,-70.1522,America/Santiago,19.9,15.8,17.4,0.2,2.0,8.8,294,100,71,5.9,51,2026-06-17T07:14,2026-06-17T18:08,Llovizna leve,4.1,85.5,Leve,Templado
+2026-06-18,Iquique,Chile,CL,Norte,-20.2141,-70.1522,America/Santiago,21.1,16.6,18.6,0.1,1.0,11.2,226,91,60,5.9,51,2026-06-18T07:14,2026-06-18T18:08,Llovizna leve,4.5,75.5,Leve,Templado
+2026-06-19,Iquique,Chile,CL,Norte,-20.2141,-70.1522,America/Santiago,21.0,14.2,17.1,0.0,0.0,11.1,200,97,57,5.7,3,2026-06-19T07:14,2026-06-19T18:09,Nublado,6.8,77.0,Sin lluvia,Templado
+2026-06-20,Iquique,Chile,CL,Norte,-20.2141,-70.1522,America/Santiago,19.6,14.5,17.1,0.0,0.0,8.4,326,98,70,5.6,3,2026-06-20T07:14,2026-06-20T18:09,Nublado,5.1,84.0,Sin lluvia,Templado
+2026-06-21,Iquique,Chile,CL,Norte,-20.2141,-70.1522,America/Santiago,19.4,15.0,17.1,0.0,0.0,10.7,231,95,67,6.0,3,2026-06-21T07:15,2026-06-21T18:09,Nublado,4.4,81.0,Sin lluvia,Templado
+2026-06-22,Iquique,Chile,CL,Norte,-20.2141,-70.1522,America/Santiago,19.4,14.0,16.3,0.0,0.0,10.7,220,95,70,6.0,3,2026-06-22T07:15,2026-06-22T18:09,Nublado,5.4,82.5,Sin lluvia,Templado
+2026-06-15,Buenos Aires,Argentina,AR,Pampeana,-34.6037,-58.3816,America/Argentina/Buenos_Aires,13.4,2.3,7.3,0.0,0.0,14.9,303,79,53,3.2,1,2026-06-15T07:58,2026-06-15T17:49,Mayormente despejado,11.1,66.0,Sin lluvia,Frío
+2026-06-16,Buenos Aires,Argentina,AR,Pampeana,-34.6037,-58.3816,America/Argentina/Buenos_Aires,17.9,7.3,11.6,0.0,0.0,15.5,294,86,59,3.3,1,2026-06-16T07:59,2026-06-16T17:49,Mayormente despejado,10.6,72.5,Sin lluvia,Templado
+2026-06-17,Buenos Aires,Argentina,AR,Pampeana,-34.6037,-58.3816,America/Argentina/Buenos_Aires,13.3,6.4,10.3,0.0,0.0,16.0,112,88,67,3.3,3,2026-06-17T07:59,2026-06-17T17:49,Nublado,6.9,77.5,Sin lluvia,Templado
+2026-06-18,Buenos Aires,Argentina,AR,Pampeana,-34.6037,-58.3816,America/Argentina/Buenos_Aires,12.7,9.9,11.1,9.1,9.0,15.6,44,95,73,1.7,63,2026-06-18T07:59,2026-06-18T17:49,Lluvia moderada,2.8,84.0,Moderada,Templado
+2026-06-19,Buenos Aires,Argentina,AR,Pampeana,-34.6037,-58.3816,America/Argentina/Buenos_Aires,14.4,8.3,10.8,0.8,4.0,18.6,230,97,45,3.2,51,2026-06-19T08:00,2026-06-19T17:50,Llovizna leve,6.1,71.0,Leve,Templado
+2026-06-20,Buenos Aires,Argentina,AR,Pampeana,-34.6037,-58.3816,America/Argentina/Buenos_Aires,14.3,5.6,9.6,0.0,0.0,12.4,343,84,62,3.2,3,2026-06-20T08:00,2026-06-20T17:50,Nublado,8.7,73.0,Sin lluvia,Frío
+2026-06-21,Buenos Aires,Argentina,AR,Pampeana,-34.6037,-58.3816,America/Argentina/Buenos_Aires,14.0,8.0,10.4,0.1,1.0,11.8,326,83,64,2.8,51,2026-06-21T08:00,2026-06-21T17:50,Llovizna leve,6.0,73.5,Leve,Templado
+2026-06-22,Buenos Aires,Argentina,AR,Pampeana,-34.6037,-58.3816,America/Argentina/Buenos_Aires,11.6,6.8,8.9,0.0,0.0,15.4,240,83,55,2.8,3,2026-06-22T08:00,2026-06-22T17:50,Nublado,4.8,69.0,Sin lluvia,Frío
+2026-06-15,Córdoba,Argentina,AR,Centro,-31.4201,-64.1888,America/Argentina/Cordoba,16.6,3.9,8.7,0.0,0.0,10.2,44,97,61,3.1,3,2026-06-15T08:14,2026-06-15T18:20,Nublado,12.7,79.0,Sin lluvia,Frío
+2026-06-16,Córdoba,Argentina,AR,Centro,-31.4201,-64.1888,America/Argentina/Cordoba,19.3,5.1,11.0,0.0,0.0,6.3,294,100,49,3.3,3,2026-06-16T08:14,2026-06-16T18:20,Nublado,14.2,74.5,Sin lluvia,Templado
+2026-06-17,Córdoba,Argentina,AR,Centro,-31.4201,-64.1888,America/Argentina/Cordoba,17.0,6.7,11.5,0.0,0.0,17.1,21,91,59,3.6,3,2026-06-17T08:14,2026-06-17T18:20,Nublado,10.3,75.0,Sin lluvia,Templado
+2026-06-18,Córdoba,Argentina,AR,Centro,-31.4201,-64.1888,America/Argentina/Cordoba,15.6,11.6,12.9,1.9,10.0,17.5,63,98,72,3.0,53,2026-06-18T08:14,2026-06-18T18:20,Llovizna moderada,4.0,85.0,Leve,Templado
+2026-06-19,Córdoba,Argentina,AR,Centro,-31.4201,-64.1888,America/Argentina/Cordoba,17.1,7.7,11.9,0.0,0.0,14.2,177,76,38,3.8,3,2026-06-19T08:15,2026-06-19T18:21,Nublado,9.4,57.0,Sin lluvia,Templado
+2026-06-20,Córdoba,Argentina,AR,Centro,-31.4201,-64.1888,America/Argentina/Cordoba,20.1,6.4,11.5,0.0,0.0,20.2,32,84,41,3.9,3,2026-06-20T08:15,2026-06-20T18:21,Nublado,13.7,62.5,Sin lluvia,Templado
+2026-06-21,Córdoba,Argentina,AR,Centro,-31.4201,-64.1888,America/Argentina/Cordoba,14.7,6.5,9.9,2.0,7.0,11.0,196,93,55,3.8,53,2026-06-21T08:15,2026-06-21T18:21,Llovizna moderada,8.2,74.0,Leve,Frío
+2026-06-22,Córdoba,Argentina,AR,Centro,-31.4201,-64.1888,America/Argentina/Cordoba,13.0,4.0,8.2,2.5,4.0,15.5,209,96,38,3.8,53,2026-06-22T08:15,2026-06-22T18:21,Llovizna moderada,9.0,67.0,Leve,Frío
+2026-06-15,Rosario,Argentina,AR,Pampeana,-32.9442,-60.6505,America/Argentina/Buenos_Aires,13.4,3.2,7.9,0.0,0.0,11.8,332,98,58,3.2,3,2026-06-15T08:03,2026-06-15T18:02,Nublado,10.2,78.0,Sin lluvia,Frío
+2026-06-16,Rosario,Argentina,AR,Pampeana,-32.9442,-60.6505,America/Argentina/Buenos_Aires,18.1,6.6,11.1,0.0,0.0,12.1,313,95,65,3.2,3,2026-06-16T08:03,2026-06-16T18:02,Nublado,11.5,80.0,Sin lluvia,Templado
+2026-06-17,Rosario,Argentina,AR,Pampeana,-32.9442,-60.6505,America/Argentina/Buenos_Aires,15.1,6.6,10.6,0.0,0.0,13.1,79,100,77,3.4,3,2026-06-17T08:04,2026-06-17T18:03,Nublado,8.5,88.5,Sin lluvia,Templado
+2026-06-18,Rosario,Argentina,AR,Pampeana,-32.9442,-60.6505,America/Argentina/Buenos_Aires,11.6,10.1,10.8,22.1,14.0,14.5,67,99,92,1.0,81,2026-06-18T08:04,2026-06-18T18:03,Chubascos moderados,1.5,95.5,Fuerte,Templado
+2026-06-19,Rosario,Argentina,AR,Pampeana,-32.9442,-60.6505,America/Argentina/Buenos_Aires,15.9,7.6,10.9,0.1,1.0,19.6,225,97,43,3.4,51,2026-06-19T08:04,2026-06-19T18:03,Llovizna leve,8.3,70.0,Leve,Templado
+2026-06-20,Rosario,Argentina,AR,Pampeana,-32.9442,-60.6505,America/Argentina/Buenos_Aires,15.4,7.0,10.1,0.0,0.0,10.5,4,91,53,3.4,3,2026-06-20T08:04,2026-06-20T18:03,Nublado,8.4,72.0,Sin lluvia,Templado
+2026-06-21,Rosario,Argentina,AR,Pampeana,-32.9442,-60.6505,America/Argentina/Buenos_Aires,14.3,6.6,10.2,0.0,0.0,8.0,111,98,66,3.0,3,2026-06-21T08:05,2026-06-21T18:03,Nublado,7.7,82.0,Sin lluvia,Templado
+2026-06-22,Rosario,Argentina,AR,Pampeana,-32.9442,-60.6505,America/Argentina/Buenos_Aires,12.3,6.6,9.2,0.9,2.0,19.5,230,91,52,3.3,53,2026-06-22T08:05,2026-06-22T18:04,Llovizna moderada,5.7,71.5,Leve,Frío
+2026-06-15,Mendoza,Argentina,AR,Cuyo,-32.8908,-68.8272,America/Argentina/Mendoza,13.4,2.2,7.0,0.0,0.0,7.6,115,93,55,3.4,3,2026-06-15T08:36,2026-06-15T18:35,Nublado,11.2,74.0,Sin lluvia,Frío
+2026-06-16,Mendoza,Argentina,AR,Cuyo,-32.8908,-68.8272,America/Argentina/Mendoza,16.7,5.4,10.2,0.0,0.0,4.7,119,81,28,3.2,3,2026-06-16T08:36,2026-06-16T18:35,Nublado,11.3,54.5,Sin lluvia,Templado
+2026-06-17,Mendoza,Argentina,AR,Cuyo,-32.8908,-68.8272,America/Argentina/Mendoza,14.1,7.2,10.1,0.0,0.0,7.0,119,62,39,3.2,3,2026-06-17T08:36,2026-06-17T18:35,Nublado,6.9,50.5,Sin lluvia,Templado
+2026-06-18,Mendoza,Argentina,AR,Cuyo,-32.8908,-68.8272,America/Argentina/Mendoza,18.6,5.1,12.2,0.0,0.0,23.9,189,96,29,3.3,3,2026-06-18T08:37,2026-06-18T18:36,Nublado,13.5,62.5,Sin lluvia,Templado
+2026-06-19,Mendoza,Argentina,AR,Cuyo,-32.8908,-68.8272,America/Argentina/Mendoza,13.4,4.5,8.8,0.0,0.0,8.9,16,76,51,3.6,3,2026-06-19T08:37,2026-06-19T18:36,Nublado,8.9,63.5,Sin lluvia,Frío
+2026-06-20,Mendoza,Argentina,AR,Cuyo,-32.8908,-68.8272,America/Argentina/Mendoza,19.0,4.6,9.9,0.0,0.0,16.1,180,87,22,3.6,3,2026-06-20T08:37,2026-06-20T18:36,Nublado,14.4,54.5,Sin lluvia,Frío
+2026-06-21,Mendoza,Argentina,AR,Cuyo,-32.8908,-68.8272,America/Argentina/Mendoza,14.0,4.8,8.8,0.9,5.0,23.4,221,59,25,3.6,51,2026-06-21T08:37,2026-06-21T18:36,Llovizna leve,9.2,42.0,Leve,Frío
+2026-06-22,Mendoza,Argentina,AR,Cuyo,-32.8908,-68.8272,America/Argentina/Mendoza,8.6,2.6,5.8,0.0,0.0,12.1,353,72,44,3.6,1,2026-06-22T08:37,2026-06-22T18:36,Mayormente despejado,6.0,58.0,Sin lluvia,Frío
+2026-06-15,Tucumán,Argentina,AR,NOA,-26.8241,-65.2226,America/Argentina/Tucuman,14.1,10.9,12.2,0.1,1.0,5.5,134,95,77,3.0,51,2026-06-15T08:07,2026-06-15T18:35,Llovizna leve,3.2,86.0,Leve,Templado
+2026-06-16,Tucumán,Argentina,AR,NOA,-26.8241,-65.2226,America/Argentina/Tucuman,17.2,8.9,12.7,0.0,0.0,4.3,163,100,67,4.3,3,2026-06-16T08:07,2026-06-16T18:35,Nublado,8.3,83.5,Sin lluvia,Templado
+2026-06-17,Tucumán,Argentina,AR,NOA,-26.8241,-65.2226,America/Argentina/Tucuman,16.2,9.0,12.5,0.0,0.0,8.6,66,100,65,3.8,3,2026-06-17T08:08,2026-06-17T18:35,Nublado,7.2,82.5,Sin lluvia,Templado
+2026-06-18,Tucumán,Argentina,AR,NOA,-26.8241,-65.2226,America/Argentina/Tucuman,17.1,11.0,13.8,0.0,0.0,14.1,220,94,62,4.6,3,2026-06-18T08:08,2026-06-18T18:35,Nublado,6.1,78.0,Sin lluvia,Templado
+2026-06-19,Tucumán,Argentina,AR,NOA,-26.8241,-65.2226,America/Argentina/Tucuman,19.4,8.5,13.6,0.0,0.0,11.0,41,96,47,4.6,1,2026-06-19T08:08,2026-06-19T18:35,Mayormente despejado,10.9,71.5,Sin lluvia,Templado
+2026-06-20,Tucumán,Argentina,AR,NOA,-26.8241,-65.2226,America/Argentina/Tucuman,18.6,6.2,11.7,0.0,0.0,8.2,253,98,48,4.6,2,2026-06-20T08:08,2026-06-20T18:35,Parcialmente nublado,12.4,73.0,Sin lluvia,Templado
+2026-06-21,Tucumán,Argentina,AR,NOA,-26.8241,-65.2226,America/Argentina/Tucuman,17.4,7.6,12.4,0.3,2.0,15.0,214,93,50,4.6,51,2026-06-21T08:09,2026-06-21T18:36,Llovizna leve,9.8,71.5,Leve,Templado
+2026-06-22,Tucumán,Argentina,AR,NOA,-26.8241,-65.2226,America/Argentina/Tucuman,14.6,9.4,12.1,0.1,1.0,13.6,225,79,47,2.0,51,2026-06-22T08:09,2026-06-22T18:36,Llovizna leve,5.2,63.0,Leve,Templado
+2026-06-15,Mar del Plata,Argentina,AR,Pampeana,-38.0023,-57.5575,America/Argentina/Buenos_Aires,12.6,3.3,7.3,0.0,0.0,19.9,307,83,65,2.8,1,2026-06-15T08:04,2026-06-15T17:36,Mayormente despejado,9.3,74.0,Sin lluvia,Frío
+2026-06-16,Mar del Plata,Argentina,AR,Pampeana,-38.0023,-57.5575,America/Argentina/Buenos_Aires,16.2,6.4,10.3,0.0,0.0,27.6,261,85,41,2.8,0,2026-06-16T08:05,2026-06-16T17:37,Despejado,9.8,63.0,Sin lluvia,Templado
+2026-06-17,Mar del Plata,Argentina,AR,Pampeana,-38.0023,-57.5575,America/Argentina/Buenos_Aires,10.7,6.7,9.1,0.0,0.0,21.2,157,82,58,2.8,3,2026-06-17T08:05,2026-06-17T17:37,Nublado,4.0,70.0,Sin lluvia,Frío
+2026-06-18,Mar del Plata,Argentina,AR,Pampeana,-38.0023,-57.5575,America/Argentina/Buenos_Aires,12.4,5.9,8.9,8.1,8.0,23.2,355,97,71,2.0,61,2026-06-18T08:05,2026-06-18T17:37,Lluvia leve,6.5,84.0,Moderada,Frío
+2026-06-19,Mar del Plata,Argentina,AR,Pampeana,-38.0023,-57.5575,America/Argentina/Buenos_Aires,13.2,6.9,10.2,1.0,3.0,26.5,225,97,54,2.6,51,2026-06-19T08:05,2026-06-19T17:37,Llovizna leve,6.3,75.5,Leve,Templado
+2026-06-20,Mar del Plata,Argentina,AR,Pampeana,-38.0023,-57.5575,America/Argentina/Buenos_Aires,12.4,4.2,7.9,0.0,0.0,21.3,325,89,58,2.7,3,2026-06-20T08:06,2026-06-20T17:37,Nublado,8.2,73.5,Sin lluvia,Frío
+2026-06-21,Mar del Plata,Argentina,AR,Pampeana,-38.0023,-57.5575,America/Argentina/Buenos_Aires,14.3,5.5,8.5,0.0,0.0,18.7,317,84,53,2.7,3,2026-06-21T08:06,2026-06-21T17:37,Nublado,8.8,68.5,Sin lluvia,Frío
+2026-06-22,Mar del Plata,Argentina,AR,Pampeana,-38.0023,-57.5575,America/Argentina/Buenos_Aires,10.7,4.3,6.6,0.2,2.0,19.0,254,95,63,2.6,51,2026-06-22T08:06,2026-06-22T17:38,Llovizna leve,6.4,79.0,Leve,Frío
+2026-06-15,Salta,Argentina,AR,NOA,-24.7821,-65.4232,America/Argentina/Salta,14.3,6.8,9.1,0.5,5.0,7.7,48,100,65,3.2,51,2026-06-15T08:03,2026-06-15T18:40,Llovizna leve,7.5,82.5,Leve,Frío
+2026-06-16,Salta,Argentina,AR,NOA,-24.7821,-65.4232,America/Argentina/Salta,18.1,5.1,9.1,0.0,0.0,9.6,69,100,51,5.2,3,2026-06-16T08:04,2026-06-16T18:40,Nublado,13.0,75.5,Sin lluvia,Frío
+2026-06-17,Salta,Argentina,AR,NOA,-24.7821,-65.4232,America/Argentina/Salta,13.2,5.2,8.1,0.0,0.0,11.1,61,100,67,4.6,3,2026-06-17T08:04,2026-06-17T18:40,Nublado,8.0,83.5,Sin lluvia,Frío
+2026-06-18,Salta,Argentina,AR,NOA,-24.7821,-65.4232,America/Argentina/Salta,15.8,4.0,9.2,0.3,2.0,11.8,351,100,60,5.2,51,2026-06-18T08:04,2026-06-18T18:40,Llovizna leve,11.8,80.0,Leve,Frío
+2026-06-19,Salta,Argentina,AR,NOA,-24.7821,-65.4232,America/Argentina/Salta,17.1,6.0,10.2,0.0,0.0,11.5,359,100,43,5.1,3,2026-06-19T08:04,2026-06-19T18:40,Nublado,11.1,71.5,Sin lluvia,Templado
+2026-06-20,Salta,Argentina,AR,NOA,-24.7821,-65.4232,America/Argentina/Salta,18.0,2.5,8.4,0.0,0.0,5.8,318,100,39,5.2,3,2026-06-20T08:05,2026-06-20T18:41,Nublado,15.5,69.5,Sin lluvia,Frío
+2026-06-21,Salta,Argentina,AR,NOA,-24.7821,-65.4232,America/Argentina/Salta,19.0,2.5,9.1,0.0,0.0,11.9,18,100,46,5.0,3,2026-06-21T08:05,2026-06-21T18:41,Nublado,16.5,73.0,Sin lluvia,Frío
+2026-06-22,Salta,Argentina,AR,NOA,-24.7821,-65.4232,America/Argentina/Salta,7.3,4.1,6.2,6.9,17.0,12.7,312,97,77,1.8,53,2026-06-22T08:05,2026-06-22T18:41,Llovizna moderada,3.2,87.0,Moderada,Frío
+2026-06-15,Bariloche,Argentina,AR,Patagonia,-41.1335,-71.3103,America/Argentina/Buenos_Aires,12.1,1.9,5.3,0.0,0.0,9.8,244,84,46,2.6,0,2026-06-15T09:09,2026-06-15T18:22,Despejado,10.2,65.0,Sin lluvia,Frío
+2026-06-16,Bariloche,Argentina,AR,Patagonia,-41.1335,-71.3103,America/Argentina/Buenos_Aires,12.9,3.1,6.3,0.0,0.0,11.0,229,68,33,2.2,2,2026-06-16T09:09,2026-06-16T18:22,Parcialmente nublado,9.8,50.5,Sin lluvia,Frío
+2026-06-17,Bariloche,Argentina,AR,Patagonia,-41.1335,-71.3103,America/Argentina/Buenos_Aires,7.2,2.2,4.9,0.0,0.0,12.2,162,80,43,2.6,3,2026-06-17T09:09,2026-06-17T18:22,Nublado,5.0,61.5,Sin lluvia,Frío
+2026-06-18,Bariloche,Argentina,AR,Patagonia,-41.1335,-71.3103,America/Argentina/Buenos_Aires,6.9,4.6,5.5,0.0,0.0,23.6,287,85,61,2.4,3,2026-06-18T09:10,2026-06-18T18:22,Nublado,2.3,73.0,Sin lluvia,Frío
+2026-06-19,Bariloche,Argentina,AR,Patagonia,-41.1335,-71.3103,America/Argentina/Buenos_Aires,6.7,3.6,4.7,11.5,10.0,22.6,286,100,79,2.0,86,2026-06-19T09:10,2026-06-19T18:22,Chubascos de nieve intensos,3.1,89.5,Moderada,Frío
+2026-06-20,Bariloche,Argentina,AR,Patagonia,-41.1335,-71.3103,America/Argentina/Buenos_Aires,5.3,2.9,4.1,4.0,20.0,27.0,299,96,78,2.8,85,2026-06-20T09:10,2026-06-20T18:23,Chubascos de nieve leves,2.4,87.0,Leve,Frío
+2026-06-21,Bariloche,Argentina,AR,Patagonia,-41.1335,-71.3103,America/Argentina/Buenos_Aires,6.5,3.5,4.5,0.3,2.0,16.1,283,92,64,2.4,51,2026-06-21T09:11,2026-06-21T18:23,Llovizna leve,3.0,78.0,Leve,Frío
+2026-06-22,Bariloche,Argentina,AR,Patagonia,-41.1335,-71.3103,America/Argentina/Buenos_Aires,5.6,2.5,4.2,0.0,0.0,17.6,281,83,65,2.2,3,2026-06-22T09:11,2026-06-22T18:23,Nublado,3.1,74.0,Sin lluvia,Frío
+2026-06-15,Asunción,Paraguay,PY,Sur,-25.2867,-57.647,America/Asuncion,16.6,11.6,13.8,0.0,0.0,11.6,172,97,66,4.4,3,2026-06-15T07:33,2026-06-15T18:08,Nublado,5.0,81.5,Sin lluvia,Templado
+2026-06-16,Asunción,Paraguay,PY,Sur,-25.2867,-57.647,America/Asuncion,18.1,8.6,12.9,0.0,0.0,9.0,160,97,55,4.5,3,2026-06-16T07:34,2026-06-16T18:08,Nublado,9.5,76.0,Sin lluvia,Templado
+2026-06-17,Asunción,Paraguay,PY,Sur,-25.2867,-57.647,America/Asuncion,21.3,9.2,14.7,0.0,0.0,9.8,126,98,52,4.4,3,2026-06-17T07:34,2026-06-17T18:08,Nublado,12.1,75.0,Sin lluvia,Templado
+2026-06-18,Asunción,Paraguay,PY,Sur,-25.2867,-57.647,America/Asuncion,23.2,15.2,18.8,0.0,0.0,19.9,52,87,59,3.0,3,2026-06-18T07:34,2026-06-18T18:08,Nublado,8.0,73.0,Sin lluvia,Templado
+2026-06-19,Asunción,Paraguay,PY,Sur,-25.2867,-57.647,America/Asuncion,19.2,12.5,15.9,48.7,15.0,21.9,204,98,67,2.1,96,2026-06-19T07:34,2026-06-19T18:08,Tormenta con granizo leve,6.7,82.5,Fuerte,Templado
+2026-06-20,Asunción,Paraguay,PY,Sur,-25.2867,-57.647,America/Asuncion,17.0,9.1,13.0,0.0,0.0,10.4,64,100,59,4.6,3,2026-06-20T07:35,2026-06-20T18:08,Nublado,7.9,79.5,Sin lluvia,Templado
+2026-06-21,Asunción,Paraguay,PY,Sur,-25.2867,-57.647,America/Asuncion,21.2,9.0,14.9,0.0,0.0,11.7,71,97,55,4.6,3,2026-06-21T07:35,2026-06-21T18:09,Nublado,12.2,76.0,Sin lluvia,Templado
+2026-06-22,Asunción,Paraguay,PY,Sur,-25.2867,-57.647,America/Asuncion,17.5,11.5,14.8,6.9,8.0,21.8,198,98,60,4.6,95,2026-06-22T07:35,2026-06-22T18:09,Tormenta eléctrica,6.0,79.0,Moderada,Templado
+2026-06-15,Ciudad del Este,Paraguay,PY,Este,-25.5097,-54.6106,America/Asuncion,19.0,9.6,13.5,0.0,0.0,11.4,193,93,58,4.5,3,2026-06-15T07:22,2026-06-15T17:55,Nublado,9.4,75.5,Sin lluvia,Templado
+2026-06-16,Ciudad del Este,Paraguay,PY,Este,-25.5097,-54.6106,America/Asuncion,19.3,7.3,12.3,0.0,0.0,8.6,192,99,58,4.8,3,2026-06-16T07:22,2026-06-16T17:55,Nublado,12.0,78.5,Sin lluvia,Templado
+2026-06-17,Ciudad del Este,Paraguay,PY,Este,-25.5097,-54.6106,America/Asuncion,22.7,8.6,13.8,0.0,0.0,8.5,122,100,49,4.8,3,2026-06-17T07:23,2026-06-17T17:55,Nublado,14.1,74.5,Sin lluvia,Templado
+2026-06-18,Ciudad del Este,Paraguay,PY,Este,-25.5097,-54.6106,America/Asuncion,21.8,10.5,16.0,0.0,0.0,16.5,60,87,52,3.7,3,2026-06-18T07:23,2026-06-18T17:55,Nublado,11.3,69.5,Sin lluvia,Templado
+2026-06-19,Ciudad del Este,Paraguay,PY,Este,-25.5097,-54.6106,America/Asuncion,17.9,13.3,15.3,28.5,12.0,22.8,45,98,62,1.2,95,2026-06-19T07:23,2026-06-19T17:56,Tormenta eléctrica,4.6,80.0,Fuerte,Templado
+2026-06-20,Ciudad del Este,Paraguay,PY,Este,-25.5097,-54.6106,America/Asuncion,15.6,10.5,13.1,0.3,3.0,12.5,225,97,72,2.8,51,2026-06-20T07:23,2026-06-20T17:56,Llovizna leve,5.1,84.5,Leve,Templado
+2026-06-21,Ciudad del Este,Paraguay,PY,Este,-25.5097,-54.6106,America/Asuncion,19.9,9.0,14.1,0.0,0.0,15.7,51,99,65,4.8,3,2026-06-21T07:24,2026-06-21T17:56,Nublado,10.9,82.0,Sin lluvia,Templado
+2026-06-22,Ciudad del Este,Paraguay,PY,Este,-25.5097,-54.6106,America/Asuncion,17.8,10.9,15.8,20.5,10.0,25.5,303,98,66,1.4,96,2026-06-22T07:24,2026-06-22T17:56,Tormenta con granizo leve,6.9,82.0,Fuerte,Templado
+2026-06-15,Montevideo,Uruguay,UY,Sur,-34.9011,-56.1645,America/Montevideo,11.6,6.7,8.9,0.0,0.0,22.7,301,85,65,3.2,3,2026-06-15T07:50,2026-06-15T17:39,Nublado,4.9,75.0,Sin lluvia,Frío
+2026-06-16,Montevideo,Uruguay,UY,Sur,-34.9011,-56.1645,America/Montevideo,14.9,8.1,11.5,0.0,0.0,31.5,299,83,71,3.3,0,2026-06-16T07:50,2026-06-16T17:39,Despejado,6.8,77.0,Sin lluvia,Templado
+2026-06-17,Montevideo,Uruguay,UY,Sur,-34.9011,-56.1645,America/Montevideo,13.2,8.5,11.3,0.0,0.0,23.2,140,88,65,3.3,2,2026-06-17T07:51,2026-06-17T17:40,Parcialmente nublado,4.7,76.5,Sin lluvia,Templado
+2026-06-18,Montevideo,Uruguay,UY,Sur,-34.9011,-56.1645,America/Montevideo,14.0,7.1,10.3,3.6,3.0,25.9,38,88,66,2.0,81,2026-06-18T07:51,2026-06-18T17:40,Chubascos moderados,6.9,77.0,Leve,Templado
+2026-06-19,Montevideo,Uruguay,UY,Sur,-34.9011,-56.1645,America/Montevideo,12.2,10.2,11.3,4.8,11.0,34.3,231,95,73,3.2,61,2026-06-19T07:51,2026-06-19T17:40,Lluvia leve,2.0,84.0,Leve,Templado
+2026-06-20,Montevideo,Uruguay,UY,Sur,-34.9011,-56.1645,America/Montevideo,13.0,6.3,9.6,0.0,0.0,15.6,335,92,62,2.9,3,2026-06-20T07:52,2026-06-20T17:40,Nublado,6.7,77.0,Sin lluvia,Frío
+2026-06-21,Montevideo,Uruguay,UY,Sur,-34.9011,-56.1645,America/Montevideo,12.3,6.7,9.2,0.0,0.0,16.3,350,93,70,2.2,3,2026-06-21T07:52,2026-06-21T17:40,Nublado,5.6,81.5,Sin lluvia,Frío
+2026-06-22,Montevideo,Uruguay,UY,Sur,-34.9011,-56.1645,America/Montevideo,11.1,8.0,9.5,0.4,4.0,28.1,265,98,69,2.3,51,2026-06-22T07:52,2026-06-22T17:41,Llovizna leve,3.1,83.5,Leve,Frío
+2026-06-15,Punta del Este,Uruguay,UY,Sur,-34.9721,-54.9377,America/Montevideo,11.7,5.1,8.0,0.0,0.0,22.2,299,76,57,3.2,1,2026-06-15T07:45,2026-06-15T17:34,Mayormente despejado,6.6,66.5,Sin lluvia,Frío
+2026-06-16,Punta del Este,Uruguay,UY,Sur,-34.9721,-54.9377,America/Montevideo,16.1,7.3,11.4,0.0,0.0,31.9,291,79,64,3.3,0,2026-06-16T07:45,2026-06-16T17:34,Despejado,8.8,71.5,Sin lluvia,Templado
+2026-06-17,Punta del Este,Uruguay,UY,Sur,-34.9721,-54.9377,America/Montevideo,13.1,6.9,10.7,0.0,0.0,23.6,175,88,64,3.3,2,2026-06-17T07:46,2026-06-17T17:35,Parcialmente nublado,6.2,76.0,Sin lluvia,Templado
+2026-06-18,Punta del Este,Uruguay,UY,Sur,-34.9721,-54.9377,America/Montevideo,14.3,5.6,9.9,0.0,0.0,27.0,36,90,61,2.0,3,2026-06-18T07:46,2026-06-18T17:35,Nublado,8.7,75.5,Sin lluvia,Frío
+2026-06-19,Punta del Este,Uruguay,UY,Sur,-34.9721,-54.9377,America/Montevideo,12.6,10.1,11.4,6.6,11.0,34.1,237,97,66,2.6,63,2026-06-19T07:46,2026-06-19T17:35,Lluvia moderada,2.5,81.5,Moderada,Templado
+2026-06-20,Punta del Este,Uruguay,UY,Sur,-34.9721,-54.9377,America/Montevideo,13.4,6.5,9.4,0.0,0.0,14.2,312,90,52,3.0,3,2026-06-20T07:47,2026-06-20T17:35,Nublado,6.9,71.0,Sin lluvia,Frío
+2026-06-21,Punta del Este,Uruguay,UY,Sur,-34.9721,-54.9377,America/Montevideo,12.3,6.2,8.7,0.0,0.0,11.9,359,86,65,2.2,3,2026-06-21T07:47,2026-06-21T17:35,Nublado,6.1,75.5,Sin lluvia,Frío
+2026-06-22,Punta del Este,Uruguay,UY,Sur,-34.9721,-54.9377,America/Montevideo,11.8,6.9,9.3,0.9,4.0,26.3,258,90,77,2.6,51,2026-06-22T07:47,2026-06-22T17:36,Llovizna leve,4.9,83.5,Leve,Frío
+2026-06-15,São Paulo,Brasil,BR,Sudeste,-23.5505,-46.6333,America/Sao_Paulo,16.8,14.3,15.7,17.0,22.0,9.5,159,99,87,0.7,95,2026-06-15T06:46,2026-06-15T17:27,Tormenta eléctrica,2.5,93.0,Moderada,Templado
+2026-06-16,São Paulo,Brasil,BR,Sudeste,-23.5505,-46.6333,America/Sao_Paulo,17.6,13.7,15.0,1.0,6.0,7.6,161,97,75,4.2,51,2026-06-16T06:46,2026-06-16T17:27,Llovizna leve,3.9,86.0,Leve,Templado
+2026-06-17,São Paulo,Brasil,BR,Sudeste,-23.5505,-46.6333,America/Sao_Paulo,18.9,10.0,14.0,0.0,0.0,9.7,141,100,39,5.2,3,2026-06-17T06:46,2026-06-17T17:28,Nublado,8.9,69.5,Sin lluvia,Templado
+2026-06-18,São Paulo,Brasil,BR,Sudeste,-23.5505,-46.6333,America/Sao_Paulo,18.2,9.6,12.9,0.0,0.0,11.1,110,100,42,5.2,3,2026-06-18T06:46,2026-06-18T17:28,Nublado,8.6,71.0,Sin lluvia,Templado
+2026-06-19,São Paulo,Brasil,BR,Sudeste,-23.5505,-46.6333,America/Sao_Paulo,23.3,9.6,15.6,0.0,0.0,14.1,28,98,42,5.2,3,2026-06-19T06:47,2026-06-19T17:28,Nublado,13.7,70.0,Sin lluvia,Templado
+2026-06-20,São Paulo,Brasil,BR,Sudeste,-23.5505,-46.6333,America/Sao_Paulo,22.8,13.4,17.7,7.1,7.0,16.3,328,95,50,4.8,81,2026-06-20T06:47,2026-06-20T17:28,Chubascos moderados,9.4,72.5,Moderada,Templado
+2026-06-21,São Paulo,Brasil,BR,Sudeste,-23.5505,-46.6333,America/Sao_Paulo,20.4,11.4,15.6,0.0,0.0,12.4,292,96,54,5.2,3,2026-06-21T06:47,2026-06-21T17:28,Nublado,9.0,75.0,Sin lluvia,Templado
+2026-06-22,São Paulo,Brasil,BR,Sudeste,-23.5505,-46.6333,America/Sao_Paulo,24.6,10.9,17.5,0.0,0.0,15.8,355,97,39,5.2,3,2026-06-22T06:47,2026-06-22T17:29,Nublado,13.7,68.0,Sin lluvia,Templado
+2026-06-15,Río de Janeiro,Brasil,BR,Sudeste,-22.9068,-43.1729,America/Sao_Paulo,22.9,20.0,21.2,19.6,20.0,19.4,185,98,81,4.4,96,2026-06-15T06:31,2026-06-15T17:15,Tormenta con granizo leve,2.9,89.5,Moderada,Cálido
+2026-06-16,Río de Janeiro,Brasil,BR,Sudeste,-22.9068,-43.1729,America/Sao_Paulo,20.7,19.2,20.0,26.2,22.0,17.2,161,97,86,0.9,96,2026-06-16T06:31,2026-06-16T17:15,Tormenta con granizo leve,1.5,91.5,Fuerte,Templado
+2026-06-17,Río de Janeiro,Brasil,BR,Sudeste,-22.9068,-43.1729,America/Sao_Paulo,21.2,18.5,19.6,5.4,13.0,13.9,223,95,69,5.0,55,2026-06-17T06:31,2026-06-17T17:15,Llovizna intensa,2.7,82.0,Moderada,Templado
+2026-06-18,Río de Janeiro,Brasil,BR,Sudeste,-22.9068,-43.1729,America/Sao_Paulo,22.2,17.3,19.5,0.0,0.0,8.9,243,83,55,5.1,3,2026-06-18T06:32,2026-06-18T17:15,Nublado,4.9,69.0,Sin lluvia,Templado
+2026-06-19,Río de Janeiro,Brasil,BR,Sudeste,-22.9068,-43.1729,America/Sao_Paulo,24.2,16.4,20.0,0.0,0.0,10.3,36,92,57,5.2,3,2026-06-19T06:32,2026-06-19T17:15,Nublado,7.8,74.5,Sin lluvia,Templado
+2026-06-20,Río de Janeiro,Brasil,BR,Sudeste,-22.9068,-43.1729,America/Sao_Paulo,26.4,17.3,21.3,0.0,0.0,13.3,7,93,54,5.1,3,2026-06-20T06:32,2026-06-20T17:16,Nublado,9.1,73.5,Sin lluvia,Cálido
+2026-06-21,Río de Janeiro,Brasil,BR,Sudeste,-22.9068,-43.1729,America/Sao_Paulo,22.1,19.2,21.0,1.5,7.0,21.3,231,93,73,1.3,51,2026-06-21T06:32,2026-06-21T17:16,Llovizna leve,2.9,83.0,Leve,Cálido
+2026-06-22,Río de Janeiro,Brasil,BR,Sudeste,-22.9068,-43.1729,America/Sao_Paulo,24.7,17.9,21.0,0.0,0.0,10.6,52,96,68,5.1,3,2026-06-22T06:33,2026-06-22T17:16,Nublado,6.8,82.0,Sin lluvia,Cálido
+2026-06-15,Brasília,Brasil,BR,Centro-Oeste,-15.7801,-47.9292,America/Sao_Paulo,26.4,17.1,21.5,1.7,7.0,11.4,186,94,47,6.3,53,2026-06-15T06:36,2026-06-15T17:47,Llovizna moderada,9.3,70.5,Leve,Cálido
+2026-06-16,Brasília,Brasil,BR,Centro-Oeste,-15.7801,-47.9292,America/Sao_Paulo,26.4,17.5,21.8,0.5,4.0,10.5,162,90,45,6.3,51,2026-06-16T06:36,2026-06-16T17:48,Llovizna leve,8.9,67.5,Leve,Cálido
+2026-06-17,Brasília,Brasil,BR,Centro-Oeste,-15.7801,-47.9292,America/Sao_Paulo,26.3,16.6,21.0,0.1,1.0,12.0,166,88,40,6.3,51,2026-06-17T06:36,2026-06-17T17:48,Llovizna leve,9.7,64.0,Leve,Cálido
+2026-06-18,Brasília,Brasil,BR,Centro-Oeste,-15.7801,-47.9292,America/Sao_Paulo,26.5,15.8,20.7,0.0,0.0,12.8,118,76,36,6.3,3,2026-06-18T06:37,2026-06-18T17:48,Nublado,10.7,56.0,Sin lluvia,Cálido
+2026-06-19,Brasília,Brasil,BR,Centro-Oeste,-15.7801,-47.9292,America/Sao_Paulo,26.9,15.6,20.5,0.0,0.0,16.8,103,91,39,6.3,3,2026-06-19T06:37,2026-06-19T17:48,Nublado,11.3,65.0,Sin lluvia,Cálido
+2026-06-20,Brasília,Brasil,BR,Centro-Oeste,-15.7801,-47.9292,America/Sao_Paulo,26.1,16.3,21.0,0.4,4.0,7.9,71,87,43,6.3,51,2026-06-20T06:37,2026-06-20T17:48,Llovizna leve,9.8,65.0,Leve,Cálido
+2026-06-21,Brasília,Brasil,BR,Centro-Oeste,-15.7801,-47.9292,America/Sao_Paulo,24.6,17.3,20.9,0.0,0.0,9.0,145,86,53,5.4,3,2026-06-21T06:37,2026-06-21T17:49,Nublado,7.3,69.5,Sin lluvia,Cálido
+2026-06-22,Brasília,Brasil,BR,Centro-Oeste,-15.7801,-47.9292,America/Sao_Paulo,25.7,17.0,20.6,0.0,0.0,11.2,94,83,42,5.8,3,2026-06-22T06:37,2026-06-22T17:49,Nublado,8.7,62.5,Sin lluvia,Cálido
+2026-06-15,Salvador,Brasil,BR,Nordeste,-12.9714,-38.5014,America/Bahia,27.3,23.4,25.4,1.0,5.0,10.4,127,90,68,6.6,51,2026-06-15T05:53,2026-06-15T17:15,Llovizna leve,3.9,79.0,Leve,Cálido
+2026-06-16,Salvador,Brasil,BR,Nordeste,-12.9714,-38.5014,America/Bahia,27.2,24.1,25.5,3.7,9.0,13.3,87,89,74,6.2,53,2026-06-16T05:53,2026-06-16T17:15,Llovizna moderada,3.1,81.5,Leve,Cálido
+2026-06-17,Salvador,Brasil,BR,Nordeste,-12.9714,-38.5014,America/Bahia,27.9,23.2,25.2,1.8,7.0,14.6,138,93,71,6.4,53,2026-06-17T05:53,2026-06-17T17:15,Llovizna moderada,4.7,82.0,Leve,Cálido
+2026-06-18,Salvador,Brasil,BR,Nordeste,-12.9714,-38.5014,America/Bahia,25.7,23.2,24.5,10.0,22.0,29.7,154,91,71,6.5,55,2026-06-18T05:54,2026-06-18T17:15,Llovizna intensa,2.5,81.0,Moderada,Cálido
+2026-06-19,Salvador,Brasil,BR,Nordeste,-12.9714,-38.5014,America/Bahia,25.6,23.3,24.4,4.7,22.0,28.2,154,78,65,6.2,53,2026-06-19T05:54,2026-06-19T17:16,Llovizna moderada,2.3,71.5,Leve,Cálido
+2026-06-20,Salvador,Brasil,BR,Nordeste,-12.9714,-38.5014,America/Bahia,25.6,23.3,24.4,0.0,0.0,20.7,173,65,53,6.6,3,2026-06-20T05:54,2026-06-20T17:16,Nublado,2.3,59.0,Sin lluvia,Cálido
+2026-06-21,Salvador,Brasil,BR,Nordeste,-12.9714,-38.5014,America/Bahia,26.1,21.6,24.0,0.0,0.0,13.0,163,78,59,6.2,0,2026-06-21T05:54,2026-06-21T17:16,Despejado,4.5,68.5,Sin lluvia,Cálido
+2026-06-22,Salvador,Brasil,BR,Nordeste,-12.9714,-38.5014,America/Bahia,25.5,21.7,23.7,0.1,1.0,14.0,178,86,63,6.5,51,2026-06-22T05:55,2026-06-22T17:16,Llovizna leve,3.8,74.5,Leve,Cálido
+2026-06-15,Fortaleza,Brasil,BR,Nordeste,-3.7172,-38.5433,America/Fortaleza,30.0,23.5,26.8,2.7,11.0,17.4,120,95,63,7.6,53,2026-06-15T05:37,2026-06-15T17:31,Llovizna moderada,6.5,79.0,Leve,Cálido
+2026-06-16,Fortaleza,Brasil,BR,Nordeste,-3.7172,-38.5433,America/Fortaleza,29.8,24.2,27.0,0.4,2.0,18.5,124,89,59,7.2,51,2026-06-16T05:37,2026-06-16T17:31,Llovizna leve,5.6,74.0,Leve,Cálido
+2026-06-17,Fortaleza,Brasil,BR,Nordeste,-3.7172,-38.5433,America/Fortaleza,29.4,23.5,26.2,5.6,13.0,17.4,130,94,70,7.6,80,2026-06-17T05:37,2026-06-17T17:32,Chubascos leves,5.9,82.0,Moderada,Cálido
+2026-06-18,Fortaleza,Brasil,BR,Nordeste,-3.7172,-38.5433,America/Fortaleza,30.3,22.4,26.6,2.4,8.0,14.9,126,97,60,7.6,53,2026-06-18T05:38,2026-06-18T17:32,Llovizna moderada,7.9,78.5,Leve,Cálido
+2026-06-19,Fortaleza,Brasil,BR,Nordeste,-3.7172,-38.5433,America/Fortaleza,31.8,22.2,26.9,3.6,8.0,17.9,149,97,48,7.6,55,2026-06-19T05:38,2026-06-19T17:32,Llovizna intensa,9.6,72.5,Leve,Cálido
+2026-06-20,Fortaleza,Brasil,BR,Nordeste,-3.7172,-38.5433,America/Fortaleza,29.7,22.4,26.1,5.9,9.0,17.1,159,97,56,7.6,80,2026-06-20T05:38,2026-06-20T17:32,Chubascos leves,7.3,76.5,Moderada,Cálido
+2026-06-21,Fortaleza,Brasil,BR,Nordeste,-3.7172,-38.5433,America/Fortaleza,30.1,23.7,26.8,1.7,9.0,14.8,116,92,60,7.6,51,2026-06-21T05:38,2026-06-21T17:33,Llovizna leve,6.4,76.0,Leve,Cálido
+2026-06-22,Fortaleza,Brasil,BR,Nordeste,-3.7172,-38.5433,America/Fortaleza,30.2,24.3,27.1,1.5,6.0,17.5,125,90,57,7.6,53,2026-06-22T05:39,2026-06-22T17:33,Llovizna moderada,5.9,73.5,Leve,Cálido
+2026-06-15,Belo Horizonte,Brasil,BR,Sudeste,-19.9167,-43.9345,America/Sao_Paulo,25.1,16.4,20.1,0.7,5.0,10.8,249,90,50,5.6,51,2026-06-15T06:28,2026-06-15T17:24,Llovizna leve,8.7,70.0,Leve,Cálido
+2026-06-16,Belo Horizonte,Brasil,BR,Sudeste,-19.9167,-43.9345,America/Sao_Paulo,24.7,16.4,20.0,0.2,2.0,9.3,234,93,46,5.6,51,2026-06-16T06:28,2026-06-16T17:24,Llovizna leve,8.3,69.5,Leve,Templado
+2026-06-17,Belo Horizonte,Brasil,BR,Sudeste,-19.9167,-43.9345,America/Sao_Paulo,23.5,13.8,18.2,0.0,0.0,8.3,147,94,38,5.7,3,2026-06-17T06:28,2026-06-17T17:24,Nublado,9.7,66.0,Sin lluvia,Templado
+2026-06-18,Belo Horizonte,Brasil,BR,Sudeste,-19.9167,-43.9345,America/Sao_Paulo,21.7,12.3,16.5,0.0,0.0,12.5,115,89,50,5.8,1,2026-06-18T06:29,2026-06-18T17:24,Mayormente despejado,9.4,69.5,Sin lluvia,Templado
+2026-06-19,Belo Horizonte,Brasil,BR,Sudeste,-19.9167,-43.9345,America/Sao_Paulo,21.1,12.0,16.1,0.0,0.0,13.7,94,87,49,5.8,2,2026-06-19T06:29,2026-06-19T17:25,Parcialmente nublado,9.1,68.0,Sin lluvia,Templado
+2026-06-20,Belo Horizonte,Brasil,BR,Sudeste,-19.9167,-43.9345,America/Sao_Paulo,22.3,11.2,16.5,0.0,0.0,9.3,103,81,47,5.6,3,2026-06-20T06:29,2026-06-20T17:25,Nublado,11.1,64.0,Sin lluvia,Templado
+2026-06-21,Belo Horizonte,Brasil,BR,Sudeste,-19.9167,-43.9345,America/Sao_Paulo,24.1,13.6,18.4,0.0,0.0,8.7,194,80,45,5.7,3,2026-06-21T06:29,2026-06-21T17:25,Nublado,10.5,62.5,Sin lluvia,Templado
+2026-06-22,Belo Horizonte,Brasil,BR,Sudeste,-19.9167,-43.9345,America/Sao_Paulo,24.0,15.3,19.2,0.0,0.0,9.1,96,78,41,5.8,3,2026-06-22T06:30,2026-06-22T17:25,Nublado,8.7,59.5,Sin lluvia,Templado
+2026-06-15,Manaus,Brasil,BR,Norte,-3.119,-60.0217,America/Manaus,30.4,24.5,27.3,1.5,4.0,9.3,61,95,63,7.6,53,2026-06-15T06:02,2026-06-15T17:58,Llovizna moderada,5.9,79.0,Leve,Cálido
+2026-06-16,Manaus,Brasil,BR,Norte,-3.119,-60.0217,America/Manaus,31.0,24.7,27.2,2.9,6.0,8.0,349,99,61,7.6,80,2026-06-16T06:02,2026-06-16T17:59,Chubascos leves,6.3,80.0,Leve,Cálido
+2026-06-17,Manaus,Brasil,BR,Norte,-3.119,-60.0217,America/Manaus,28.4,23.4,25.9,15.2,16.0,12.5,251,98,72,7.6,81,2026-06-17T06:02,2026-06-17T17:59,Chubascos moderados,5.0,85.0,Moderada,Cálido
+2026-06-18,Manaus,Brasil,BR,Norte,-3.119,-60.0217,America/Manaus,30.3,24.0,27.1,0.9,7.0,5.2,54,100,59,7.6,51,2026-06-18T06:03,2026-06-18T17:59,Llovizna leve,6.3,79.5,Leve,Cálido
+2026-06-19,Manaus,Brasil,BR,Norte,-3.119,-60.0217,America/Manaus,29.7,24.4,27.0,3.4,8.0,5.9,27,100,68,7.6,95,2026-06-19T06:03,2026-06-19T17:59,Tormenta eléctrica,5.3,84.0,Leve,Cálido
+2026-06-20,Manaus,Brasil,BR,Norte,-3.119,-60.0217,America/Manaus,30.5,24.5,27.4,2.5,7.0,10.2,82,100,61,7.6,80,2026-06-20T06:03,2026-06-20T17:59,Chubascos leves,6.0,80.5,Leve,Cálido
+2026-06-21,Manaus,Brasil,BR,Norte,-3.119,-60.0217,America/Manaus,31.6,24.7,28.1,2.1,7.0,8.7,78,96,54,7.4,53,2026-06-21T06:03,2026-06-21T18:00,Llovizna moderada,6.9,75.0,Leve,Cálido
+2026-06-22,Manaus,Brasil,BR,Norte,-3.119,-60.0217,America/Manaus,31.5,25.6,28.1,1.3,5.0,12.2,77,92,55,7.6,53,2026-06-22T06:03,2026-06-22T18:00,Llovizna moderada,5.9,73.5,Leve,Cálido
+2026-06-15,Curitiba,Brasil,BR,Sul,-25.4297,-49.2711,America/Sao_Paulo,13.5,9.8,11.7,1.7,11.0,11.9,73,98,88,0.8,51,2026-06-15T07:00,2026-06-15T17:34,Llovizna leve,3.7,93.0,Leve,Templado
+2026-06-16,Curitiba,Brasil,BR,Sul,-25.4297,-49.2711,America/Sao_Paulo,17.9,9.8,12.7,0.0,0.0,7.0,311,99,56,4.8,3,2026-06-16T07:00,2026-06-16T17:34,Nublado,8.1,77.5,Sin lluvia,Templado
+2026-06-17,Curitiba,Brasil,BR,Sul,-25.4297,-49.2711,America/Sao_Paulo,18.3,5.9,11.5,0.0,0.0,7.9,228,94,36,5.0,1,2026-06-17T07:01,2026-06-17T17:34,Mayormente despejado,12.4,65.0,Sin lluvia,Templado
+2026-06-18,Curitiba,Brasil,BR,Sul,-25.4297,-49.2711,America/Sao_Paulo,14.5,8.0,10.5,0.0,0.0,14.2,73,99,67,4.1,3,2026-06-18T07:01,2026-06-18T17:34,Nublado,6.5,83.0,Sin lluvia,Templado
+2026-06-19,Curitiba,Brasil,BR,Sul,-25.4297,-49.2711,America/Sao_Paulo,20.5,8.2,13.7,2.9,3.0,14.5,5,99,57,4.2,80,2026-06-19T07:01,2026-06-19T17:34,Chubascos leves,12.3,78.0,Leve,Templado
+2026-06-20,Curitiba,Brasil,BR,Sul,-25.4297,-49.2711,America/Sao_Paulo,14.1,9.7,12.1,35.6,15.0,15.8,14,99,90,0.6,95,2026-06-20T07:01,2026-06-20T17:35,Tormenta eléctrica,4.4,94.5,Fuerte,Templado
+2026-06-21,Curitiba,Brasil,BR,Sul,-25.4297,-49.2711,America/Sao_Paulo,18.4,8.8,12.1,0.0,0.0,10.9,326,100,56,5.0,3,2026-06-21T07:02,2026-06-21T17:35,Nublado,9.6,78.0,Sin lluvia,Templado
+2026-06-22,Curitiba,Brasil,BR,Sul,-25.4297,-49.2711,America/Sao_Paulo,21.8,8.8,15.4,4.8,4.0,27.7,337,97,57,4.7,95,2026-06-22T07:02,2026-06-22T17:35,Tormenta eléctrica,13.0,77.0,Leve,Templado
+2026-06-15,Recife,Brasil,BR,Nordeste,-8.0539,-34.8811,America/Recife,28.2,23.9,25.9,6.3,21.0,15.0,135,94,72,7.0,53,2026-06-15T05:30,2026-06-15T17:09,Llovizna moderada,4.3,83.0,Moderada,Cálido
+2026-06-16,Recife,Brasil,BR,Nordeste,-8.0539,-34.8811,America/Recife,28.6,24.0,26.2,2.3,10.0,14.2,121,93,65,7.2,53,2026-06-16T05:30,2026-06-16T17:10,Llovizna moderada,4.6,79.0,Leve,Cálido
+2026-06-17,Recife,Brasil,BR,Nordeste,-8.0539,-34.8811,America/Recife,28.7,22.7,26.1,0.3,3.0,10.5,156,91,65,7.2,51,2026-06-17T05:30,2026-06-17T17:10,Llovizna leve,6.0,78.0,Leve,Cálido
+2026-06-18,Recife,Brasil,BR,Nordeste,-8.0539,-34.8811,America/Recife,28.6,23.4,26.1,0.8,7.0,15.8,168,94,67,7.2,51,2026-06-18T05:31,2026-06-18T17:10,Llovizna leve,5.2,80.5,Leve,Cálido
+2026-06-19,Recife,Brasil,BR,Nordeste,-8.0539,-34.8811,America/Recife,27.3,22.9,24.9,11.0,24.0,22.1,178,95,71,7.2,80,2026-06-19T05:31,2026-06-19T17:10,Chubascos leves,4.4,83.0,Moderada,Cálido
+2026-06-20,Recife,Brasil,BR,Nordeste,-8.0539,-34.8811,America/Recife,27.1,22.3,24.5,4.5,20.0,18.9,185,96,72,7.1,55,2026-06-20T05:31,2026-06-20T17:10,Llovizna intensa,4.8,84.0,Leve,Cálido
+2026-06-21,Recife,Brasil,BR,Nordeste,-8.0539,-34.8811,America/Recife,26.7,22.7,24.9,3.5,17.0,18.4,180,92,75,6.8,53,2026-06-21T05:31,2026-06-21T17:11,Llovizna moderada,4.0,83.5,Leve,Cálido
+2026-06-22,Recife,Brasil,BR,Nordeste,-8.0539,-34.8811,America/Recife,26.6,23.0,24.5,7.6,18.0,15.6,177,96,78,6.8,80,2026-06-22T05:32,2026-06-22T17:11,Chubascos leves,3.6,87.0,Moderada,Cálido
+2026-06-15,Porto Alegre,Brasil,BR,Sul,-30.0346,-51.2177,America/Sao_Paulo,14.4,8.7,11.4,0.0,0.0,9.1,201,92,51,4.0,3,2026-06-15T07:18,2026-06-15T17:31,Nublado,5.7,71.5,Sin lluvia,Templado
+2026-06-16,Porto Alegre,Brasil,BR,Sul,-30.0346,-51.2177,America/Sao_Paulo,15.5,6.0,10.3,0.0,0.0,12.3,297,99,52,4.0,1,2026-06-16T07:18,2026-06-16T17:32,Mayormente despejado,9.5,75.5,Sin lluvia,Templado
+2026-06-17,Porto Alegre,Brasil,BR,Sul,-30.0346,-51.2177,America/Sao_Paulo,17.3,7.9,11.6,0.0,0.0,12.1,276,91,57,4.0,3,2026-06-17T07:19,2026-06-17T17:32,Nublado,9.4,74.0,Sin lluvia,Templado
+2026-06-18,Porto Alegre,Brasil,BR,Sul,-30.0346,-51.2177,America/Sao_Paulo,17.9,7.0,12.3,0.0,0.0,16.5,91,100,56,3.8,3,2026-06-18T07:19,2026-06-18T17:32,Nublado,10.9,78.0,Sin lluvia,Templado
+2026-06-19,Porto Alegre,Brasil,BR,Sul,-30.0346,-51.2177,America/Sao_Paulo,16.9,11.5,14.0,4.7,8.0,16.7,306,97,72,2.2,55,2026-06-19T07:19,2026-06-19T17:32,Llovizna intensa,5.4,84.5,Leve,Templado
+2026-06-20,Porto Alegre,Brasil,BR,Sul,-30.0346,-51.2177,America/Sao_Paulo,13.5,9.7,11.6,0.0,0.0,11.4,207,95,66,3.6,3,2026-06-20T07:19,2026-06-20T17:32,Nublado,3.8,80.5,Sin lluvia,Templado
+2026-06-21,Porto Alegre,Brasil,BR,Sul,-30.0346,-51.2177,America/Sao_Paulo,16.2,9.5,12.1,0.0,0.0,13.4,124,97,65,4.0,3,2026-06-21T07:20,2026-06-21T17:33,Nublado,6.7,81.0,Sin lluvia,Templado
+2026-06-22,Porto Alegre,Brasil,BR,Sul,-30.0346,-51.2177,America/Sao_Paulo,14.1,8.8,12.3,18.5,16.0,16.4,229,99,90,0.6,95,2026-06-22T07:20,2026-06-22T17:33,Tormenta eléctrica,5.3,94.5,Moderada,Templado
+2026-06-15,Belém,Brasil,BR,Norte,-1.4558,-48.5044,America/Belem,32.4,24.0,27.4,2.4,9.0,13.3,88,99,59,7.6,53,2026-06-15T06:13,2026-06-15T18:15,Llovizna moderada,8.4,79.0,Leve,Cálido
+2026-06-16,Belém,Brasil,BR,Norte,-1.4558,-48.5044,America/Belem,32.2,23.5,27.2,4.4,8.0,10.4,70,98,59,7.6,80,2026-06-16T06:13,2026-06-16T18:15,Chubascos leves,8.7,78.5,Leve,Cálido
+2026-06-17,Belém,Brasil,BR,Norte,-1.4558,-48.5044,America/Belem,31.0,23.0,25.5,16.5,18.0,10.8,32,99,68,7.8,95,2026-06-17T06:13,2026-06-17T18:16,Tormenta eléctrica,8.0,83.5,Moderada,Cálido
+2026-06-18,Belém,Brasil,BR,Norte,-1.4558,-48.5044,America/Belem,32.2,23.0,26.7,0.9,5.0,11.2,60,98,54,7.8,53,2026-06-18T06:13,2026-06-18T18:16,Llovizna moderada,9.2,76.0,Leve,Cálido
+2026-06-19,Belém,Brasil,BR,Norte,-1.4558,-48.5044,America/Belem,31.3,23.4,26.1,7.2,10.0,11.3,69,97,62,7.8,80,2026-06-19T06:14,2026-06-19T18:16,Chubascos leves,7.9,79.5,Moderada,Cálido
+2026-06-20,Belém,Brasil,BR,Norte,-1.4558,-48.5044,America/Belem,30.8,23.4,26.3,3.4,10.0,11.3,38,97,64,7.8,53,2026-06-20T06:14,2026-06-20T18:16,Llovizna moderada,7.4,80.5,Leve,Cálido
+2026-06-21,Belém,Brasil,BR,Norte,-1.4558,-48.5044,America/Belem,32.6,23.3,27.1,1.7,7.0,11.9,54,96,51,7.8,53,2026-06-21T06:14,2026-06-21T18:16,Llovizna moderada,9.3,73.5,Leve,Cálido
+2026-06-22,Belém,Brasil,BR,Norte,-1.4558,-48.5044,America/Belem,32.2,23.8,27.4,1.9,10.0,10.8,83,96,56,7.8,53,2026-06-22T06:14,2026-06-22T18:17,Llovizna moderada,8.4,76.0,Leve,Cálido
+2026-06-15,Florianópolis,Brasil,BR,Sul,-27.5954,-48.548,America/Sao_Paulo,15.2,13.7,14.4,0.0,0.0,17.8,173,79,64,3.4,3,2026-06-15T07:02,2026-06-15T17:26,Nublado,1.5,71.5,Sin lluvia,Templado
+2026-06-16,Florianópolis,Brasil,BR,Sul,-27.5954,-48.548,America/Sao_Paulo,18.0,12.3,14.5,0.0,0.0,9.5,161,91,68,4.2,3,2026-06-16T07:02,2026-06-16T17:26,Nublado,5.7,79.5,Sin lluvia,Templado
+2026-06-17,Florianópolis,Brasil,BR,Sul,-27.5954,-48.548,America/Sao_Paulo,19.8,9.7,14.0,0.0,0.0,17.9,179,96,57,4.3,2,2026-06-17T07:03,2026-06-17T17:27,Parcialmente nublado,10.1,76.5,Sin lluvia,Templado
+2026-06-18,Florianópolis,Brasil,BR,Sul,-27.5954,-48.548,America/Sao_Paulo,17.8,8.8,13.8,1.3,9.0,7.3,291,96,67,2.1,51,2026-06-18T07:03,2026-06-18T17:27,Llovizna leve,9.0,81.5,Leve,Templado
+2026-06-19,Florianópolis,Brasil,BR,Sul,-27.5954,-48.548,America/Sao_Paulo,21.2,13.7,17.0,0.8,3.0,20.3,341,97,63,4.2,51,2026-06-19T07:03,2026-06-19T17:27,Llovizna leve,7.5,80.0,Leve,Templado
+2026-06-20,Florianópolis,Brasil,BR,Sul,-27.5954,-48.548,America/Sao_Paulo,15.9,12.6,14.3,34.0,17.0,26.6,178,96,88,0.8,81,2026-06-20T07:03,2026-06-20T17:27,Chubascos moderados,3.3,92.0,Fuerte,Templado
+2026-06-21,Florianópolis,Brasil,BR,Sul,-27.5954,-48.548,America/Sao_Paulo,18.8,11.7,14.5,0.9,2.0,8.3,3,96,65,4.3,53,2026-06-21T07:04,2026-06-21T17:27,Llovizna moderada,7.1,80.5,Leve,Templado
+2026-06-22,Florianópolis,Brasil,BR,Sul,-27.5954,-48.548,America/Sao_Paulo,19.2,12.6,16.2,7.8,5.0,25.5,347,99,76,4.3,95,2026-06-22T07:04,2026-06-22T17:28,Tormenta eléctrica,6.6,87.5,Moderada,Templado
+2026-06-15,La Habana,Cuba,CU,Caribe,23.1136,-82.3666,America/Havana,31.8,23.8,27.1,4.3,7.0,9.3,130,89,54,9.0,96,2026-06-15T06:43,2026-06-15T20:16,Tormenta con granizo leve,8.0,71.5,Leve,Cálido
+2026-06-16,La Habana,Cuba,CU,Caribe,23.1136,-82.3666,America/Havana,32.8,24.1,28.2,1.7,5.0,14.1,141,86,49,9.0,53,2026-06-16T06:43,2026-06-16T20:16,Llovizna moderada,8.7,67.5,Leve,Cálido
+2026-06-17,La Habana,Cuba,CU,Caribe,23.1136,-82.3666,America/Havana,32.4,25.0,28.5,1.0,6.0,16.7,154,91,57,8.2,95,2026-06-17T06:43,2026-06-17T20:16,Tormenta eléctrica,7.4,74.0,Leve,Cálido
+2026-06-18,La Habana,Cuba,CU,Caribe,23.1136,-82.3666,America/Havana,33.4,25.7,28.9,3.6,6.0,13.6,147,90,49,7.7,96,2026-06-18T06:44,2026-06-18T20:17,Tormenta con granizo leve,7.7,69.5,Leve,Cálido
+2026-06-19,La Habana,Cuba,CU,Caribe,23.1136,-82.3666,America/Havana,31.7,25.3,28.2,2.2,8.0,9.2,111,92,62,8.2,96,2026-06-19T06:44,2026-06-19T20:17,Tormenta con granizo leve,6.4,77.0,Leve,Cálido
+2026-06-20,La Habana,Cuba,CU,Caribe,23.1136,-82.3666,America/Havana,31.0,24.7,27.7,3.2,10.0,9.8,115,90,64,8.6,95,2026-06-20T06:44,2026-06-20T20:17,Tormenta eléctrica,6.3,77.0,Leve,Cálido
+2026-06-21,La Habana,Cuba,CU,Caribe,23.1136,-82.3666,America/Havana,33.1,24.9,28.6,0.7,4.0,10.0,99,89,47,9.0,95,2026-06-21T06:44,2026-06-21T20:17,Tormenta eléctrica,8.2,68.0,Leve,Cálido
+2026-06-22,La Habana,Cuba,CU,Caribe,23.1136,-82.3666,America/Havana,32.5,25.3,28.6,0.9,5.0,17.1,69,91,56,8.6,96,2026-06-22T06:44,2026-06-22T20:18,Tormenta con granizo leve,7.2,73.5,Leve,Cálido
+2026-06-15,Santo Domingo,Rep. Dominicana,DO,Caribe,18.4861,-69.9312,America/Santo_Domingo,30.3,23.7,27.0,2.2,6.0,16.5,98,90,62,7.4,95,2026-06-15T06:03,2026-06-15T19:17,Tormenta eléctrica,6.6,76.0,Leve,Cálido
+2026-06-16,Santo Domingo,Rep. Dominicana,DO,Caribe,18.4861,-69.9312,America/Santo_Domingo,30.3,23.6,26.9,0.1,1.0,13.4,99,90,59,6.8,51,2026-06-16T06:03,2026-06-16T19:17,Llovizna leve,6.7,74.5,Leve,Cálido
+2026-06-17,Santo Domingo,Rep. Dominicana,DO,Caribe,18.4861,-69.9312,America/Santo_Domingo,30.7,23.7,27.1,0.6,3.0,16.5,98,90,55,8.2,51,2026-06-17T06:03,2026-06-17T19:17,Llovizna leve,7.0,72.5,Leve,Cálido
+2026-06-18,Santo Domingo,Rep. Dominicana,DO,Caribe,18.4861,-69.9312,America/Santo_Domingo,31.2,23.6,27.0,1.8,6.0,16.1,104,95,52,8.7,55,2026-06-18T06:03,2026-06-18T19:18,Llovizna intensa,7.6,73.5,Leve,Cálido
+2026-06-19,Santo Domingo,Rep. Dominicana,DO,Caribe,18.4861,-69.9312,America/Santo_Domingo,32.2,23.7,27.8,2.3,4.0,14.8,87,92,51,8.4,96,2026-06-19T06:03,2026-06-19T19:18,Tormenta con granizo leve,8.5,71.5,Leve,Cálido
+2026-06-20,Santo Domingo,Rep. Dominicana,DO,Caribe,18.4861,-69.9312,America/Santo_Domingo,32.6,24.0,27.8,0.3,2.0,13.9,71,96,53,8.9,95,2026-06-20T06:03,2026-06-20T19:18,Tormenta eléctrica,8.6,74.5,Leve,Cálido
+2026-06-21,Santo Domingo,Rep. Dominicana,DO,Caribe,18.4861,-69.9312,America/Santo_Domingo,32.1,23.4,27.0,4.1,11.0,17.0,37,93,54,8.9,95,2026-06-21T06:04,2026-06-21T19:18,Tormenta eléctrica,8.7,73.5,Leve,Cálido
+2026-06-22,Santo Domingo,Rep. Dominicana,DO,Caribe,18.4861,-69.9312,America/Santo_Domingo,31.0,23.3,26.9,3.1,9.0,13.8,64,99,58,9.0,95,2026-06-22T06:04,2026-06-22T19:18,Tormenta eléctrica,7.7,78.5,Leve,Cálido
+2026-06-15,San Juan,Puerto Rico,PR,Caribe,18.4655,-66.1057,America/Puerto_Rico,29.6,26.9,28.1,0.0,0.0,29.1,90,82,65,8.8,3,2026-06-15T05:48,2026-06-15T19:01,Nublado,2.7,73.5,Sin lluvia,Cálido
+2026-06-16,San Juan,Puerto Rico,PR,Caribe,18.4655,-66.1057,America/Puerto_Rico,28.9,26.6,27.8,0.4,4.0,30.8,87,82,66,8.4,51,2026-06-16T05:48,2026-06-16T19:02,Llovizna leve,2.3,74.0,Leve,Cálido
+2026-06-17,San Juan,Puerto Rico,PR,Caribe,18.4655,-66.1057,America/Puerto_Rico,29.3,26.4,27.7,0.4,4.0,29.1,83,81,66,9.0,51,2026-06-17T05:48,2026-06-17T19:02,Llovizna leve,2.9,73.5,Leve,Cálido
+2026-06-18,San Juan,Puerto Rico,PR,Caribe,18.4655,-66.1057,America/Puerto_Rico,28.9,25.4,27.6,1.1,11.0,29.6,85,85,66,9.0,95,2026-06-18T05:48,2026-06-18T19:02,Tormenta eléctrica,3.5,75.5,Leve,Cálido
+2026-06-19,San Juan,Puerto Rico,PR,Caribe,18.4655,-66.1057,America/Puerto_Rico,28.9,27.1,28.0,0.0,0.0,31.0,83,80,75,9.0,95,2026-06-19T05:48,2026-06-19T19:03,Tormenta eléctrica,1.8,77.5,Sin lluvia,Cálido
+2026-06-20,San Juan,Puerto Rico,PR,Caribe,18.4655,-66.1057,America/Puerto_Rico,28.7,26.7,27.9,0.1,1.0,32.9,80,81,70,9.0,51,2026-06-20T05:49,2026-06-20T19:03,Llovizna leve,2.0,75.5,Leve,Cálido
+2026-06-21,San Juan,Puerto Rico,PR,Caribe,18.4655,-66.1057,America/Puerto_Rico,29.7,26.8,28.2,1.4,12.0,28.9,90,82,69,9.0,95,2026-06-21T05:49,2026-06-21T19:03,Tormenta eléctrica,2.9,75.5,Leve,Cálido
+2026-06-22,San Juan,Puerto Rico,PR,Caribe,18.4655,-66.1057,America/Puerto_Rico,28.8,26.7,27.7,0.6,3.0,30.7,86,86,72,9.0,95,2026-06-22T05:49,2026-06-22T19:03,Tormenta eléctrica,2.1,79.0,Leve,Cálido
+2026-06-15,Puerto Príncipe,Haití,HT,Caribe,18.5425,-72.3386,America/Port-au-Prince,33.5,25.9,29.5,0.0,0.0,17.4,111,73,47,7.4,3,2026-06-15T06:12,2026-06-15T19:26,Nublado,7.6,60.0,Sin lluvia,Cálido
+2026-06-16,Puerto Príncipe,Haití,HT,Caribe,18.5425,-72.3386,America/Port-au-Prince,34.0,26.0,29.6,0.0,0.0,20.8,104,78,41,7.8,3,2026-06-16T06:12,2026-06-16T19:27,Nublado,8.0,59.5,Sin lluvia,Cálido
+2026-06-17,Puerto Príncipe,Haití,HT,Caribe,18.5425,-72.3386,America/Port-au-Prince,36.4,26.1,30.1,0.0,0.0,17.5,108,74,32,8.4,3,2026-06-17T06:12,2026-06-17T19:27,Nublado,10.3,53.0,Sin lluvia,Muy cálido
+2026-06-18,Puerto Príncipe,Haití,HT,Caribe,18.5425,-72.3386,America/Port-au-Prince,36.4,26.4,30.3,0.0,0.0,16.5,104,69,23,9.0,3,2026-06-18T06:12,2026-06-18T19:27,Nublado,10.0,46.0,Sin lluvia,Muy cálido
+2026-06-19,Puerto Príncipe,Haití,HT,Caribe,18.5425,-72.3386,America/Port-au-Prince,36.8,25.7,30.5,0.0,0.0,20.0,106,73,28,9.1,3,2026-06-19T06:13,2026-06-19T19:27,Nublado,11.1,50.5,Sin lluvia,Muy cálido
+2026-06-20,Puerto Príncipe,Haití,HT,Caribe,18.5425,-72.3386,America/Port-au-Prince,37.5,26.4,31.3,0.0,0.0,20.7,103,73,22,9.0,3,2026-06-20T06:13,2026-06-20T19:28,Nublado,11.1,47.5,Sin lluvia,Muy cálido
+2026-06-21,Puerto Príncipe,Haití,HT,Caribe,18.5425,-72.3386,America/Port-au-Prince,37.0,26.6,31.1,0.0,0.0,28.8,100,73,24,9.1,2,2026-06-21T06:13,2026-06-21T19:28,Parcialmente nublado,10.4,48.5,Sin lluvia,Muy cálido
+2026-06-22,Puerto Príncipe,Haití,HT,Caribe,18.5425,-72.3386,America/Port-au-Prince,34.2,27.4,30.3,1.8,6.0,22.2,105,69,39,8.4,53,2026-06-22T06:13,2026-06-22T19:28,Llovizna moderada,6.8,54.0,Leve,Muy cálido
+2026-06-15,Kingston,Jamaica,JM,Caribe,17.9714,-76.793,America/Jamaica,32.1,23.2,27.7,0.1,1.0,25.8,123,95,58,9.0,51,2026-06-15T05:32,2026-06-15T18:44,Llovizna leve,8.9,76.5,Leve,Cálido
+2026-06-16,Kingston,Jamaica,JM,Caribe,17.9714,-76.793,America/Jamaica,32.5,24.4,28.6,0.0,0.0,28.7,125,88,56,8.9,3,2026-06-16T05:32,2026-06-16T18:44,Nublado,8.1,72.0,Sin lluvia,Cálido
+2026-06-17,Kingston,Jamaica,JM,Caribe,17.9714,-76.793,America/Jamaica,32.7,22.2,28.4,0.0,0.0,26.6,126,83,52,8.4,95,2026-06-17T05:32,2026-06-17T18:44,Tormenta eléctrica,10.5,67.5,Sin lluvia,Cálido
+2026-06-18,Kingston,Jamaica,JM,Caribe,17.9714,-76.793,America/Jamaica,32.3,25.3,28.8,0.0,0.0,25.6,127,84,53,7.4,3,2026-06-18T05:32,2026-06-18T18:44,Nublado,7.0,68.5,Sin lluvia,Cálido
+2026-06-19,Kingston,Jamaica,JM,Caribe,17.9714,-76.793,America/Jamaica,32.4,25.2,29.0,0.0,0.0,26.2,131,80,54,8.9,3,2026-06-19T05:32,2026-06-19T18:45,Nublado,7.2,67.0,Sin lluvia,Cálido
+2026-06-20,Kingston,Jamaica,JM,Caribe,17.9714,-76.793,America/Jamaica,33.5,25.1,29.1,0.2,2.0,28.1,134,79,49,8.2,51,2026-06-20T05:32,2026-06-20T18:45,Llovizna leve,8.4,64.0,Leve,Cálido
+2026-06-21,Kingston,Jamaica,JM,Caribe,17.9714,-76.793,America/Jamaica,32.1,22.8,28.4,0.0,0.0,24.7,144,86,50,9.0,3,2026-06-21T05:33,2026-06-21T18:45,Nublado,9.3,68.0,Sin lluvia,Cálido
+2026-06-22,Kingston,Jamaica,JM,Caribe,17.9714,-76.793,America/Jamaica,31.8,25.2,28.7,0.6,4.0,23.5,136,83,52,8.8,95,2026-06-22T05:33,2026-06-22T18:45,Tormenta eléctrica,6.6,67.5,Leve,Cálido
+2026-06-15,Puebla,México,MX,Norte,19.0414,-98.2063,America/Mexico_City,22.8,13.8,18.2,1.2,10.0,12.3,153,91,54,9.6,95,2026-06-15T05:55,2026-06-15T19:11,Tormenta eléctrica,9.0,72.5,Leve,Templado
+2026-06-16,Puebla,México,MX,Norte,19.0414,-98.2063,America/Mexico_City,22.0,14.3,17.4,6.4,11.0,13.2,171,96,57,9.6,95,2026-06-16T05:55,2026-06-16T19:11,Tormenta eléctrica,7.7,76.5,Moderada,Templado
+2026-06-17,Puebla,México,MX,Norte,19.0414,-98.2063,America/Mexico_City,21.8,13.9,17.3,2.2,15.0,12.2,190,98,61,9.0,51,2026-06-17T05:55,2026-06-17T19:11,Llovizna leve,7.9,79.5,Leve,Templado
+2026-06-18,Puebla,México,MX,Norte,19.0414,-98.2063,America/Mexico_City,22.6,12.9,17.4,4.3,13.0,8.0,174,100,59,7.8,95,2026-06-18T05:55,2026-06-18T19:12,Tormenta eléctrica,9.7,79.5,Leve,Templado
+2026-06-19,Puebla,México,MX,Norte,19.0414,-98.2063,America/Mexico_City,22.9,14.8,17.7,9.2,10.0,10.9,165,98,60,8.6,95,2026-06-19T05:55,2026-06-19T19:12,Tormenta eléctrica,8.1,79.0,Moderada,Templado
+2026-06-20,Puebla,México,MX,Norte,19.0414,-98.2063,America/Mexico_City,22.4,14.2,17.3,5.5,15.0,12.7,170,97,57,6.6,55,2026-06-20T05:56,2026-06-20T19:12,Llovizna intensa,8.2,77.0,Moderada,Templado
+2026-06-21,Puebla,México,MX,Norte,19.0414,-98.2063,America/Mexico_City,22.0,13.7,17.3,2.0,11.0,10.1,152,95,52,8.7,53,2026-06-21T05:56,2026-06-21T19:12,Llovizna moderada,8.3,73.5,Leve,Templado
+2026-06-22,Puebla,México,MX,Norte,19.0414,-98.2063,America/Mexico_City,23.6,13.5,17.6,2.8,5.0,9.0,139,95,37,9.4,80,2026-06-22T05:56,2026-06-22T19:12,Chubascos leves,10.1,66.0,Leve,Templado
+2026-06-15,Tijuana,México,MX,Norte,32.5027,-117.0037,America/Tijuana,24.3,18.2,20.5,0.0,0.0,17.7,312,93,68,8.8,45,2026-06-15T05:40,2026-06-15T19:56,Neblina,6.1,80.5,Sin lluvia,Cálido
+2026-06-16,Tijuana,México,MX,Norte,32.5027,-117.0037,America/Tijuana,23.7,17.6,19.7,0.0,0.0,17.3,317,98,66,8.8,45,2026-06-16T05:40,2026-06-16T19:57,Neblina,6.1,82.0,Sin lluvia,Templado
+2026-06-17,Tijuana,México,MX,Norte,32.5027,-117.0037,America/Tijuana,23.7,17.3,19.4,0.0,0.0,16.2,313,94,64,8.8,45,2026-06-17T05:40,2026-06-17T19:57,Neblina,6.4,79.0,Sin lluvia,Templado
+2026-06-18,Tijuana,México,MX,Norte,32.5027,-117.0037,America/Tijuana,22.8,17.1,19.0,0.0,0.0,15.1,307,86,66,8.8,45,2026-06-18T05:40,2026-06-18T19:57,Neblina,5.7,76.0,Sin lluvia,Templado
+2026-06-19,Tijuana,México,MX,Norte,32.5027,-117.0037,America/Tijuana,22.9,16.5,19.4,0.0,0.0,18.9,310,84,59,8.8,3,2026-06-19T05:40,2026-06-19T19:57,Nublado,6.4,71.5,Sin lluvia,Templado
+2026-06-20,Tijuana,México,MX,Norte,32.5027,-117.0037,America/Tijuana,22.9,15.5,18.7,0.0,0.0,17.8,316,87,61,8.8,3,2026-06-20T05:41,2026-06-20T19:58,Nublado,7.4,74.0,Sin lluvia,Templado
+2026-06-21,Tijuana,México,MX,Norte,32.5027,-117.0037,America/Tijuana,22.8,16.4,18.8,0.0,0.0,17.9,309,84,57,8.8,3,2026-06-21T05:41,2026-06-21T19:58,Nublado,6.4,70.5,Sin lluvia,Templado
+2026-06-22,Tijuana,México,MX,Norte,32.5027,-117.0037,America/Tijuana,24.1,16.0,19.2,0.0,0.0,14.0,306,87,53,8.8,45,2026-06-22T05:41,2026-06-22T19:58,Neblina,8.1,70.0,Sin lluvia,Templado
+2026-06-15,León,México,MX,Norte,21.1221,-101.6823,America/Mexico_City,26.4,16.1,20.9,0.7,4.0,13.0,255,92,41,9.0,51,2026-06-15T06:05,2026-06-15T19:29,Llovizna leve,10.3,66.5,Leve,Cálido
+2026-06-16,León,México,MX,Norte,21.1221,-101.6823,America/Mexico_City,26.1,16.7,21.0,2.1,5.0,12.1,237,87,39,8.6,80,2026-06-16T06:05,2026-06-16T19:29,Chubascos leves,9.4,63.0,Leve,Cálido
+2026-06-17,León,México,MX,Norte,21.1221,-101.6823,America/Mexico_City,25.2,16.1,19.8,7.6,11.0,13.3,274,97,40,7.6,95,2026-06-17T06:05,2026-06-17T19:30,Tormenta eléctrica,9.1,68.5,Moderada,Templado
+2026-06-18,León,México,MX,Norte,21.1221,-101.6823,America/Mexico_City,26.8,16.5,20.5,4.2,9.0,7.5,359,94,44,8.2,55,2026-06-18T06:05,2026-06-18T19:30,Llovizna intensa,10.3,69.0,Leve,Cálido
+2026-06-19,León,México,MX,Norte,21.1221,-101.6823,America/Mexico_City,25.4,15.8,19.9,2.3,7.0,11.0,157,99,56,8.8,55,2026-06-19T06:05,2026-06-19T19:30,Llovizna intensa,9.6,77.5,Leve,Templado
+2026-06-20,León,México,MX,Norte,21.1221,-101.6823,America/Mexico_City,23.7,16.5,19.5,5.8,15.0,12.8,144,97,55,6.8,80,2026-06-20T06:05,2026-06-20T19:30,Chubascos leves,7.2,76.0,Moderada,Templado
+2026-06-21,León,México,MX,Norte,21.1221,-101.6823,America/Mexico_City,24.1,15.9,19.1,5.3,7.0,13.0,124,99,51,9.3,80,2026-06-21T06:06,2026-06-21T19:31,Chubascos leves,8.2,75.0,Moderada,Templado
+2026-06-22,León,México,MX,Norte,21.1221,-101.6823,America/Mexico_City,26.0,16.2,19.3,15.6,10.0,16.6,125,97,45,9.6,95,2026-06-22T06:06,2026-06-22T19:31,Tormenta eléctrica,9.8,71.0,Moderada,Templado
+2026-06-15,Mérida,México,MX,Norte,20.9674,-89.5926,America/Mexico_City,33.9,25.2,29.5,0.2,2.0,15.7,127,91,50,8.9,95,2026-06-15T05:17,2026-06-15T18:41,Tormenta eléctrica,8.7,70.5,Leve,Cálido
+2026-06-16,Mérida,México,MX,Norte,20.9674,-89.5926,America/Mexico_City,35.0,25.1,29.6,0.0,0.0,20.4,138,88,44,8.8,3,2026-06-16T05:17,2026-06-16T18:41,Nublado,9.9,66.0,Sin lluvia,Cálido
+2026-06-17,Mérida,México,MX,Norte,20.9674,-89.5926,America/Mexico_City,36.3,24.8,30.4,0.0,0.0,18.6,139,90,44,9.0,95,2026-06-17T05:17,2026-06-17T18:41,Tormenta eléctrica,11.5,67.0,Sin lluvia,Muy cálido
+2026-06-18,Mérida,México,MX,Norte,20.9674,-89.5926,America/Mexico_City,37.5,26.2,31.2,0.0,0.0,24.3,141,87,37,8.2,95,2026-06-18T05:17,2026-06-18T18:41,Tormenta eléctrica,11.3,62.0,Sin lluvia,Muy cálido
+2026-06-19,Mérida,México,MX,Norte,20.9674,-89.5926,America/Mexico_City,36.9,26.7,31.3,0.0,0.0,22.4,132,85,39,8.9,95,2026-06-19T05:17,2026-06-19T18:42,Tormenta eléctrica,10.2,62.0,Sin lluvia,Muy cálido
+2026-06-20,Mérida,México,MX,Norte,20.9674,-89.5926,America/Mexico_City,36.8,25.6,30.7,0.0,0.0,21.1,120,89,34,8.9,3,2026-06-20T05:17,2026-06-20T18:42,Nublado,11.2,61.5,Sin lluvia,Muy cálido
+2026-06-21,Mérida,México,MX,Norte,20.9674,-89.5926,America/Mexico_City,35.5,25.0,29.8,0.0,0.0,18.4,124,87,41,8.8,95,2026-06-21T05:18,2026-06-21T18:42,Tormenta eléctrica,10.5,64.0,Sin lluvia,Cálido
+2026-06-22,Mérida,México,MX,Norte,20.9674,-89.5926,America/Mexico_City,35.9,26.1,30.4,0.3,1.0,19.4,119,85,32,8.4,51,2026-06-22T05:18,2026-06-22T18:42,Llovizna leve,9.8,58.5,Leve,Muy cálido
+2026-06-15,Maracay,Venezuela,VE,Caribe,10.2469,-67.5958,America/Caracas,31.3,22.4,26.6,7.6,4.0,17.0,122,95,42,8.2,81,2026-06-15T06:09,2026-06-15T18:52,Chubascos moderados,8.9,68.5,Moderada,Cálido
+2026-06-16,Maracay,Venezuela,VE,Caribe,10.2469,-67.5958,America/Caracas,30.5,21.6,25.8,2.4,10.0,11.2,121,84,44,8.2,53,2026-06-16T06:09,2026-06-16T18:52,Llovizna moderada,8.9,64.0,Leve,Cálido
+2026-06-17,Maracay,Venezuela,VE,Caribe,10.2469,-67.5958,America/Caracas,30.6,22.7,25.1,13.2,7.0,11.3,138,91,48,8.7,82,2026-06-17T06:09,2026-06-17T18:52,Chubascos intensos,7.9,69.5,Moderada,Cálido
+2026-06-18,Maracay,Venezuela,VE,Caribe,10.2469,-67.5958,America/Caracas,32.4,22.0,25.2,12.7,7.0,12.1,147,94,39,8.8,81,2026-06-18T06:09,2026-06-18T18:53,Chubascos moderados,10.4,66.5,Moderada,Cálido
+2026-06-19,Maracay,Venezuela,VE,Caribe,10.2469,-67.5958,America/Caracas,30.8,22.4,25.7,1.5,3.0,11.6,130,93,47,8.2,53,2026-06-19T06:09,2026-06-19T18:53,Llovizna moderada,8.4,70.0,Leve,Cálido
+2026-06-20,Maracay,Venezuela,VE,Caribe,10.2469,-67.5958,America/Caracas,31.7,21.2,26.2,2.0,9.0,8.8,156,96,41,8.3,53,2026-06-20T06:10,2026-06-20T18:53,Llovizna moderada,10.5,68.5,Leve,Cálido
+2026-06-21,Maracay,Venezuela,VE,Caribe,10.2469,-67.5958,America/Caracas,31.6,22.5,26.5,6.5,8.0,11.5,121,81,45,8.2,95,2026-06-21T06:10,2026-06-21T18:53,Tormenta eléctrica,9.1,63.0,Moderada,Cálido
+2026-06-22,Maracay,Venezuela,VE,Caribe,10.2469,-67.5958,America/Caracas,32.7,23.3,27.5,0.0,0.0,16.7,125,74,40,8.8,2,2026-06-22T06:10,2026-06-22T18:53,Parcialmente nublado,9.4,57.0,Sin lluvia,Cálido
+2026-06-15,Barquisimeto,Venezuela,VE,Caribe,10.0647,-69.3474,America/Caracas,29.5,21.4,25.0,2.0,12.0,22.2,108,93,51,6.8,51,2026-06-15T06:16,2026-06-15T18:59,Llovizna leve,8.1,72.0,Leve,Cálido
+2026-06-16,Barquisimeto,Venezuela,VE,Caribe,10.0647,-69.3474,America/Caracas,29.1,20.2,24.5,0.2,2.0,19.7,97,93,50,8.4,51,2026-06-16T06:16,2026-06-16T18:59,Llovizna leve,8.9,71.5,Leve,Cálido
+2026-06-17,Barquisimeto,Venezuela,VE,Caribe,10.0647,-69.3474,America/Caracas,29.4,21.1,24.8,4.2,5.0,21.9,94,90,48,8.8,95,2026-06-17T06:16,2026-06-17T18:59,Tormenta eléctrica,8.3,69.0,Leve,Cálido
+2026-06-18,Barquisimeto,Venezuela,VE,Caribe,10.0647,-69.3474,America/Caracas,29.4,21.5,24.0,9.4,12.0,20.4,98,98,55,8.1,80,2026-06-18T06:17,2026-06-18T18:59,Chubascos leves,7.9,76.5,Moderada,Cálido
+2026-06-19,Barquisimeto,Venezuela,VE,Caribe,10.0647,-69.3474,America/Caracas,28.9,20.9,24.6,3.7,7.0,20.6,98,97,51,8.8,80,2026-06-19T06:17,2026-06-19T19:00,Chubascos leves,8.0,74.0,Leve,Cálido
+2026-06-20,Barquisimeto,Venezuela,VE,Caribe,10.0647,-69.3474,America/Caracas,30.9,21.4,25.7,3.3,5.0,21.3,98,93,42,8.8,80,2026-06-20T06:17,2026-06-20T19:00,Chubascos leves,9.5,67.5,Leve,Cálido
+2026-06-21,Barquisimeto,Venezuela,VE,Caribe,10.0647,-69.3474,America/Caracas,31.3,22.0,26.2,1.4,4.0,19.4,106,81,41,8.8,53,2026-06-21T06:17,2026-06-21T19:00,Llovizna moderada,9.3,61.0,Leve,Cálido
+2026-06-22,Barquisimeto,Venezuela,VE,Caribe,10.0647,-69.3474,America/Caracas,30.2,21.3,25.6,2.2,9.0,21.7,108,97,50,8.8,53,2026-06-22T06:18,2026-06-22T19:00,Llovizna moderada,8.9,73.5,Leve,Cálido
+2026-06-15,Pereira,Colombia,CO,Andina,4.8133,-75.6961,America/Bogota,23.1,17.0,19.8,5.1,19.0,8.5,24,98,65,7.2,55,2026-06-15T05:51,2026-06-15T18:15,Llovizna intensa,6.1,81.5,Moderada,Templado
+2026-06-16,Pereira,Colombia,CO,Andina,4.8133,-75.6961,America/Bogota,24.1,16.3,19.5,4.9,12.0,9.8,53,100,56,8.2,81,2026-06-16T05:51,2026-06-16T18:15,Chubascos moderados,7.8,78.0,Leve,Templado
+2026-06-17,Pereira,Colombia,CO,Andina,4.8133,-75.6961,America/Bogota,26.2,16.8,20.1,6.0,14.0,8.4,53,100,49,8.6,55,2026-06-17T05:51,2026-06-17T18:15,Llovizna intensa,9.4,74.5,Moderada,Cálido
+2026-06-18,Pereira,Colombia,CO,Andina,4.8133,-75.6961,America/Bogota,25.9,16.3,19.5,9.6,16.0,8.5,30,99,45,8.6,80,2026-06-18T05:52,2026-06-18T18:16,Chubascos leves,9.6,72.0,Moderada,Templado
+2026-06-19,Pereira,Colombia,CO,Andina,4.8133,-75.6961,America/Bogota,25.1,16.0,19.7,5.7,14.0,9.6,90,100,57,8.8,95,2026-06-19T05:52,2026-06-19T18:16,Tormenta eléctrica,9.1,78.5,Moderada,Templado
+2026-06-20,Pereira,Colombia,CO,Andina,4.8133,-75.6961,America/Bogota,25.3,16.8,20.2,5.0,12.0,8.6,60,97,51,8.7,80,2026-06-20T05:52,2026-06-20T18:16,Chubascos leves,8.5,74.0,Leve,Cálido
+2026-06-21,Pereira,Colombia,CO,Andina,4.8133,-75.6961,America/Bogota,26.1,16.9,20.0,8.6,10.0,11.2,88,99,51,8.7,95,2026-06-21T05:52,2026-06-21T18:16,Tormenta eléctrica,9.2,75.0,Moderada,Templado
+2026-06-22,Pereira,Colombia,CO,Andina,4.8133,-75.6961,America/Bogota,24.9,17.1,19.3,17.9,16.0,8.2,32,100,63,8.6,95,2026-06-22T05:52,2026-06-22T18:16,Tormenta eléctrica,7.8,81.5,Moderada,Templado
+2026-06-15,Bucaramanga,Colombia,CO,Andina,7.1193,-73.1227,America/Bogota,25.2,20.6,21.8,5.8,15.0,5.4,132,98,62,8.8,80,2026-06-15T05:36,2026-06-15T18:08,Chubascos leves,4.6,80.0,Moderada,Cálido
+2026-06-16,Bucaramanga,Colombia,CO,Andina,7.1193,-73.1227,America/Bogota,24.7,19.4,21.8,5.3,17.0,6.4,95,99,64,8.8,53,2026-06-16T05:37,2026-06-16T18:09,Llovizna moderada,5.3,81.5,Moderada,Cálido
+2026-06-17,Bucaramanga,Colombia,CO,Andina,7.1193,-73.1227,America/Bogota,26.8,19.8,22.0,21.8,17.0,8.8,51,100,57,8.8,95,2026-06-17T05:37,2026-06-17T18:09,Tormenta eléctrica,7.0,78.5,Fuerte,Cálido
+2026-06-18,Bucaramanga,Colombia,CO,Andina,7.1193,-73.1227,America/Bogota,25.9,19.4,21.6,27.0,21.0,7.3,77,100,61,8.4,95,2026-06-18T05:37,2026-06-18T18:09,Tormenta eléctrica,6.5,80.5,Fuerte,Cálido
+2026-06-19,Bucaramanga,Colombia,CO,Andina,7.1193,-73.1227,America/Bogota,26.7,19.3,22.3,9.2,14.0,6.9,54,98,67,8.2,95,2026-06-19T05:37,2026-06-19T18:09,Tormenta eléctrica,7.4,82.5,Moderada,Cálido
+2026-06-20,Bucaramanga,Colombia,CO,Andina,7.1193,-73.1227,America/Bogota,26.0,19.6,22.6,3.4,13.0,8.0,62,96,67,8.6,53,2026-06-20T05:37,2026-06-20T18:10,Llovizna moderada,6.4,81.5,Leve,Cálido
+2026-06-21,Bucaramanga,Colombia,CO,Andina,7.1193,-73.1227,America/Bogota,26.8,19.4,22.7,2.0,8.0,9.9,142,99,63,7.8,53,2026-06-21T05:38,2026-06-21T18:10,Llovizna moderada,7.4,81.0,Leve,Cálido
+2026-06-22,Bucaramanga,Colombia,CO,Andina,7.1193,-73.1227,America/Bogota,26.5,20.0,22.5,5.9,12.0,8.4,301,100,60,8.7,80,2026-06-22T05:38,2026-06-22T18:10,Chubascos leves,6.5,80.0,Moderada,Cálido
+2026-06-15,Piura,Perú,PE,Costa,-5.1945,-80.6328,America/Lima,32.2,22.9,26.3,0.0,0.0,20.3,175,79,40,7.8,3,2026-06-15T06:28,2026-06-15T18:17,Nublado,9.3,59.5,Sin lluvia,Cálido
+2026-06-16,Piura,Perú,PE,Costa,-5.1945,-80.6328,America/Lima,32.5,21.2,25.8,0.0,0.0,19.0,199,91,42,7.8,3,2026-06-16T06:28,2026-06-16T18:17,Nublado,11.3,66.5,Sin lluvia,Cálido
+2026-06-17,Piura,Perú,PE,Costa,-5.1945,-80.6328,America/Lima,31.8,22.1,26.0,0.0,0.0,18.7,204,83,42,7.8,3,2026-06-17T06:28,2026-06-17T18:18,Nublado,9.7,62.5,Sin lluvia,Cálido
+2026-06-18,Piura,Perú,PE,Costa,-5.1945,-80.6328,America/Lima,30.2,22.9,26.0,0.0,0.0,19.6,172,76,49,7.6,3,2026-06-18T06:29,2026-06-18T18:18,Nublado,7.3,62.5,Sin lluvia,Cálido
+2026-06-19,Piura,Perú,PE,Costa,-5.1945,-80.6328,America/Lima,31.7,21.7,25.8,0.0,0.0,23.6,170,87,40,7.8,3,2026-06-19T06:29,2026-06-19T18:18,Nublado,10.0,63.5,Sin lluvia,Cálido
+2026-06-20,Piura,Perú,PE,Costa,-5.1945,-80.6328,America/Lima,31.9,21.6,25.9,0.0,0.0,21.1,176,85,41,7.8,3,2026-06-20T06:29,2026-06-20T18:18,Nublado,10.3,63.0,Sin lluvia,Cálido
+2026-06-21,Piura,Perú,PE,Costa,-5.1945,-80.6328,America/Lima,31.4,21.5,25.4,0.0,0.0,19.5,174,87,43,7.8,2,2026-06-21T06:29,2026-06-21T18:19,Parcialmente nublado,9.9,65.0,Sin lluvia,Cálido
+2026-06-22,Piura,Perú,PE,Costa,-5.1945,-80.6328,America/Lima,33.4,21.8,26.0,0.0,0.0,20.1,184,85,37,7.8,3,2026-06-22T06:29,2026-06-22T18:19,Nublado,11.6,61.0,Sin lluvia,Cálido
+2026-06-15,Chiclayo,Perú,PE,Costa,-6.7714,-79.8409,America/Lima,27.7,22.2,24.0,0.0,0.0,19.7,178,88,55,7.4,3,2026-06-15T06:27,2026-06-15T18:11,Nublado,5.5,71.5,Sin lluvia,Cálido
+2026-06-16,Chiclayo,Perú,PE,Costa,-6.7714,-79.8409,America/Lima,26.7,21.2,23.3,0.0,0.0,14.4,193,95,61,6.6,3,2026-06-16T06:28,2026-06-16T18:11,Nublado,5.5,78.0,Sin lluvia,Cálido
+2026-06-17,Chiclayo,Perú,PE,Costa,-6.7714,-79.8409,America/Lima,28.4,20.6,23.8,0.0,0.0,18.0,195,93,52,7.5,2,2026-06-17T06:28,2026-06-17T18:12,Parcialmente nublado,7.8,72.5,Sin lluvia,Cálido
+2026-06-18,Chiclayo,Perú,PE,Costa,-6.7714,-79.8409,America/Lima,27.2,21.8,24.0,0.0,0.0,20.3,182,90,61,6.6,2,2026-06-18T06:28,2026-06-18T18:12,Parcialmente nublado,5.4,75.5,Sin lluvia,Cálido
+2026-06-19,Chiclayo,Perú,PE,Costa,-6.7714,-79.8409,America/Lima,28.1,21.5,24.0,0.0,0.0,21.5,182,90,53,7.5,2,2026-06-19T06:28,2026-06-19T18:12,Parcialmente nublado,6.6,71.5,Sin lluvia,Cálido
+2026-06-20,Chiclayo,Perú,PE,Costa,-6.7714,-79.8409,America/Lima,27.3,21.6,23.8,0.0,0.0,21.0,179,86,56,7.4,1,2026-06-20T06:29,2026-06-20T18:12,Mayormente despejado,5.7,71.0,Sin lluvia,Cálido
+2026-06-21,Chiclayo,Perú,PE,Costa,-6.7714,-79.8409,America/Lima,26.4,20.6,23.2,0.0,0.0,20.7,175,88,59,7.5,1,2026-06-21T06:29,2026-06-21T18:13,Mayormente despejado,5.8,73.5,Sin lluvia,Cálido
+2026-06-22,Chiclayo,Perú,PE,Costa,-6.7714,-79.8409,America/Lima,27.9,20.6,23.6,0.0,0.0,20.3,183,87,52,7.5,2,2026-06-22T06:29,2026-06-22T18:13,Parcialmente nublado,7.3,69.5,Sin lluvia,Cálido
+2026-06-15,Arica,Chile,CL,Norte,-18.4783,-70.3126,America/Santiago,19.6,13.8,16.7,0.0,0.0,10.1,267,97,73,6.1,3,2026-06-15T07:10,2026-06-15T18:12,Nublado,5.8,85.0,Sin lluvia,Templado
+2026-06-16,Arica,Chile,CL,Norte,-18.4783,-70.3126,America/Santiago,19.4,14.2,16.6,0.0,0.0,10.3,262,96,75,6.2,3,2026-06-16T07:11,2026-06-16T18:12,Nublado,5.2,85.5,Sin lluvia,Templado
+2026-06-17,Arica,Chile,CL,Norte,-18.4783,-70.3126,America/Santiago,20.9,15.4,18.0,0.0,0.0,14.0,260,93,62,5.8,3,2026-06-17T07:11,2026-06-17T18:12,Nublado,5.5,77.5,Sin lluvia,Templado
+2026-06-18,Arica,Chile,CL,Norte,-18.4783,-70.3126,America/Santiago,20.8,17.3,18.7,1.0,3.0,12.7,255,80,60,6.0,53,2026-06-18T07:11,2026-06-18T18:12,Llovizna moderada,3.5,70.0,Leve,Templado
+2026-06-19,Arica,Chile,CL,Norte,-18.4783,-70.3126,America/Santiago,20.3,16.4,18.5,0.2,2.0,12.4,266,84,65,6.0,51,2026-06-19T07:11,2026-06-19T18:13,Llovizna leve,3.9,74.5,Leve,Templado
+2026-06-20,Arica,Chile,CL,Norte,-18.4783,-70.3126,America/Santiago,20.6,17.4,18.6,0.0,0.0,12.7,280,79,61,5.8,3,2026-06-20T07:12,2026-06-20T18:13,Nublado,3.2,70.0,Sin lluvia,Templado
+2026-06-21,Arica,Chile,CL,Norte,-18.4783,-70.3126,America/Santiago,20.4,17.4,18.6,0.0,0.0,12.0,256,74,63,5.8,3,2026-06-21T07:12,2026-06-21T18:13,Nublado,3.0,68.5,Sin lluvia,Templado
+2026-06-22,Arica,Chile,CL,Norte,-18.4783,-70.3126,America/Santiago,19.3,16.0,17.7,0.3,3.0,12.9,261,79,68,5.8,51,2026-06-22T07:12,2026-06-22T18:13,Llovizna leve,3.3,73.5,Leve,Templado
+2026-06-15,La Serena,Chile,CL,Norte,-29.9027,-71.2519,America/Santiago,14.3,8.2,10.6,0.0,0.0,6.1,295,100,73,3.0,3,2026-06-15T07:38,2026-06-15T17:52,Nublado,6.1,86.5,Sin lluvia,Templado
+2026-06-16,La Serena,Chile,CL,Norte,-29.9027,-71.2519,America/Santiago,14.5,8.2,10.7,0.0,0.0,6.2,294,100,75,3.8,3,2026-06-16T07:38,2026-06-16T17:52,Nublado,6.3,87.5,Sin lluvia,Templado
+2026-06-17,La Serena,Chile,CL,Norte,-29.9027,-71.2519,America/Santiago,16.5,8.1,12.1,0.7,4.0,9.0,244,100,65,3.0,51,2026-06-17T07:39,2026-06-17T17:52,Llovizna leve,8.4,82.5,Leve,Templado
+2026-06-18,La Serena,Chile,CL,Norte,-29.9027,-71.2519,America/Santiago,18.9,10.8,14.3,0.9,6.0,10.8,235,91,61,4.1,51,2026-06-18T07:39,2026-06-18T17:52,Llovizna leve,8.1,76.0,Leve,Templado
+2026-06-19,La Serena,Chile,CL,Norte,-29.9027,-71.2519,America/Santiago,19.8,8.6,13.6,0.0,0.0,9.7,23,94,47,3.6,3,2026-06-19T07:39,2026-06-19T17:52,Nublado,11.2,70.5,Sin lluvia,Templado
+2026-06-20,La Serena,Chile,CL,Norte,-29.9027,-71.2519,America/Santiago,17.8,8.4,12.5,0.0,0.0,7.0,282,93,61,3.4,3,2026-06-20T07:40,2026-06-20T17:53,Nublado,9.4,77.0,Sin lluvia,Templado
+2026-06-21,La Serena,Chile,CL,Norte,-29.9027,-71.2519,America/Santiago,17.7,8.8,12.3,0.2,2.0,9.3,258,95,38,3.9,51,2026-06-21T07:40,2026-06-21T17:53,Llovizna leve,8.9,66.5,Leve,Templado
+2026-06-22,La Serena,Chile,CL,Norte,-29.9027,-71.2519,America/Santiago,19.1,5.5,11.2,0.0,0.0,8.7,249,79,34,4.0,2,2026-06-22T07:40,2026-06-22T17:53,Parcialmente nublado,13.6,56.5,Sin lluvia,Templado
+2026-06-15,Posadas,Argentina,AR,NEA,-27.3671,-55.896,America/Argentina/Buenos_Aires,15.8,10.6,12.9,0.0,0.0,10.9,158,94,61,3.9,3,2026-06-15T07:31,2026-06-15T17:56,Nublado,5.2,77.5,Sin lluvia,Templado
+2026-06-16,Posadas,Argentina,AR,NEA,-27.3671,-55.896,America/Argentina/Buenos_Aires,17.5,8.7,12.4,0.0,0.0,7.5,154,94,53,4.2,3,2026-06-16T07:31,2026-06-16T17:56,Nublado,8.8,73.5,Sin lluvia,Templado
+2026-06-17,Posadas,Argentina,AR,NEA,-27.3671,-55.896,America/Argentina/Buenos_Aires,21.8,10.1,14.6,0.0,0.0,12.1,122,92,47,4.3,3,2026-06-17T07:32,2026-06-17T17:56,Nublado,11.7,69.5,Sin lluvia,Templado
+2026-06-18,Posadas,Argentina,AR,NEA,-27.3671,-55.896,America/Argentina/Buenos_Aires,20.6,13.2,16.8,0.0,0.0,27.1,53,72,52,2.6,3,2026-06-18T07:32,2026-06-18T17:57,Nublado,7.4,62.0,Sin lluvia,Templado
+2026-06-19,Posadas,Argentina,AR,NEA,-27.3671,-55.896,America/Argentina/Buenos_Aires,19.4,13.2,15.1,20.4,15.0,21.6,225,96,52,0.8,95,2026-06-19T07:32,2026-06-19T17:57,Tormenta eléctrica,6.2,74.0,Fuerte,Templado
+2026-06-20,Posadas,Argentina,AR,NEA,-27.3671,-55.896,America/Argentina/Buenos_Aires,15.2,11.2,13.0,0.1,1.0,10.2,137,92,59,4.4,51,2026-06-20T07:32,2026-06-20T17:57,Llovizna leve,4.0,75.5,Leve,Templado
+2026-06-21,Posadas,Argentina,AR,NEA,-27.3671,-55.896,America/Argentina/Buenos_Aires,18.6,10.1,14.0,0.0,0.0,10.7,84,96,65,4.4,3,2026-06-21T07:33,2026-06-21T17:57,Nublado,8.5,80.5,Sin lluvia,Templado
+2026-06-22,Posadas,Argentina,AR,NEA,-27.3671,-55.896,America/Argentina/Buenos_Aires,15.8,9.9,13.4,20.4,12.0,17.8,200,97,61,3.2,95,2026-06-22T07:33,2026-06-22T17:58,Tormenta eléctrica,5.9,79.0,Fuerte,Templado
+2026-06-15,Resistencia,Argentina,AR,NEA,-27.451,-58.986,America/Argentina/Buenos_Aires,16.3,10.2,13.0,0.0,0.0,7.9,163,91,61,4.3,3,2026-06-15T07:44,2026-06-15T18:08,Nublado,6.1,76.0,Sin lluvia,Templado
+2026-06-16,Resistencia,Argentina,AR,NEA,-27.451,-58.986,America/Argentina/Buenos_Aires,17.8,7.9,12.2,0.0,0.0,5.4,77,100,60,4.2,3,2026-06-16T07:44,2026-06-16T18:09,Nublado,9.9,80.0,Sin lluvia,Templado
+2026-06-17,Resistencia,Argentina,AR,NEA,-27.451,-58.986,America/Argentina/Buenos_Aires,19.2,8.1,13.3,0.0,0.0,11.4,99,100,49,3.8,3,2026-06-17T07:44,2026-06-17T18:09,Nublado,11.1,74.5,Sin lluvia,Templado
+2026-06-18,Resistencia,Argentina,AR,NEA,-27.451,-58.986,America/Argentina/Buenos_Aires,21.8,12.6,16.3,45.8,9.0,17.1,44,99,66,1.8,96,2026-06-18T07:44,2026-06-18T18:09,Tormenta con granizo leve,9.2,82.5,Fuerte,Templado
+2026-06-19,Resistencia,Argentina,AR,NEA,-27.451,-58.986,America/Argentina/Buenos_Aires,17.4,10.3,14.0,9.0,4.0,19.7,214,99,54,3.6,95,2026-06-19T07:45,2026-06-19T18:09,Tormenta eléctrica,7.1,76.5,Moderada,Templado
+2026-06-20,Resistencia,Argentina,AR,NEA,-27.451,-58.986,America/Argentina/Buenos_Aires,16.7,7.7,11.7,0.0,0.0,12.3,71,93,59,4.2,3,2026-06-20T07:45,2026-06-20T18:09,Nublado,9.0,76.0,Sin lluvia,Templado
+2026-06-21,Resistencia,Argentina,AR,NEA,-27.451,-58.986,America/Argentina/Buenos_Aires,18.0,9.0,13.2,0.1,1.0,13.5,97,95,62,3.4,51,2026-06-21T07:45,2026-06-21T18:09,Llovizna leve,9.0,78.5,Leve,Templado
+2026-06-22,Resistencia,Argentina,AR,NEA,-27.451,-58.986,America/Argentina/Buenos_Aires,15.9,8.9,12.5,0.5,2.0,17.7,198,94,49,4.2,51,2026-06-22T07:45,2026-06-22T18:10,Llovizna leve,7.0,71.5,Leve,Templado
+2026-06-15,Goiânia,Brasil,BR,Centro-Oeste,-16.6869,-49.2648,America/Sao_Paulo,30.0,17.8,23.8,0.4,3.0,8.2,183,94,40,6.2,51,2026-06-15T06:43,2026-06-15T17:51,Llovizna leve,12.2,67.0,Leve,Cálido
+2026-06-16,Goiânia,Brasil,BR,Centro-Oeste,-16.6869,-49.2648,America/Sao_Paulo,27.8,18.9,23.3,0.4,3.0,11.6,160,95,47,6.1,51,2026-06-16T06:43,2026-06-16T17:51,Llovizna leve,8.9,71.0,Leve,Cálido
+2026-06-17,Goiânia,Brasil,BR,Centro-Oeste,-16.6869,-49.2648,America/Sao_Paulo,27.8,16.9,22.0,0.0,0.0,11.5,159,93,37,6.1,3,2026-06-17T06:43,2026-06-17T17:51,Nublado,10.9,65.0,Sin lluvia,Cálido
+2026-06-18,Goiânia,Brasil,BR,Centro-Oeste,-16.6869,-49.2648,America/Sao_Paulo,29.4,14.8,22.2,0.0,0.0,10.1,128,78,25,6.2,3,2026-06-18T06:44,2026-06-18T17:52,Nublado,14.6,51.5,Sin lluvia,Cálido
+2026-06-19,Goiânia,Brasil,BR,Centro-Oeste,-16.6869,-49.2648,America/Sao_Paulo,30.6,17.8,24.0,0.0,0.0,9.6,93,77,27,6.2,2,2026-06-19T06:44,2026-06-19T17:52,Parcialmente nublado,12.8,52.0,Sin lluvia,Cálido
+2026-06-20,Goiânia,Brasil,BR,Centro-Oeste,-16.6869,-49.2648,America/Sao_Paulo,28.5,18.7,23.6,0.1,1.0,8.1,300,77,39,5.8,51,2026-06-20T06:44,2026-06-20T17:52,Llovizna leve,9.8,58.0,Leve,Cálido
+2026-06-21,Goiânia,Brasil,BR,Centro-Oeste,-16.6869,-49.2648,America/Sao_Paulo,28.3,17.4,22.7,0.0,0.0,6.5,139,91,38,5.6,3,2026-06-21T06:44,2026-06-21T17:52,Nublado,10.9,64.5,Sin lluvia,Cálido
+2026-06-22,Goiânia,Brasil,BR,Centro-Oeste,-16.6869,-49.2648,America/Sao_Paulo,29.2,18.9,23.9,0.0,0.0,9.6,56,74,34,5.8,3,2026-06-22T06:45,2026-06-22T17:53,Nublado,10.3,54.0,Sin lluvia,Cálido
+2026-06-15,Campo Grande,Brasil,BR,Centro-Oeste,-20.4697,-54.6201,America/Campo_Grande,21.2,16.6,18.4,0.1,1.0,10.2,207,99,74,5.1,51,2026-06-15T06:12,2026-06-15T17:05,Llovizna leve,4.6,86.5,Leve,Templado
+2026-06-16,Campo Grande,Brasil,BR,Centro-Oeste,-20.4697,-54.6201,America/Campo_Grande,22.5,15.0,18.4,0.6,3.0,10.6,133,98,71,4.4,51,2026-06-16T06:12,2026-06-16T17:06,Llovizna leve,7.5,84.5,Leve,Templado
+2026-06-17,Campo Grande,Brasil,BR,Centro-Oeste,-20.4697,-54.6201,America/Campo_Grande,24.4,16.0,19.4,0.5,2.0,13.7,107,96,62,4.2,51,2026-06-17T06:12,2026-06-17T17:06,Llovizna leve,8.4,79.0,Leve,Templado
+2026-06-18,Campo Grande,Brasil,BR,Centro-Oeste,-20.4697,-54.6201,America/Campo_Grande,25.0,15.8,19.6,0.0,0.0,20.2,76,91,51,5.4,3,2026-06-18T06:13,2026-06-18T17:06,Nublado,9.2,71.0,Sin lluvia,Templado
+2026-06-19,Campo Grande,Brasil,BR,Centro-Oeste,-20.4697,-54.6201,America/Campo_Grande,26.3,17.3,19.8,25.8,13.0,20.4,351,100,54,5.2,95,2026-06-19T06:13,2026-06-19T17:06,Tormenta eléctrica,9.0,77.0,Fuerte,Templado
+2026-06-20,Campo Grande,Brasil,BR,Centro-Oeste,-20.4697,-54.6201,America/Campo_Grande,19.0,12.3,15.4,1.0,5.0,13.4,253,99,63,4.4,53,2026-06-20T06:13,2026-06-20T17:06,Llovizna moderada,6.7,81.0,Leve,Templado
+2026-06-21,Campo Grande,Brasil,BR,Centro-Oeste,-20.4697,-54.6201,America/Campo_Grande,25.4,11.7,19.1,0.0,0.0,13.9,26,86,61,5.6,0,2026-06-21T06:13,2026-06-21T17:07,Despejado,13.7,73.5,Sin lluvia,Templado
+2026-06-22,Campo Grande,Brasil,BR,Centro-Oeste,-20.4697,-54.6201,America/Campo_Grande,24.5,16.9,21.0,17.6,15.0,24.8,333,99,71,5.5,96,2026-06-22T06:14,2026-06-22T17:07,Tormenta con granizo leve,7.6,85.0,Moderada,Cálido
+2026-06-15,Natal,Brasil,BR,Nordeste,-5.7945,-35.211,America/Fortaleza,29.1,22.9,25.9,0.7,5.0,18.6,144,97,66,7.4,51,2026-06-15T05:27,2026-06-15T17:15,Llovizna leve,6.2,81.5,Leve,Cálido
+2026-06-16,Natal,Brasil,BR,Nordeste,-5.7945,-35.211,America/Fortaleza,28.6,23.0,25.7,1.5,9.0,18.5,148,96,68,7.4,53,2026-06-16T05:28,2026-06-16T17:15,Llovizna moderada,5.6,82.0,Leve,Cálido
+2026-06-17,Natal,Brasil,BR,Nordeste,-5.7945,-35.211,America/Fortaleza,25.8,23.1,24.1,57.8,12.0,10.7,185,99,85,7.4,82,2026-06-17T05:28,2026-06-17T17:15,Chubascos intensos,2.7,92.0,Muy fuerte,Cálido
+2026-06-18,Natal,Brasil,BR,Nordeste,-5.7945,-35.211,America/Fortaleza,28.8,23.0,25.7,1.4,7.0,20.4,153,95,71,7.4,51,2026-06-18T05:28,2026-06-18T17:15,Llovizna leve,5.8,83.0,Leve,Cálido
+2026-06-19,Natal,Brasil,BR,Nordeste,-5.7945,-35.211,America/Fortaleza,29.0,23.2,25.7,0.7,4.0,22.8,158,90,64,7.4,51,2026-06-19T05:28,2026-06-19T17:16,Llovizna leve,5.8,77.0,Leve,Cálido
+2026-06-20,Natal,Brasil,BR,Nordeste,-5.7945,-35.211,America/Fortaleza,28.9,22.7,25.0,2.3,10.0,16.9,163,93,70,7.2,53,2026-06-20T05:29,2026-06-20T17:16,Llovizna moderada,6.2,81.5,Leve,Cálido
+2026-06-21,Natal,Brasil,BR,Nordeste,-5.7945,-35.211,America/Fortaleza,28.8,22.5,25.3,1.4,6.0,20.3,156,95,65,7.0,53,2026-06-21T05:29,2026-06-21T17:16,Llovizna moderada,6.3,80.0,Leve,Cálido
+2026-06-22,Natal,Brasil,BR,Nordeste,-5.7945,-35.211,America/Fortaleza,27.7,23.0,25.1,2.2,7.0,19.9,157,93,75,7.2,80,2026-06-22T05:29,2026-06-22T17:16,Chubascos leves,4.7,84.0,Leve,Cálido
+2026-06-15,Maceió,Brasil,BR,Nordeste,-9.6658,-35.735,America/Maceio,27.3,24.3,25.7,6.0,21.0,17.1,122,93,76,7.0,53,2026-06-15T05:36,2026-06-15T17:10,Llovizna moderada,3.0,84.5,Moderada,Cálido
+2026-06-16,Maceió,Brasil,BR,Nordeste,-9.6658,-35.735,America/Maceio,28.0,23.9,25.8,2.1,10.0,15.2,92,94,69,7.0,53,2026-06-16T05:36,2026-06-16T17:10,Llovizna moderada,4.1,81.5,Leve,Cálido
+2026-06-17,Maceió,Brasil,BR,Nordeste,-9.6658,-35.735,America/Maceio,28.1,22.3,25.5,0.6,4.0,11.2,80,96,69,7.0,51,2026-06-17T05:37,2026-06-17T17:10,Llovizna leve,5.8,82.5,Leve,Cálido
+2026-06-18,Maceió,Brasil,BR,Nordeste,-9.6658,-35.735,America/Maceio,27.4,23.8,25.5,4.0,18.0,15.0,153,95,70,7.0,53,2026-06-18T05:37,2026-06-18T17:11,Llovizna moderada,3.6,82.5,Leve,Cálido
+2026-06-19,Maceió,Brasil,BR,Nordeste,-9.6658,-35.735,America/Maceio,26.6,22.9,24.6,20.6,23.0,27.4,177,95,71,7.0,81,2026-06-19T05:37,2026-06-19T17:11,Chubascos moderados,3.7,83.0,Fuerte,Cálido
+2026-06-20,Maceió,Brasil,BR,Nordeste,-9.6658,-35.735,America/Maceio,27.4,22.5,24.5,9.0,19.0,20.0,189,98,67,7.0,80,2026-06-20T05:37,2026-06-20T17:11,Chubascos leves,4.9,82.5,Moderada,Cálido
+2026-06-21,Maceió,Brasil,BR,Nordeste,-9.6658,-35.735,America/Maceio,27.5,22.6,25.0,5.2,15.0,14.3,173,97,63,6.8,55,2026-06-21T05:38,2026-06-21T17:11,Llovizna intensa,4.9,80.0,Moderada,Cálido
+2026-06-22,Maceió,Brasil,BR,Nordeste,-9.6658,-35.735,America/Maceio,26.7,23.3,24.6,8.2,22.0,17.4,158,94,73,6.8,53,2026-06-22T05:38,2026-06-22T17:11,Llovizna moderada,3.4,83.5,Moderada,Cálido
+2026-06-15,Teresina,Brasil,BR,Nordeste,-5.0892,-42.8019,America/Fortaleza,34.3,23.4,29.2,0.0,0.0,10.6,107,94,39,7.4,1,2026-06-15T05:56,2026-06-15T17:46,Mayormente despejado,10.9,66.5,Sin lluvia,Cálido
+2026-06-16,Teresina,Brasil,BR,Nordeste,-5.0892,-42.8019,America/Fortaleza,34.0,24.2,29.4,0.0,0.0,12.0,103,91,41,7.4,1,2026-06-16T05:56,2026-06-16T17:46,Mayormente despejado,9.8,66.0,Sin lluvia,Cálido
+2026-06-17,Teresina,Brasil,BR,Nordeste,-5.0892,-42.8019,America/Fortaleza,34.2,24.1,29.2,0.2,2.0,12.9,67,87,37,7.4,51,2026-06-17T05:57,2026-06-17T17:46,Llovizna leve,10.1,62.0,Leve,Cálido
+2026-06-18,Teresina,Brasil,BR,Nordeste,-5.0892,-42.8019,America/Fortaleza,34.1,24.0,28.9,0.1,1.0,12.5,84,91,41,7.4,51,2026-06-18T05:57,2026-06-18T17:47,Llovizna leve,10.1,66.0,Leve,Cálido
+2026-06-19,Teresina,Brasil,BR,Nordeste,-5.0892,-42.8019,America/Fortaleza,33.3,23.5,28.3,0.0,0.0,14.8,129,89,37,7.4,3,2026-06-19T05:57,2026-06-19T17:47,Nublado,9.8,63.0,Sin lluvia,Cálido
+2026-06-20,Teresina,Brasil,BR,Nordeste,-5.0892,-42.8019,America/Fortaleza,33.7,24.9,28.7,0.0,0.0,11.1,132,66,36,7.4,3,2026-06-20T05:57,2026-06-20T17:47,Nublado,8.8,51.0,Sin lluvia,Cálido
+2026-06-21,Teresina,Brasil,BR,Nordeste,-5.0892,-42.8019,America/Fortaleza,34.6,23.3,28.8,0.0,0.0,8.6,49,84,36,7.3,3,2026-06-21T05:58,2026-06-21T17:47,Nublado,11.3,60.0,Sin lluvia,Cálido
+2026-06-22,Teresina,Brasil,BR,Nordeste,-5.0892,-42.8019,America/Fortaleza,32.8,23.4,28.3,0.5,4.0,11.8,50,94,42,7.2,51,2026-06-22T05:58,2026-06-22T17:47,Llovizna leve,9.4,68.0,Leve,Cálido
+2026-06-15,São Luís,Brasil,BR,Nordeste,-2.5364,-44.3068,America/Fortaleza,32.2,25.4,28.0,0.6,4.0,14.1,73,92,55,7.6,51,2026-06-15T05:58,2026-06-15T17:56,Llovizna leve,6.8,73.5,Leve,Cálido
+2026-06-16,São Luís,Brasil,BR,Nordeste,-2.5364,-44.3068,America/Fortaleza,31.6,25.5,27.9,3.3,8.0,12.5,60,94,62,7.6,95,2026-06-16T05:58,2026-06-16T17:57,Tormenta eléctrica,6.1,78.0,Leve,Cálido
+2026-06-17,São Luís,Brasil,BR,Nordeste,-2.5364,-44.3068,America/Fortaleza,30.7,24.3,27.3,2.8,8.0,14.1,53,92,60,7.6,95,2026-06-17T05:58,2026-06-17T17:57,Tormenta eléctrica,6.4,76.0,Leve,Cálido
+2026-06-18,São Luís,Brasil,BR,Nordeste,-2.5364,-44.3068,America/Fortaleza,30.8,24.8,27.1,2.4,5.0,13.4,52,92,63,7.6,55,2026-06-18T05:59,2026-06-18T17:57,Llovizna intensa,6.0,77.5,Leve,Cálido
+2026-06-19,São Luís,Brasil,BR,Nordeste,-2.5364,-44.3068,America/Fortaleza,29.7,24.8,26.4,6.2,13.0,11.0,36,92,69,7.6,80,2026-06-19T05:59,2026-06-19T17:57,Chubascos leves,4.9,80.5,Moderada,Cálido
+2026-06-20,São Luís,Brasil,BR,Nordeste,-2.5364,-44.3068,America/Fortaleza,30.9,22.7,26.0,21.1,12.0,10.3,44,100,63,7.6,95,2026-06-20T05:59,2026-06-20T17:57,Tormenta eléctrica,8.2,81.5,Fuerte,Cálido
+2026-06-21,São Luís,Brasil,BR,Nordeste,-2.5364,-44.3068,America/Fortaleza,30.9,23.0,26.7,0.1,1.0,14.4,50,98,61,7.6,51,2026-06-21T05:59,2026-06-21T17:58,Llovizna leve,7.9,79.5,Leve,Cálido
+2026-06-22,São Luís,Brasil,BR,Nordeste,-2.5364,-44.3068,America/Fortaleza,31.3,25.2,27.4,2.9,7.0,13.1,66,89,62,7.6,95,2026-06-22T05:59,2026-06-22T17:58,Tormenta eléctrica,6.1,75.5,Leve,Cálido
+2026-06-15,Porto Velho,Brasil,BR,Norte,-8.7612,-63.9004,America/Porto_Velho,32.8,24.2,27.9,0.6,4.0,9.3,124,98,50,7.0,51,2026-06-15T06:27,2026-06-15T18:04,Llovizna leve,8.6,74.0,Leve,Cálido
+2026-06-16,Porto Velho,Brasil,BR,Norte,-8.7612,-63.9004,America/Porto_Velho,31.0,23.2,26.7,6.6,7.0,11.2,170,98,62,7.0,95,2026-06-16T06:27,2026-06-16T18:04,Tormenta eléctrica,7.8,80.0,Moderada,Cálido
+2026-06-17,Porto Velho,Brasil,BR,Norte,-8.7612,-63.9004,America/Porto_Velho,31.2,23.4,26.3,3.4,12.0,9.3,173,98,59,7.0,55,2026-06-17T06:28,2026-06-17T18:05,Llovizna intensa,7.8,78.5,Leve,Cálido
+2026-06-18,Porto Velho,Brasil,BR,Norte,-8.7612,-63.9004,America/Porto_Velho,29.0,22.6,25.4,3.7,7.0,10.6,353,98,68,6.2,80,2026-06-18T06:28,2026-06-18T18:05,Chubascos leves,6.4,83.0,Leve,Cálido
+2026-06-19,Porto Velho,Brasil,BR,Norte,-8.7612,-63.9004,America/Porto_Velho,30.9,22.7,26.3,0.0,0.0,6.6,324,100,56,6.7,3,2026-06-19T06:28,2026-06-19T18:05,Nublado,8.2,78.0,Sin lluvia,Cálido
+2026-06-20,Porto Velho,Brasil,BR,Norte,-8.7612,-63.9004,America/Porto_Velho,31.3,23.1,26.4,3.9,12.0,8.6,145,98,57,7.0,55,2026-06-20T06:28,2026-06-20T18:05,Llovizna intensa,8.2,77.5,Leve,Cálido
+2026-06-21,Porto Velho,Brasil,BR,Norte,-8.7612,-63.9004,America/Porto_Velho,31.3,22.6,26.9,0.6,5.0,6.1,22,100,56,6.6,51,2026-06-21T06:29,2026-06-21T18:05,Llovizna leve,8.7,78.0,Leve,Cálido
+2026-06-22,Porto Velho,Brasil,BR,Norte,-8.7612,-63.9004,America/Porto_Velho,31.4,23.6,27.1,0.4,4.0,7.1,8,97,58,7.0,51,2026-06-22T06:29,2026-06-22T18:06,Llovizna leve,7.8,77.5,Leve,Cálido
+2026-06-15,Macapá,Brasil,BR,Norte,0.0349,-51.0694,America/Belem,30.7,24.2,27.2,3.8,13.0,14.3,73,99,64,8.0,55,2026-06-15T06:21,2026-06-15T18:28,Llovizna intensa,6.5,81.5,Leve,Cálido
+2026-06-16,Macapá,Brasil,BR,Norte,0.0349,-51.0694,America/Belem,30.4,24.2,26.4,5.2,11.0,13.6,50,97,69,8.0,55,2026-06-16T06:21,2026-06-16T18:28,Llovizna intensa,6.2,83.0,Moderada,Cálido
+2026-06-17,Macapá,Brasil,BR,Norte,0.0349,-51.0694,America/Belem,28.0,23.3,25.4,12.3,12.0,16.8,55,97,75,8.0,81,2026-06-17T06:21,2026-06-17T18:29,Chubascos moderados,4.7,86.0,Moderada,Cálido
+2026-06-18,Macapá,Brasil,BR,Norte,0.0349,-51.0694,America/Belem,30.1,23.6,26.9,0.6,3.0,16.0,59,98,61,8.0,51,2026-06-18T06:21,2026-06-18T18:29,Llovizna leve,6.5,79.5,Leve,Cálido
+2026-06-19,Macapá,Brasil,BR,Norte,0.0349,-51.0694,America/Belem,30.5,23.8,27.3,0.2,2.0,11.3,65,96,61,8.0,51,2026-06-19T06:22,2026-06-19T18:29,Llovizna leve,6.7,78.5,Leve,Cálido
+2026-06-20,Macapá,Brasil,BR,Norte,0.0349,-51.0694,America/Belem,29.8,23.8,26.8,7.7,10.0,23.2,86,98,65,8.0,95,2026-06-20T06:22,2026-06-20T18:29,Tormenta eléctrica,6.0,81.5,Moderada,Cálido
+2026-06-21,Macapá,Brasil,BR,Norte,0.0349,-51.0694,America/Belem,30.3,23.1,27.0,4.7,11.0,17.4,51,98,64,8.0,80,2026-06-21T06:22,2026-06-21T18:29,Chubascos leves,7.2,81.0,Leve,Cálido
+2026-06-22,Macapá,Brasil,BR,Norte,0.0349,-51.0694,America/Belem,30.3,24.3,27.2,1.4,12.0,12.8,59,96,65,8.0,51,2026-06-22T06:22,2026-06-22T18:30,Llovizna leve,6.0,80.5,Leve,Cálido
+2026-06-15,Boa Vista,Brasil,BR,Norte,2.8235,-60.6758,America/Boa_Vista,28.6,23.5,25.5,2.4,5.0,10.5,31,98,74,5.4,55,2026-06-15T05:54,2026-06-15T18:11,Llovizna intensa,5.1,86.0,Leve,Cálido
+2026-06-16,Boa Vista,Brasil,BR,Norte,2.8235,-60.6758,America/Boa_Vista,31.3,22.5,26.7,1.3,9.0,16.7,13,94,53,8.2,51,2026-06-16T05:54,2026-06-16T18:12,Llovizna leve,8.8,73.5,Leve,Cálido
+2026-06-17,Boa Vista,Brasil,BR,Norte,2.8235,-60.6758,America/Boa_Vista,30.3,23.2,26.6,5.2,7.0,16.7,58,98,63,8.1,80,2026-06-17T05:55,2026-06-17T18:12,Chubascos leves,7.1,80.5,Moderada,Cálido
+2026-06-18,Boa Vista,Brasil,BR,Norte,2.8235,-60.6758,America/Boa_Vista,30.4,22.4,26.3,2.2,8.0,9.9,124,97,63,8.2,53,2026-06-18T05:55,2026-06-18T18:12,Llovizna moderada,8.0,80.0,Leve,Cálido
+2026-06-19,Boa Vista,Brasil,BR,Norte,2.8235,-60.6758,America/Boa_Vista,30.2,22.5,26.1,9.7,13.0,8.8,88,99,63,7.8,95,2026-06-19T05:55,2026-06-19T18:12,Tormenta eléctrica,7.7,81.0,Moderada,Cálido
+2026-06-20,Boa Vista,Brasil,BR,Norte,2.8235,-60.6758,America/Boa_Vista,31.0,23.4,26.8,0.6,4.0,9.5,61,96,62,8.2,51,2026-06-20T05:55,2026-06-20T18:12,Llovizna leve,7.6,79.0,Leve,Cálido
+2026-06-21,Boa Vista,Brasil,BR,Norte,2.8235,-60.6758,America/Boa_Vista,31.5,23.1,27.3,5.4,12.0,13.8,69,98,59,8.2,80,2026-06-21T05:56,2026-06-21T18:13,Chubascos leves,8.4,78.5,Moderada,Cálido
+2026-06-22,Boa Vista,Brasil,BR,Norte,2.8235,-60.6758,America/Boa_Vista,31.9,24.1,27.4,8.2,11.0,14.3,60,97,58,8.0,80,2026-06-22T05:56,2026-06-22T18:13,Chubascos leves,7.8,77.5,Moderada,Cálido
+2026-06-15,Vitória,Brasil,BR,Sudeste,-20.3155,-40.3128,America/Sao_Paulo,28.8,19.4,23.5,0.2,1.0,12.9,4,98,62,5.5,51,2026-06-15T06:14,2026-06-15T17:08,Llovizna leve,9.4,80.0,Leve,Cálido
+2026-06-16,Vitória,Brasil,BR,Sudeste,-20.3155,-40.3128,America/Sao_Paulo,24.8,20.5,22.3,5.5,14.0,28.0,197,98,82,5.4,95,2026-06-16T06:14,2026-06-16T17:09,Tormenta eléctrica,4.3,90.0,Moderada,Cálido
+2026-06-17,Vitória,Brasil,BR,Sudeste,-20.3155,-40.3128,America/Sao_Paulo,24.0,19.6,21.7,0.1,1.0,21.6,200,90,68,5.4,51,2026-06-17T06:14,2026-06-17T17:09,Llovizna leve,4.4,79.0,Leve,Cálido
+2026-06-18,Vitória,Brasil,BR,Sudeste,-20.3155,-40.3128,America/Sao_Paulo,23.3,18.5,20.6,0.0,0.0,22.9,204,86,53,5.6,0,2026-06-18T06:15,2026-06-18T17:09,Despejado,4.8,69.5,Sin lluvia,Cálido
+2026-06-19,Vitória,Brasil,BR,Sudeste,-20.3155,-40.3128,America/Sao_Paulo,24.4,17.4,20.4,0.0,0.0,13.6,204,94,60,5.6,1,2026-06-19T06:15,2026-06-19T17:09,Mayormente despejado,7.0,77.0,Sin lluvia,Cálido
+2026-06-20,Vitória,Brasil,BR,Sudeste,-20.3155,-40.3128,America/Sao_Paulo,26.5,15.9,21.0,0.0,0.0,14.9,7,92,45,5.6,3,2026-06-20T06:15,2026-06-20T17:09,Nublado,10.6,68.5,Sin lluvia,Cálido
+2026-06-21,Vitória,Brasil,BR,Sudeste,-20.3155,-40.3128,America/Sao_Paulo,27.9,16.8,21.6,0.0,0.0,16.6,304,90,40,5.6,3,2026-06-21T06:15,2026-06-21T17:10,Nublado,11.1,65.0,Sin lluvia,Cálido
+2026-06-22,Vitória,Brasil,BR,Sudeste,-20.3155,-40.3128,America/Sao_Paulo,25.4,19.2,21.9,0.0,0.0,11.2,343,91,65,5.3,3,2026-06-22T06:16,2026-06-22T17:10,Nublado,6.2,78.0,Sin lluvia,Cálido

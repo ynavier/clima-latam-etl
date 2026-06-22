@@ -1,0 +1,50 @@
+# Credentials — NUNCA en el repo
+credentials/
+*.json
+!config/schemas/*.json
+*.key
+service-account*.json
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# dbt
+dbt/target/
+dbt/dbt_packages/
+dbt/logs/
+profiles.yml
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Datos generados — incluir en el repo para el deploy
+!data/
+!data/**
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
