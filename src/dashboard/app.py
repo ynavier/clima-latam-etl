@@ -324,10 +324,17 @@ def load_data() -> pd.DataFrame:
 def load_reports() -> list[dict]:
     return [json.load(open(f, encoding="utf-8")) for f in sorted(DATA_DIR.glob("quality/*.json"))]
 
-df      = load_data()
-reports = load_reports()
+try:
+    df      = load_data()
+    reports = load_reports()
+except Exception as e:
+    st.error(f"Error cargando datos: {e}")
+    st.info(f"DATA_DIR: {DATA_DIR} — existe: {DATA_DIR.exists()}")
+    st.stop()
+
 if df.empty:
-    st.warning("Sin datos. Ejecuta: python -m src.pipeline.extract.main")
+    st.warning("Sin datos disponibles.")
+    st.info(f"Buscando en: {DATA_DIR}")
     st.stop()
 
 latest      = df["date"].max()
